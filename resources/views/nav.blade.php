@@ -39,5 +39,5 @@
         </div>
     </nav>
     <div class="bg-light d-flex justify-content-center" id="rounded-header">
-        <img src="images/danceunlimited-logo.png" alt="" id="du-logo" class="mt-1 mb-4">
+        <img src="/images/danceunlimited-logo.png" alt="" id="du-logo" class="mt-1 mb-4">
     </div>

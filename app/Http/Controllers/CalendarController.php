@@ -8,11 +8,11 @@ use Illuminate\Http\Request;
 class CalendarController extends Controller
 
 {
-//    public function __construct()
-//    {
-//        $this->calendar = Calendar::all()->sortBy('day');
-//        \View::share('calendar', $this->calendar);
-//    }
+    public function __construct()
+    {
+        $this->calendars = Calendar::all();
+        \View::share('calendars', $this->calendars);
+    }
     /**
      * Display a listing of the resource.
      *
@@ -29,9 +29,10 @@ class CalendarController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function create()
+    public function create(Calendar $calendar)
     {
-        //
+        $calendar = new Calendar();
+        return view('calendars.create', compact('calendar'));
     }
 
     /**
@@ -54,7 +55,8 @@ class CalendarController extends Controller
      */
     public function show(Calendar $calendar)
     {
-        //
+        $this->authorize('update', Calendar::class);
+        return view('calendars.show', compact('calendar'));
     }
 
     /**
@@ -97,8 +99,10 @@ class CalendarController extends Controller
     {
         return request()->validate([
             'month' => 'required',
-            'day' => 'required',
+            'startday' => 'required',
+            'endday' => 'nullable',
             'event' => 'required',
+
         ]);
     }
 }

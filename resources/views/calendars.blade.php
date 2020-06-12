@@ -13,9 +13,13 @@
                         @switch($calendar->month)
                             @case('January')
                             <tr>
-                                <th>{{ $calendar->day }}</th>
+                                <th>
+                                    {{ $calendar->startday }}
+                                    @if(!empty($calendar->endday))<span class="text-muted"> - </span>@endif
+                                    {{ $calendar->endday }}
+                                </th>
                                 <td>{{ $calendar->event }}</td>
-                                <td>@include('edit-calendars')</td>
+                                @can('update', $calendar)<td><a href="/calendars/{{ $calendar->id }}">Edit</a></td>@endcan
                             </tr>
                             @break
                         @endswitch
@@ -36,13 +40,17 @@
                             @endswitch
                             @endforeach
 
-                            @foreach($calendars as $calendar)
+                            @foreach($calendars->sortby('startday') as $calendar)
                                 @switch($calendar->month)
                                     @case('February')
                                     <tr>
-                                        <th>{{ $calendar->day }}</th>
+                                        <th>
+                                            {{ $calendar->startday }}
+                                            @if(!empty($calendar->endday))<span class="text-muted"> - </span>@endif
+                                            {{ $calendar->endday }}
+                                        </th>
                                         <td>{{ $calendar->event }}</td>
-                                        <td>@include('edit-calendars')</td>
+                                        @can('update', $calendar)<td><a href="/calendars/{{ $calendar->id }}">Edit</a></td>@endcan
                                     </tr>
                                     @break
                                 @endswitch
@@ -67,9 +75,13 @@
                                         @switch($calendar->month)
                                             @case('March')
                                             <tr>
-                                                <th>{{ $calendar->day }}</th>
+                                                <th>
+                                                    {{ $calendar->startday }}
+                                                    @if(!empty($calendar->endday))<span class="text-muted"> - </span>@endif
+                                                    {{ $calendar->endday }}
+                                                </th>
                                                 <td>{{ $calendar->event }}</td>
-                                                <td>@include('edit-calendars')</td>
+                                                @can('update', $calendar)<td><a href="/calendars/{{ $calendar->id }}">Edit</a></td>@endcan
                                             </tr>
                                             @break
                                         @endswitch
@@ -94,9 +106,14 @@
                                                 @switch($calendar->month)
                                                     @case('April')
                                                     <tr>
-                                                        <th>{{ $calendar->day }}</th>
+                                                        <th>
+                                                            {{ $calendar->startday }}
+                                                            @if(!empty($calendar->endday))<span
+                                                                class="text-muted"> - </span>@endif
+                                                            {{ $calendar->endday }}
+                                                        </th>
                                                         <td>{{ $calendar->event }}</td>
-                                                        <td>@include('edit-calendars')</td>
+                                                        @can('update', $calendar)<td><a href="/calendars/{{ $calendar->id }}">Edit</a></td>@endcan
                                                     </tr>
                                                     @break
                                                 @endswitch
@@ -121,9 +138,13 @@
                                                         @switch($calendar->month)
                                                             @case('May')
                                                             <tr>
-                                                                <th>{{ $calendar->day }}</th>
+                                                                <th>
+                                                                    {{ $calendar->startday }}
+                                                                    @if(!empty($calendar->endday))<span class="text-muted"> - </span>@endif
+                                                                    {{ $calendar->endday }}
+                                                                </th>
                                                                 <td>{{ $calendar->event }}</td>
-                                                                <td>@include('edit-calendars')</td>
+                                                                @can('update', $calendar)<td><a href="/calendars/{{ $calendar->id }}">Edit</a></td>@endcan
                                                             </tr>
                                                             @break
                                                         @endswitch
@@ -148,9 +169,14 @@
                                                                 @switch($calendar->month)
                                                                     @case('June')
                                                                     <tr>
-                                                                        <th>{{ $calendar->day }}</th>
+                                                                        <th>
+                                                                            {{ $calendar->startday }}
+                                                                            @if(!empty($calendar->endday))<span
+                                                                                class="text-muted"> - </span>@endif
+                                                                            {{ $calendar->endday }}
+                                                                        </th>
                                                                         <td>{{ $calendar->event }}</td>
-                                                                        <td>@include('edit-calendars')</td>
+                                                                        @can('update', $calendar)<td><a href="/calendars/{{ $calendar->id }}">Edit</a></td>@endcan
                                                                     </tr>
                                                                     @break
                                                                 @endswitch
@@ -175,9 +201,14 @@
                                                                         @switch($calendar->month)
                                                                             @case('July')
                                                                             <tr>
-                                                                                <th>{{ $calendar->day }}</th>
+                                                                                <th>
+                                                                                    {{ $calendar->startday }}
+                                                                                    @if(!empty($calendar->endday))<span
+                                                                                        class="text-muted"> - </span>@endif
+                                                                                    {{ $calendar->endday }}
+                                                                                </th>
                                                                                 <td>{{ $calendar->event }}</td>
-                                                                                <td>@include('edit-calendars')</td>
+                                                                                @can('update', $calendar)<td><a href="/calendars/{{ $calendar->id }}">Edit</a></td>@endcan
                                                                             </tr>
                                                                             @break
                                                                         @endswitch
@@ -204,9 +235,15 @@
                                                                                 @switch($calendar->month)
                                                                                     @case('August')
                                                                                     <tr>
-                                                                                        <th>{{ $calendar->day }}</th>
+                                                                                        <th>
+                                                                                            {{ $calendar->startday }}
+                                                                                            @if(!empty($calendar->endday))
+                                                                                                <span
+                                                                                                    class="text-muted"> - </span>@endif
+                                                                                                {{ $calendar->endday }}
+                                                                                        </th>
                                                                                         <td>{{ $calendar->event }}</td>
-                                                                                        <td>@include('edit-calendars')</td>
+                                                                                        @can('update', $calendar)<td><a href="/calendars/{{ $calendar->id }}">Edit</a></td>@endcan
                                                                                     </tr>
                                                                                     @break
                                                                                 @endswitch
@@ -234,9 +271,15 @@
                                                                                         @switch($calendar->month)
                                                                                             @case('September')
                                                                                             <tr>
-                                                                                                <th>{{ $calendar->day }}</th>
+                                                                                                <th>
+                                                                                                    {{ $calendar->startday }}
+                                                                                                    @if(!empty($calendar->endday))
+                                                                                                        <span
+                                                                                                            class="text-muted"> - </span>@endif
+                                                                                                        {{ $calendar->endday }}
+                                                                                                </th>
                                                                                                 <td>{{ $calendar->event }}</td>
-                                                                                                <td>@include('edit-calendars')</td>
+                                                                                                @can('update', $calendar)<td><a href="/calendars/{{ $calendar->id }}">Edit</a></td>@endcan
                                                                                             </tr>
                                                                                             @break
                                                                                         @endswitch
@@ -264,9 +307,15 @@
                                                                                                 @switch($calendar->month)
                                                                                                     @case('October')
                                                                                                     <tr>
-                                                                                                        <th>{{ $calendar->day }}</th>
+                                                                                                        <th>
+                                                                                                            {{ $calendar->startday }}
+                                                                                                            @if(!empty($calendar->endday))
+                                                                                                                <span
+                                                                                                                    class="text-muted"> - </span>@endif
+                                                                                                                {{ $calendar->endday }}
+                                                                                                        </th>
                                                                                                         <td>{{ $calendar->event }}</td>
-                                                                                                        <td>@include('edit-calendars')</td>
+                                                                                                        @can('update', $calendar)<td><a href="/calendars/{{ $calendar->id }}">Edit</a></td>@endcan
                                                                                                     </tr>
                                                                                                     @break
                                                                                                 @endswitch
@@ -294,9 +343,15 @@
                                                                                                         @switch($calendar->month)
                                                                                                             @case('November')
                                                                                                             <tr>
-                                                                                                                <th>{{ $calendar->day }}</th>
+                                                                                                                <th>
+                                                                                                                    {{ $calendar->startday }}
+                                                                                                                    @if(!empty($calendar->endday))
+                                                                                                                        <span
+                                                                                                                            class="text-muted"> - </span>@endif
+                                                                                                                        {{ $calendar->endday }}
+                                                                                                                </th>
                                                                                                                 <td>{{ $calendar->event }}</td>
-                                                                                                                <td>@include('edit-calendars')</td>
+                                                                                                                @can('update', $calendar)<td><a href="/calendars/{{ $calendar->id }}">Edit</a></td>@endcan
                                                                                                             </tr>
                                                                                                             @break
                                                                                                         @endswitch
@@ -326,9 +381,15 @@
                                                                                                                 @switch($calendar->month)
                                                                                                                     @case('December')
                                                                                                                     <tr>
-                                                                                                                        <th>{{ $calendar->day }}</th>
+                                                                                                                        <th>
+                                                                                                                            {{ $calendar->startday }}
+                                                                                                                            @if(!empty($calendar->endday))
+                                                                                                                                <span
+                                                                                                                                    class="text-muted"> - </span>@endif
+                                                                                                                                {{ $calendar->endday }}
+                                                                                                                        </th>
                                                                                                                         <td>{{ $calendar->event }}</td>
-                                                                                                                        <td>@include('edit-calendars')</td>
+                                                                                                                        @can('update', $calendar)<td><a href="/calendars/{{ $calendar->id }}">Edit</a></td>@endcan
                                                                                                                     </tr>
                                                                                                                     @break
                                                                                                                 @endswitch

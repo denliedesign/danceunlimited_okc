@@ -121,6 +121,7 @@
             <div id="calendar" class="area mt-5 pb-5">
                 <div class="container">
                     <h1 class="txt-black-title text-center">Calendar</h1>
+                    @can('update', \App\Calendar::class) <p class="text-center"><a href="/calendars/create">New Calendar Item</a></p> @endcan
                     <div id="calendar">
                         <div class="horizontal-controls d-flex justify-content-center my-2">
                             <button id="slide-left-calendar" class="mr-5"><i class="arrow click-left d-flex align-self-center"></i></button>
@@ -135,16 +136,6 @@
 
                 </div>
             </div>
-            <div class="container" id="create-menu">
-                @can('update', \App\Calendar::class)
-                    <div class="p-3">
-                        <h2>New Calendar Item</h2>
-                        <form action="calendars" method="POST">
-                            @include('forms.calendar')
-                            <button type="submit" class="btn btn-primary">Add Calendar Item</button>
-                        </form>
-                    </div>
-                @endcan
-            </div>
+
 
     @endsection

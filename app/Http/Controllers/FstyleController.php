@@ -29,9 +29,10 @@ class FstyleController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function create()
+    public function create(Fstyle $fstyle)
     {
-        //
+        $fstyle = new Fstyle();
+        return view('fstyles.create', compact('fstyle'));
     }
 
     /**
@@ -54,7 +55,8 @@ class FstyleController extends Controller
      */
     public function show(Fstyle $fstyle)
     {
-        //
+        $this->authorize('update', Fstyle::class);
+        return view('fstyles.show', compact('fstyle'));
     }
 
     /**

@@ -25,6 +25,7 @@
                                            target="_blank">
                                             <button class="btn btn-danger btn-sm mr-3">ENROLL</button>
                                         </a></td>
+                                    @can('update', \App\Fstyle::class) <td><p><a href="/fstyles/{{ $fstyle->id }}">Edit</a></p></td> @endcan
                                 </tr>
                                 @break
                             @endswitch
@@ -63,6 +64,7 @@
                                                    target="_blank">
                                                     <button class="btn btn-danger btn-sm mr-3">ENROLL</button>
                                                 </a></td>
+                                            @can('update', \App\Fstyle::class) <td><p><a href="/fstyles/{{ $fstyle->id }}">Edit</a></p></td> @endcan
                                         </tr>
                                         @break
                                     @endswitch
@@ -101,6 +103,7 @@
                                                            target="_blank">
                                                             <button class="btn btn-danger btn-sm mr-3">ENROLL</button>
                                                         </a></td>
+                                                    @can('update', \App\Fstyle::class) <td><p><a href="/fstyles/{{ $fstyle->id }}">Edit</a></p></td> @endcan
                                                 </tr>
                                                 @break
                                             @endswitch
@@ -139,6 +142,7 @@
                                                                    target="_blank">
                                                                     <button class="btn btn-danger btn-sm mr-3">ENROLL</button>
                                                                 </a></td>
+                                                            @can('update', \App\Fstyle::class) <td><p><a href="/fstyles/{{ $fstyle->id }}">Edit</a></p></td> @endcan
                                                         </tr>
                                                         @break
                                                     @endswitch

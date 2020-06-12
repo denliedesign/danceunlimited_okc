@@ -1,6 +1,7 @@
 <div class="form-group">
     <label for="month">Month</label>
     <select class="form-control" id="month" name="month">
+        <option value="{{ $calendar->month }}">{{ $calendar->month }}</option>
         <option value="January">January</option>
         <option value="February">February</option>
         <option value="March">March</option>
@@ -17,14 +18,20 @@
 </div>
 
 <div class="form-group">
-    <label for="day">Day</label>
-    <input id="day" type="text" class="form-control" name="day" value="{{ old('day') }}">
-    <div>{{ $errors->first('day') }}</div>
+    <label for="startday">Start Day</label>
+    <input id="startday" type="text" class="form-control" name="startday" value="{{ $calendar->startday }}">
+    <div>{{ $errors->first('startday') }}</div>
+</div>
+
+<div class="form-group">
+    <label for="endday">End Day (Optional)</label>
+    <input id="endday" type="text" class="form-control" name="endday" value="{{ $calendar->endday }}">
+    <div>{{ $errors->first('endday') }}</div>
 </div>
 
 <div class="form-group">
     <label for="event">Event</label>
-    <input id="event" type="text" class="form-control" name="event" value="{{ old('event') }}">
+    <input id="event" type="text" class="form-control" name="event" value="{{ $calendar->event }}">
     <div>{{ $errors->first('event') }}</div>
 </div>
 

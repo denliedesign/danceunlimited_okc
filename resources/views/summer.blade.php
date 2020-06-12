@@ -6,22 +6,15 @@
 
     <div class="container pb-5">
         <p class="txt-title text-center pt-5 mb-0">Summer 2020</p>
+        @can('update', \App\Sstyle::class)
+            <p class="text-center"><a href="/sstyles/create">New Summer Item</a></p>
+        @endcan
         <p class="text-center font-weight-bold my-0">June 15th-July 30th</p>
         <p class="text-center text-muted mt-0"><small>All classes must have a minimum of 6 enrolled to make</small></p>
         <h1 class="txt-black-title pt-5">Summer Schedule</h1>
         <div class="row row-cols-1 row-cols-md-2">
             @include('sstyles')
         </div>
-
-        @can('update', \App\Sstyle::class)
-            <div class="p-3">
-                <h2>New Summer Style</h2>
-                <form action="sstyles" method="POST">
-                    @include('forms.style')
-                    <button type="submit" class="btn btn-primary">Add Style</button>
-                </form>
-            </div>
-        @endcan
 
         <h1 class="txt-black-title pt-5">Dance Unlimited Summer Camps</h1>
         <div>

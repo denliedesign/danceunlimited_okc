@@ -29,9 +29,10 @@ class SstyleController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function create()
+    public function create(Sstyle $sstyle)
     {
-        //
+        $sstyle = new Sstyle();
+        return view('sstyles.create', compact('sstyle'));
     }
 
     /**
@@ -54,7 +55,8 @@ class SstyleController extends Controller
      */
     public function show(Sstyle $sstyle)
     {
-        //
+        $this->authorize('update', Sstyle::class);
+        return view('sstyles.show', compact('sstyle'));
     }
 
     /**
