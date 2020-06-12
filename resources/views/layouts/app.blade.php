@@ -63,7 +63,7 @@
 
                 <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                     <div class="card-body text-center">
-                        {{ $update->description }}
+                        {!! $update->description !!}
                     </div>
                     @can('update', \App\Update::class)
                         <div>
