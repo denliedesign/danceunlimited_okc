@@ -1,11 +1,11 @@
 @extends('layouts.app')
 
-@section('title', 'Production Info | Dance Unlimited')
+@section('title', 'Dance Production Info | Dance Unlimited')
 
 @section('content')
 
     <div class="container pb-5">
-        <p class="txt-title text-center py-5">Production Info</p>
+        <p class="txt-title text-center py-5">Dance Production Info</p>
 
 {{--        <h1 class="txt-black-title pt-5">Save The Dates for Spring Fun</h1>--}}
 {{--        <div class="py-3">--}}
@@ -80,7 +80,7 @@
                 <br><br>
                 DU does charge an admission to get into the production.  Tickets cost are decided by the facility rented and are sold online.  You will also be able to order a Production T-shirt and a DVD of the show if you would like.  We offer the chance for you to advertise your business our recital program which reaches over 1,000 audience members each year and you can always submit personal ads for your dancer. If the theatre rental, or any of the vendors for the tickets,  T-shirts or DVDs increases their prices, fees will be subject to change.
                 <br><br>
-                <a href="images/recital-info.pdf" target="_blank"><button type="button" class="btn btn-danger text-uppercase">Recital Information</button></a>
+                <a target="_blank"><button type="button" class="btn btn-danger text-uppercase">Recital Information</button></a>
             </p>
         </div>
         <h1 class="txt-black-title pt-5">Recital Costumes</h1>

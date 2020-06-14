@@ -94,97 +94,40 @@
                     </div>
                 </div>
             </div>
+            <div class="col mb-4">
+                <div class="card faculty-member">
+                    <div type="button" data-toggle="modal" data-target="#cerena" id="faculty-img-btn">
+                        <img src="images/CERENA.jpg" alt="" class="faculty-img">
+                    </div>
+                    <div class="card-body p-0">
+                        <h5 class="card-title text-center mb-0">Cerena Chaney</h5>
+                        <p class="text-center"><small>Office Manager/Instructor</small></p>
+                    </div>
+                    <div class="modal fade" id="cerena" tabindex="-1" role="dialog" aria-labelledby="cerena" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-scrollable" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Cerena Chaney</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p class="faculty-bio">
+                                        Cerena Chaney grew up in Ponca City, Oklahoma. She discovered her love of dance and the performing arts under the direction of Fran Norris at Miss Fran’s Dance and Tumbling Studio. Beginning dance at three years of age, Cerena studied tap, jazz, ballet, hip-hop, and acrobatics at her home dance studio. Cerena was also an active participant in her community children’s theatre, where she trained in dance, voice, and acting. After she graduated high school, Cerena attended Stephens College in Columbia, Missouri for two years as a dance major with an education minor, as well as being a member of the Stephens College Competitive Dance Team. While at Stephens College, Cerena trained in classical ballet and modern dance, as well as jazz, tap, and musical theatre dance. She transferred to Oklahoma City University to further pursue her passion of dance and teaching. Cerena is currently a senior dance pedagogy major at the Ann Lacy School of American Dance and Entertainment at Oklahoma City University. While at OCU, Cerena has performed with the American Spirit Dance Company in “Home for the Holidays” and the “Broadway Spring Revue”. After graduation, Cerena plans to continue teaching, and audition for the Oklahoma City Thunder Girls Dance Team.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
 
         <div class="row row-cols-2 row-cols-md-3 row-cols-lg-4">
-            <div class="col mb-4">
-                <div class="card faculty-member">
-                    <div type="button" data-toggle="modal" data-target="#amypotter" id="faculty-img-btn">
-                        <img src="images/AMYPOTTER.jpg" alt="" class="faculty-img">
-                    </div>
-                    <div class="card-body p-0">
-                        <h5 class="card-title text-center">Amy Potter</h5>
-                    </div>
-                    <div class="modal fade" id="amypotter" tabindex="-1" role="dialog" aria-labelledby="amypotter" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-scrollable" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title">Amy Potter</h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <p class="faculty-bio">
-                                        Ms. Potter started dancing in her hometown, Roanoke Virginia. In high school, she moved away to train at Nutmeg Conservatory for the Arts.  She continued her training at Boston Ballet, and later joined Houston Ballet II.  While touring nationally and internationally, she performed featured roles in works by Ben Stevenson, Stanton Welch, Ma Cong, Jiří Kylián, and Sir Kenneth MacMillan. She then joined Ballet West in 2011, where she performed roles such as Summer Fairy in Sir Frederick Ashton’s Cinderella, Beige Couple in Kylián’s Forgotten Land, Beauty Fairy in The Sleeping Beauty, alongside works by Jodie Gates, Helen Pickett, and Anna-Marie Holmes.
 
-                                        <br><br>Ms. Potter joined Oklahoma City Ballet in 2014, was promoted to Soloist in 2015, and became Principal in 2018. Since joining the company, her repertoire includes Waltz girl in George Balanchine’s Serenade, Sugar Plum Fairy in Robert Mills’ The Nutcrackerand Lilac Fairy in Mills’ The Sleeping Beauty, in addition to featured roles in George Balanchine’s Serenade, Nacho Duato’s Without Words, Twyla Tharp’s Nine Sinatra Songs, Stanton Welch’s Play, Jiří Kylián’s Petite Mort, Helen Pickett’s Petal, and Robert Mill’s The Means To Fly.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
 
-            <div class="col mb-4">
-                <div class="card faculty-member">
-                    <div type="button" data-toggle="modal" data-target="#andreawolf" id="faculty-img-btn">
-                        <img src="images/ANDREA.jpg" alt="" class="faculty-img">
-                    </div>
-                    <div class="card-body p-0">
-                        <h5 class="card-title text-center">Andrea Wolf</h5>
-                    </div>
 
-                    <div class="modal fade" id="andreawolf" tabindex="-1" role="dialog" aria-labelledby="andreawolf" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-scrollable" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title">Andrea Wolf</h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <p class="faculty-bio">
-                                        Andrea Wolf is an Oklahoma City native. At age four, she began training under the direction of Lisa Webb at the Academy of Ballet and Theatre Arts. From age nine, Andrea attended summer programs including Tulsa Ballet, Ellison Ballet New York City, SLK Ballet New York City, and Hubbard Street Dance Chicago. One of Andrea’s childhood highlights was dancing Marie (Clara) in Tulsa Ballet’s Nutcracker. Last summer, Andrea danced professionally with Ft. Worth’s Ballet Concerto. Recently, Andrea received her BFA in Ballet Performance from Texas Christian University where she was the recipient of TCU’s School for Classical & Contemporary Dance Adrienne Miller Perner Memorial Scholarship.
-                                        <br><br>While at TCU, Andrea performed lead roles in Giselle, Paquita, and In the Remembering. She was also privileged to work with legendary New York City ballet dancer Jacques d’Amboise and was chosen to perform the lead role in his Appalachian Mountain work. In addition, Andrea was honored to train with American Ballet Theater’s Susan Jaffe and New York City Ballet’s Michele Gifford. Other dance credits include George Balanchine’s Valse-Fantasie, Cinderella, and Don Quixote. During her college career, Andrea was photographed and published by world-renowned dance photographer Rachel Neville and National Geographic photographer Kike Calvo. In addition to classical ballet, Andrea’s TCU training included contemporary and modern dance, lighting and costume design, stage production, dance theory, dance history, and choreography. She is excited for this opportunity to bring her knowledge and experience to Dance Unlimited.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col mb-4">
-                <div class="card faculty-member">
-                    <div type="button" data-toggle="modal" data-target="#brittanyhillman" id="faculty-img-btn">
-                        <img src="images/BRITTANY.jpg" alt="" class="faculty-img">
-                    </div>
-                    <div class="card-body p-0">
-                        <h5 class="card-title text-center">Brittany Hillman</h5>
-                    </div>
-
-                    <div class="modal fade" id="brittanyhillman" tabindex="-1" role="dialog" aria-labelledby="brittanyhillman" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-scrollable" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title">Brittany Hillman</h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <p class="faculty-bio">
-                                        Brittany Hillman is a native of Prattville, Alabama where she began dancing at the age of three and danced competitively until she was eighteen with the Centre for Performing Arts. Brittany moved to Oklahoma City to continue pursuing her passion for dance at Oklahoma City University where she performed as a member of the OCU Pep Team and The American Spirit Dance Company. She has been performing professionally with Silvertree Productions for four and a half years at various theme parks and venues across the country. She is currently the Entertainment Manager for Silvertree Productions at Frontier City Theme Park while still continuing to perform and tour with the company. Brittany is also currently the Director of Communications for “The World of Magic” touring production as well as a magician’s assistant. Brittany continues to love every moment of holding down the front desk at Dance Unlimited & Spotlight Acting Academy!
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
 
             <div class="col mb-4">
                 <div class="card faculty-member">
@@ -214,33 +157,7 @@
                 </div>
             </div>
 
-            <div class="col mb-4">
-                <div class="card faculty-member">
-                    <div type="button" data-toggle="modal" data-target="#cerena" id="faculty-img-btn">
-                        <img src="images/CERENA.jpg" alt="" class="faculty-img">
-                    </div>
-                    <div class="card-body p-0">
-                        <h5 class="card-title text-center">Cerena Chaney</h5>
-                    </div>
-                    <div class="modal fade" id="cerena" tabindex="-1" role="dialog" aria-labelledby="cerena" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-scrollable" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title">Cerena Chaney</h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <p class="faculty-bio">
-                                        Cerena Chaney grew up in Ponca City, Oklahoma. She discovered her love of dance and the performing arts under the direction of Fran Norris at Miss Fran’s Dance and Tumbling Studio. Beginning dance at three years of age, Cerena studied tap, jazz, ballet, hip-hop, and acrobatics at her home dance studio. Cerena was also an active participant in her community children’s theatre, where she trained in dance, voice, and acting. After she graduated high school, Cerena attended Stephens College in Columbia, Missouri for two years as a dance major with an education minor, as well as being a member of the Stephens College Competitive Dance Team. While at Stephens College, Cerena trained in classical ballet and modern dance, as well as jazz, tap, and musical theatre dance. She transferred to Oklahoma City University to further pursue her passion of dance and teaching. Cerena is currently a senior dance pedagogy major at the Ann Lacy School of American Dance and Entertainment at Oklahoma City University. While at OCU, Cerena has performed with the American Spirit Dance Company in “Home for the Holidays” and the “Broadway Spring Revue”. After graduation, Cerena plans to continue teaching, and audition for the Oklahoma City Thunder Girls Dance Team.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
 
             <div class="col mb-4">
                 <div class="card faculty-member">
@@ -412,119 +329,12 @@
                 </div>
             </div>
 
-            <div class="col mb-4">
-                <div class="card faculty-member">
-                    <div type="button" data-toggle="modal" data-target="#neely" id="faculty-img-btn">
-                        <img src="images/Neely.jpg" alt="" class="faculty-img">
-                    </div>
-                    <div class="card-body p-0">
-                        <h5 class="card-title text-center">Neely Dee</h5>
-                    </div>
-                    <div class="modal fade" id="neely" tabindex="-1" role="dialog" aria-labelledby="neely" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-scrollable" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title">Neely Dee</h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <p class="faculty-bio">
-                                        Neely Dee has had over 25 years’ experience in the field of gymnastics, tumbling, cheerleading, and dance. Having trained with Olympic gold mentalist Shannon Miller at a young age, she learned the importance of conditioning, strength training, and technique.  She was able to apply her expert gymnastics skills as she later participated in competitive cheerleading and dance. Neely was a collegiate and high-school All-American cheerleader. In addition to coaching and choreographing various All-Star teams, Neely taught tumbling, cheer, and dance at Cheers & More for 8 years. She also received numerous awards for power tumbling and was named the Sooner State Games Power Tumbling Champion. During her years dancing at Star Steps on the senior dance company, they placed 1st at Showstoppers, and Neely also won the title as Little Miss Acro Dance in 1992. Neely was also a NCA staff instructor and also an ASC staff instructor in college.
-                                        <br><br>
-                                        Upon graduating from the University of Oklahoma in 2002 with a major in psychology and a minor in business, Neely knew she wanted to use her in depth and personal experience in tumbling and cheerleading to open her own gym, Flips. Flips was open from 2003 - 2008.  Neely was the cheer director at Oklahoma Gold from 2008 - 2009, and then worked at Twist & Shout for the following year.  Neely is so excited to continue working with your children at Dance Unlimited.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
 
-            <div class="col mb-4">
-                <div class="card faculty-member">
-                    <div type="button" data-toggle="modal" data-target="#nicole" id="faculty-img-btn">
-                        <img src="images/NICOLE.jpg" alt="" class="faculty-img">
-                    </div>
-                    <div class="card-body p-0">
-                        <h5 class="card-title text-center">Nicole Vaughn</h5>
-                    </div>
-                    <div class="modal fade" id="nicole" tabindex="-1" role="dialog" aria-labelledby="nicole" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-scrollable" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title">Nicole Vaughn</h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <p class="faculty-bio">
-                                        Nicole Vaughn grew up in Edmond, Oklahoma. She started dancing when she was 4 years old at Dance Unlimited Performing Arts Center. Eventually, she joined The Vibe competition team at age 10, which allowed her to grow into the dancer she is today. By choreographing her own solos and assisting her fellow dancers, Nicole decided she wanted to become a member of the Dance Unlimited faculty. From student to teacher, Nicole has Dance Unlimited to thank for her passion for dance. This past summer, she spent time in Los Angeles, California taking dance classes to expose herself to the variety of choreographing and teaching styles. Now, she is a freshman studying at Oklahoma City University and working towards her Bachelor's Degree in business administration. As a new member of the DU faculty, Nicole is ecstatic to be teaching and sharing her love for dance with others.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
 
-            <div class="col mb-4">
-                <div class="card faculty-member">
-                    <div type="button" data-toggle="modal" data-target="#rachel" id="faculty-img-btn">
-                        <img src="images/RACHEL.jpg" alt="" class="faculty-img">
-                    </div>
-                    <div class="card-body p-0">
-                        <h5 class="card-title text-center">Rachel Griffin</h5>
-                    </div>
-                    <div class="modal fade" id="rachel" tabindex="-1" role="dialog" aria-labelledby="rachel" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-scrollable" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title">Rachel Griffin</h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <p class="faculty-bio">
-                                        Rachel Griffin is a student at the University of Oklahoma studying nutrition and dietetics. As a former student of Amy, she was lucky to call Dance Unlimited her home for 15 years. Along with many years of training, Rachel has had experiences in being an assistant teacher, hip-hop instructor, and competitive dancer. She had vocal training for 5 years and is now singing in the band at her church! On top of preforming in many DU recitals and musicals, Rachel has performed in the Philharmonic Christmas Show, choreographed dances for school and campus shows, was selected to attend the Rockette Summer Intensive, and was fortunate to lead a dance camp in Nicaragua. Rachel is excited to continue to learn and grow in dance this year as teacher! She is eager to be able to share her knowledge and the lessons dance has taught her with others!
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
 
-            <div class="col mb-4">
-                <div class="card faculty-member">
-                    <div type="button" data-toggle="modal" data-target="#sammy" id="faculty-img-btn">
-                        <img src="images/SAMMY.jpg" alt="" class="faculty-img">
-                    </div>
-                    <div class="card-body p-0">
-                        <h5 class="card-title text-center">Sammy Posey</h5>
-                    </div>
-                    <div class="modal fade" id="sammy" tabindex="-1" role="dialog" aria-labelledby="sammy" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-scrollable" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title">Sammy Posey</h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <p class="faculty-bio">
-                                        Sammy grew up in Yukon, Oklahoma, and discovered her passion for teaching early on in her years of dancing. She is currently a senior at Oklahoma City University in the Ann Lacy School of American Dance and Entertainment. She will be graduating with her bachelor’s degree in Dance Pedagogy. While at OCU, Sammy has continued to develop her love and passion for teaching the art of dance. Sammy has performed in the American Spirit Dance Company’s Home for the Holidays and Broadway Revue at OCU. After graduating, Sammy plans to continue teaching and choreographing. Her goals for teaching is to provide dancers with an immense amount of love and knowledge for the art of dancing. She credits her success this far to the endless support of God, family, and friends.
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+
+
+
 
 
         </div>

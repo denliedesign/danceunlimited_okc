@@ -48,28 +48,6 @@
             <div class="col mb-4">
                 <div class="card faculty-member" id="vibe-member">
                     <div class="vibe-photos">
-                        <img src="images/vibe/EMERSON.jpg" alt="" class="vibe-one">
-                        <img src="images/vibe/EMERSON-fun.jpg" alt="" class="vibe-fun">
-                    </div>
-                    <div class="card-body p-0">
-                        <h5 class="card-title text-center">Emerson</h5>
-                    </div>
-                </div>
-            </div>
-            <div class="col mb-4">
-                <div class="card faculty-member" id="vibe-member">
-                    <div class="vibe-photos">
-                        <img src="images/vibe/EMMA.jpg" alt="" class="vibe-one">
-{{--                        <img src="images/vibe/EMMA-fun.jpg" alt="" class="vibe-fun">--}}
-                    </div>
-                    <div class="card-body p-0">
-                        <h5 class="card-title text-center">Emma</h5>
-                    </div>
-                </div>
-            </div>
-            <div class="col mb-4">
-                <div class="card faculty-member" id="vibe-member">
-                    <div class="vibe-photos">
                         <img src="images/vibe/EMMAM.jpg" alt="" class="vibe-one">
 {{--                        <img src="images/vibe/EMMAM-fun.jpg" alt="" class="vibe-fun">--}}
                     </div>
@@ -108,17 +86,6 @@
                     </div>
                     <div class="card-body p-0">
                         <h5 class="card-title text-center">Holly</h5>
-                    </div>
-                </div>
-            </div>
-            <div class="col mb-4">
-                <div class="card faculty-member" id="vibe-member">
-                    <div class="vibe-photos">
-                        <img src="images/vibe/KATE.jpg" alt="" class="vibe-one">
-                        <img src="images/vibe/KATE-fun.jpg" alt="" class="vibe-fun">
-                    </div>
-                    <div class="card-body p-0">
-                        <h5 class="card-title text-center">Kate</h5>
                     </div>
                 </div>
             </div>
@@ -213,17 +180,6 @@
             <div class="col mb-4">
                 <div class="card faculty-member" id="vibe-member">
                     <div class="vibe-photos">
-                        <img src="images/vibe/MEG.jpg" alt="" class="vibe-one">
-{{--                        <img src="images/vibe/MEG-fun.jpg" alt="" class="vibe-fun">--}}
-                    </div>
-                    <div class="card-body p-0">
-                        <h5 class="card-title text-center">Meg</h5>
-                    </div>
-                </div>
-            </div>
-            <div class="col mb-4">
-                <div class="card faculty-member" id="vibe-member">
-                    <div class="vibe-photos">
                         <img src="images/vibe/NOELE.jpg" alt="" class="vibe-one">
                         <img src="images/vibe/NOELE-fun.jpg" alt="" class="vibe-fun">
                     </div>
@@ -273,17 +229,6 @@
                     </div>
                     <div class="card-body p-0">
                         <h5 class="card-title text-center">Reese</h5>
-                    </div>
-                </div>
-            </div>
-            <div class="col mb-4">
-                <div class="card faculty-member" id="vibe-member">
-                    <div class="vibe-photos">
-                        <img src="images/vibe/SARAGRACE.jpg" alt="" class="vibe-one">
-{{--                        <img src="images/vibe/SARAGRACE-fun.jpg" alt="" class="vibe-fun">--}}
-                    </div>
-                    <div class="card-body p-0">
-                        <h5 class="card-title text-center">Sara Grace</h5>
                     </div>
                 </div>
             </div>

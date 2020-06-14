@@ -15,7 +15,21 @@
         </p>
 
         <div class="scrolling-wrapper pt-5 pb-2" id="scrolling-wrapper">
-                <div class="card mr-3" style="width: 400px;">
+            <div class="card mr-3" style="width: 400px;">
+                <img src="images/classes/music-for-minis.jpeg" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5 class="card-title text-center">Music for Minis</h5>
+                    <p class="card-text small" style="white-space: normal; height: 216px;">
+                        Music for Minis is a creative & FUN way to introduce your child to the world of voice & music! This is a 30 minute class designed specifically for 3-4 year olds that will have them singing, dancing & engaged from start to finish. Our Music for Minis class encourages a positive atmosphere where students can form friendships, gain confidence, & be a star!
+                        <br><br>
+                        Our Music for Minis class will do a small performance during their class time the final week of classes each semester. No experience is necessary to enroll in this class & all are welcome!
+                    </p>
+                    <div class="d-flex justify-content-center mb-3">
+                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger mr-3">ENROLL NOW</button></a>
+                    </div>
+                </div>
+            </div>
+            <div class="card mr-3" style="width: 400px;">
                     <img src="images/classes/broadway-babies.JPG" class="card-img-top" alt="">
                     <div class="card-body">
                         <h5 class="card-title text-center">Broadway Babies</h5>
@@ -131,6 +145,7 @@
                 <table class="table">
                     <thead>
                     <tr>
+                        <th>Music for Minis</th>
                         <th>Broadway Babies</th>
                         <th>Razzle Dazzle</th>
                         <th>Broadway Bound</th>
@@ -140,6 +155,7 @@
                     </thead>
                     <tbody>
                     <tr>
+                        <td>Ages 3-4</td>
                         <td>Ages 4+</td>
                         <td>Ages 7+</td>
                         <td>Ages 9+</td>
@@ -147,6 +163,7 @@
                         <td>Ages 12+</td>
                     </tr>
                     <tr>
+                        <td>Monday</td>
                         <td>Wednesday</td>
                         <td>Monday</td>
                         <td>Tuesday</td>
@@ -154,6 +171,7 @@
                         <td>Tuesday</td>
                     </tr>
                     <tr>
+                        <td>6:00-6:30</td>
                         <td>5:30-6:30</td>
                         <td>5:30-6:30</td>
                         <td>6:00-7:00</td>
@@ -161,6 +179,7 @@
                         <td>4:00-6:00</td>
                     </tr>
                     <tr>
+                        <td>$60/mo</td>
                         <td>$60/mo</td>
                         <td>$60/mo</td>
                         <td>$75/mo</td>
@@ -185,7 +204,7 @@
                 <div class="row dress-box py-3">
                     <div class="col-sm">
                         <p class="px-4">
-                            Spotlight Acting Academy faculty encourage all students to progress at their own rate within a nurturing and supportive class environment. The director will notify a parent if their child is ready to move to the next level. We appreciate your respect and cooperation in this matter. Parents may request an evaluation by leaving a written memo at the front desk. Please allow two weeks for processing. You may also email Jonathan directly at jbeckreed@cox.net
+                            Spotlight Acting Academy faculty encourage all students to progress at their own rate within a nurturing and supportive class environment. The director will notify a parent if their child is ready to move to the next level. We appreciate your respect and cooperation in this matter. We love to give students the chance to play roles and ensemble. Getting kids out of their comfort zone with confidence is our speciality!
                             <br><br>
                             Spotlight Acting Academy is a professional organization and acting education center. Jonathan reserves the right to re-direct placement of any student while attending any class and/or workshops.
                         </p>

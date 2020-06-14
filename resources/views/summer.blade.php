@@ -16,7 +16,7 @@
             @include('sstyles')
         </div>
 
-        <h1 class="txt-black-title pt-5">Dance Unlimited Summer Camps</h1>
+        <h1 class="txt-black-title pt-5">Summer Camps</h1>
         <div>
             <div class="row row-cols-2 row-cols-lg-4">
                 <div class="col mt-3">
@@ -50,29 +50,18 @@
                     </a>
                 </div>
                 <div class="col mt-3">
-                    <a href="images/summer/6.png" target="_blank">
-                        <img src="images/summer/6.png" alt="" style="width: 100%;">
-                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>
-                    </a>
-                </div>
-                <div class="col mt-3">
                     <a href="images/summer/7.png" target="_blank">
                         <img src="images/summer/7.png" alt="" style="width: 100%;">
                         <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>
                     </a>
                 </div>
-            </div>
-        </div>
-        <h1 class="txt-black-title pt-5 mt-5">Spotlight Acting Academy Summer Camps</h1>
-        <div class="py-3">
-            <div class="row row-cols-2 row-cols-lg-4">
-                <div class="col">
-                    <a href="images/summer/act1.png" target="_blank">
-                        <img src="images/summer/act1.png" alt="" style="width: 100%;">
+                <div class="col mt-3">
+                    <a href="images/summer/trolls-camp.png" target="_blank">
+                        <img src="images/summer/trolls-camp.png" alt="" style="width: 100%;">
                     </a>
                     <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>
                 </div>
-                <div class="col">
+                <div class="col mt-3">
                     <a href="images/summer/act2.png" target="_blank">
                         <img src="images/summer/act2.png" alt="" style="width: 100%;">
                     </a>
@@ -80,7 +69,6 @@
                 </div>
             </div>
         </div>
-
     </div>
 
 @endsection
