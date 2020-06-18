@@ -3,29 +3,39 @@
 @section('content')
 
             <div id="vision">
-                <div class="mobile-head d-md-none">
-                    <p class="text-center txt-title">
-                        OKC/Edmond Premier Dance & Acting Studio with a variety of classes for all ages
-                    </p>
-                    <div class="container video-container">
-                        <video id="mobileVideo" controls>
-                            <source src="images/i-will-wait.mp4" type="video/mp4">
-                        </video>
-                    </div>
-                </div>
                 <div class="d-none d-md-block">
-                    <p class="txt-overlay text-center txt-title">
-                        OKC/Edmond Premier Dance & Acting Studio with a variety of classes for all ages
-                    </p>
                     <div class="container video-container">
-                        <video id="myVideo" controls>
-                            <source src="images/i-will-wait.mp4" type="video/mp4">
-                        </video>
+                        <div class="d-flex justify-content-center">
+                            <p class="txt-overlay text-center txt-title">
+                                OKC/Edmond Premier Dance & Acting Studio with a variety of classes for all ages
+                            </p>
+                        </div>
+                        <div class="d-flex justify-content-center">
+                            <video id="myVideo" controls>
+                                <source src="images/i-will-wait.mp4" type="video/mp4">
+                            </video>
+                        </div>
                     </div>
                     <div class="crop">
                         <img src="images/okcpointe.jpg" alt="" class="bg-img">
                     </div>
                 </div>
+
+                <!-- mobile -->
+                <div class="d-block d-md-none">
+                    <div class="d-flex justify-content-center">
+                        <h1 class="txt-mobile">
+                            OKC/Edmond Premier Dance & Acting Studio with a variety of classes for all ages
+                        </h1>
+                    </div>
+                    <div class="d-flex justify-content-center">
+                        <video id="mobileVideo" controls>
+                            <source src="images/i-will-wait.mp4" type="video/mp4">
+                        </video>
+                    </div>
+                </div>
+                <!-- end of mobile-->
+
             </div>
 
             <div class="container">
