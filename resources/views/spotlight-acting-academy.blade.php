@@ -163,19 +163,19 @@
                         <td>Ages 12+</td>
                     </tr>
                     <tr>
-                        <td>Monday</td>
+                        <td>Tuesday</td>
                         <td>Wednesday</td>
                         <td>Monday</td>
                         <td>Tuesday</td>
-                        <td>Monday</td>
+                        <td>Wednesday</td>
                         <td>Tuesday</td>
                     </tr>
                     <tr>
                         <td>6:00-6:30</td>
                         <td>5:30-6:30</td>
                         <td>5:30-6:30</td>
-                        <td>6:00-7:00</td>
                         <td>6:30-7:30</td>
+                        <td>4:30-5:30</td>
                         <td>4:00-6:00</td>
                     </tr>
                     <tr>
@@ -187,6 +187,7 @@
                         <td>$75/mo</td>
                     </tr>
                     <tr>
+                        <td><a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm mr-3">ENROLL</button></a></td>
                         <td><a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm mr-3">ENROLL</button></a></td>
                         <td><a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm mr-3">ENROLL</button></a></td>
                         <td><a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm mr-3">ENROLL</button></a></td>

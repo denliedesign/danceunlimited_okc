@@ -18,16 +18,10 @@
 
         <h1 class="txt-black-title pt-5">Summer Camps</h1>
         <div>
-            <div class="row row-cols-2 row-cols-lg-4">
+            <div class="row row-cols-2 row-cols-lg-3">
                 <div class="col mt-3">
-                    <a href="images/summer/1.jpg" target="_blank">
-                        <img src="images/summer/1.png" alt="" style="width: 100%;">
-                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>
-                    </a>
-                </div>
-                <div class="col mt-3">
-                    <a href="images/summer/2.png" target="_blank">
-                        <img src="images/summer/2.png" alt="" style="width: 100%;">
+                    <a href="images/summer/7.png" target="_blank">
+                        <img src="images/summer/7.png" alt="" style="width: 100%;">
                         <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>
                     </a>
                 </div>
@@ -38,20 +32,8 @@
                     </a>
                 </div>
                 <div class="col mt-3">
-                    <a href="images/summer/4.png" target="_blank">
-                        <img src="images/summer/4.png" alt="" style="width: 100%;">
-                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>
-                    </a>
-                </div>
-                <div class="col mt-3">
                     <a href="images/summer/5.png" target="_blank">
                         <img src="images/summer/5.png" alt="" style="width: 100%;">
-                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>
-                    </a>
-                </div>
-                <div class="col mt-3">
-                    <a href="images/summer/7.png" target="_blank">
-                        <img src="images/summer/7.png" alt="" style="width: 100%;">
                         <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>
                     </a>
                 </div>

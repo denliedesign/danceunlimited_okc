@@ -6,6 +6,7 @@
         <option value="Hip Hop">Hip Hop</option>
         <option value="Tap">Tap</option>
         <option value="Starlette and Acro">Starlette and Acro</option>
+        <option value="Acting">Acting</option>
     </select>
 </div>
 
