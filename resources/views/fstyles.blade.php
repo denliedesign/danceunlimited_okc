@@ -1,9 +1,9 @@
 @foreach($fstyles->unique('title') as $fstyle)
     @switch($fstyle->title)
         @case('Ballet & Jazz')
-        <div class="col my-2">
+        <div class="my-2">
             <div class="dress-box py-3" id="spotlight-schedule">
-                <p class="lead text-center">{{ $fstyle->title }}</p>
+                <p class="lead text-center">Jr. & Teen Ballet/Jazz - Ages 8 &^</p>
                 <div class="table-responsive px-4">
                     <table class="table">
                         <tbody>
@@ -40,9 +40,9 @@
         @foreach($fstyles->unique('title') as $fstyle)
             @switch($fstyle->title)
                 @case('Hip Hop')
-                <div class="col my-2">
+                <div class="my-2">
                     <div class="dress-box py-3" id="spotlight-schedule">
-                        <p class="lead text-center">{{ $fstyle->title }}</p>
+                        <p class="lead text-center">Hip Hop Ages 6 &^</p>
                         <div class="table-responsive px-4">
                             <table class="table">
                                 <tbody>
@@ -79,9 +79,9 @@
                 @foreach($fstyles->unique('title') as $fstyle)
                     @switch($fstyle->title)
                         @case('Tap')
-                        <div class="col my-2">
+                        <div class="my-2">
                             <div class="dress-box py-3" id="spotlight-schedule">
-                                <p class="lead text-center">{{ $fstyle->title }}</p>
+                                <p class="lead text-center">Tap Ages 8 &^</p>
                                 <div class="table-responsive px-4">
                                     <table class="table">
                                         <tbody>
@@ -118,9 +118,9 @@
                         @foreach($fstyles->unique('title') as $fstyle)
                             @switch($fstyle->title)
                                 @case('Starlette and Acro')
-                                <div class="col my-2">
+                                <div class="my-2">
                                     <div class="dress-box py-3" id="spotlight-schedule">
-                                        <p class="lead text-center">{{ $fstyle->title }}</p>
+                                        <p class="lead text-center">Starlette & Acro Ages 3 &^</p>
                                         <div class="table-responsive px-4">
                                             <table class="table">
                                                 <tbody>
@@ -157,7 +157,7 @@
                                 @foreach($fstyles->unique('title') as $fstyle)
                                     @switch($fstyle->title)
                                         @case('Acting')
-                                        <div class="col my-2">
+                                        <div class="my-2">
                                             <div class="dress-box py-3" id="spotlight-schedule">
                                                 <p class="lead text-center">{{ $fstyle->title }}</p>
                                                 <div class="table-responsive px-4">

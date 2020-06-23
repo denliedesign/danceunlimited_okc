@@ -1,7 +1,7 @@
 @foreach($sstyles->unique('title') as $sstyle)
     @switch($sstyle->title)
         @case('Ballet & Jazz')
-        <div class="col my-2">
+        <div class="my-2">
             <div class="dress-box py-3" id="spotlight-schedule">
                 <p class="lead text-center">{{ $sstyle->title }}</p>
                 <div class="table-responsive px-4">
@@ -40,7 +40,7 @@
         @foreach($sstyles->unique('title') as $sstyle)
             @switch($sstyle->title)
                 @case('Hip Hop')
-                <div class="col my-2">
+                <div class="my-2">
                     <div class="dress-box py-3" id="spotlight-schedule">
                         <p class="lead text-center">{{ $sstyle->title }}</p>
                         <div class="table-responsive px-4">
@@ -79,7 +79,7 @@
                 @foreach($sstyles->unique('title') as $sstyle)
                     @switch($sstyle->title)
                         @case('Tap')
-                        <div class="col my-2">
+                        <div class="my-2">
                             <div class="dress-box py-3" id="spotlight-schedule">
                                 <p class="lead text-center">{{ $sstyle->title }}</p>
                                 <div class="table-responsive px-4">
@@ -118,7 +118,7 @@
                         @foreach($sstyles->unique('title') as $sstyle)
                             @switch($sstyle->title)
                                 @case('Starlette and Acro')
-                                <div class="col my-2">
+                                <div class="my-2">
                                     <div class="dress-box py-3" id="spotlight-schedule">
                                         <p class="lead text-center">{{ $sstyle->title }}</p>
                                         <div class="table-responsive px-4">

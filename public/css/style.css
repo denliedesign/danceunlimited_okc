@@ -351,3 +351,13 @@ i {
     left: 0;
     right: 0;
 }
+
+.card-columns {
+    column-count: 2;
+}
+
+@media only screen and (max-width: 600px) {
+    .card-columns {
+        column-count: 1;
+    }
+}

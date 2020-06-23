@@ -11,7 +11,7 @@
         @endcan
         <p class="text-center text-muted mt-0"><small>All classes must have a minimum of 6 enrolled to make</small></p>
         <h1 class="txt-black-title pt-5">Fall Schedule</h1>
-        <div class="row row-cols-1 row-cols-md-2">
+        <div class="card-columns">
             @include('fstyles')
         </div>
     </div>
