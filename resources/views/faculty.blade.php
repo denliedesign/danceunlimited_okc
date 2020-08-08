@@ -135,21 +135,21 @@
                         <img src="images/CAMEELAH.jpg" alt="" class="faculty-img">
                     </div>
                     <div class="card-body p-0">
-                        <h5 class="card-title text-center">Cameelah Pennington</h5>
+                        <h5 class="card-title text-center">Cameelah Pennington Cook</h5>
                     </div>
 
                     <div class="modal fade" id="cameelah" tabindex="-1" role="dialog" aria-labelledby="cameelah" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-scrollable" role="document">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title">Cameelah Pennington</h5>
+                                    <h5 class="modal-title">Cameelah Pennington Cook</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                         <span aria-hidden="true">&times;</span>
                                     </button>
                                 </div>
                                 <div class="modal-body">
                                     <p class="faculty-bio">
-                                        Cameelah Pennington is a native of Oklahoma City, Oklahoma. She received her bachelors in Fine Arts in Modern Dance Performance from the University of Oklahoma. Cameelah has been a member of several professional dance companies such as Dayton Contemporary Dance Company, Hartel Dance Group, and RACE Dance Company. During the day her time is spent teaching full time as the Director of Dance at Capitol Hill High School. In her rare spare time, Cameelah loves baking and crafting. Most of all, Cameelah loves sharing her love of dance with her students all over the city. She is really thankful to be spending her fourth year at DU.                                    </p>
+                                        Cameelah Pennington Cook is a native of Oklahoma City, Oklahoma. She received her bachelors in Fine Arts in Modern Dance Performance from the University of Oklahoma. Cameelah has been a member of several professional dance companies such as Dayton Contemporary Dance Company, Hartel Dance Group, and RACE Dance Company. During the day her time is spent teaching full time as the Director of Dance at Capitol Hill High School. In her rare spare time, Cameelah loves baking and crafting. Most of all, Cameelah loves sharing her love of dance with her students all over the city. She is really thankful to be spending her fourth year at DU.                                    </p>
                                 </div>
                             </div>
                         </div>
@@ -249,20 +249,21 @@
                         <img src="images/MAKENZIE.jpg" alt="" class="faculty-img">
                     </div>
                     <div class="card-body p-0">
-                        <h5 class="card-title text-center">Makenzie Ford</h5>
+                        <h5 class="card-title text-center mb-0">Makenzie Boatright</h5>
+                        <p class="text-center"><small>Acting/Voice</small></p>
                     </div>
                     <div class="modal fade" id="makenzie" tabindex="-1" role="dialog" aria-labelledby="makenzie" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-scrollable" role="document">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title">Makenzie Ford</h5>
+                                    <h5 class="modal-title">Makenzie Boatright</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                         <span aria-hidden="true">&times;</span>
                                     </button>
                                 </div>
                                 <div class="modal-body">
                                     <p class="faculty-bio">
-                                        Makenzie Ford is from Edmond, Oklahoma. She is currently a Senior at the University of Central Oklahoma studying Musical Theatre performance. Makenzie has had 13 years of vocal training and 9 years of dance. Along with years of performance experience, Makenzie also has experience in choreographing, music directing, and teaching private lessons. Makenzie is active in performing at her school, the community, and leading worship at her church. Some of her favorite shows have been Les Miserables, The Addams Family, Merrily We Roll Along, and The Most Happy Fella. After graduation, Makenzie plans on moving to New York City to pursue her dream of being on Broadway! Makenzie is so glad that Dance Unlimited and Spotlight have given her the opportunity to teach and share her passion with others!
+                                        Makenzie Boatright is from Edmond, Oklahoma. She is currently a Senior at the University of Central Oklahoma studying Musical Theatre performance. Makenzie has had 13 years of vocal training and 9 years of dance. Along with years of performance experience, Makenzie also has experience in choreographing, music directing, and teaching private lessons. Makenzie is active in performing at her school, the community, and leading worship at her church. Some of her favorite shows have been Les Miserables, The Addams Family, Merrily We Roll Along, and The Most Happy Fella. After graduation, Makenzie plans on moving to New York City to pursue her dream of being on Broadway! Makenzie is so glad that Dance Unlimited and Spotlight have given her the opportunity to teach and share her passion with others!
                                     </p>
                                 </div>
                             </div>
@@ -321,6 +322,203 @@
                                         Michelle Rambo has been teaching dance for 11 years, which includes styles of hip hop, jazz/funk, contemporary, jazz and tap. She has bachelor’s degrees in Fine Arts in Dance Performance from the University of Central Oklahoma and Kinesiology from East Central University (ECU).
                                         <br><br>
                                         She became the first recipient of the ECU Dance Scholarship, where, for two years, she was captain for the Collage Dance Ensemble. She became the Artistic Director for ECU dance minor program. Michelle has been fortunate to choreograph for the well-known professional Race Dance Company located in Oklahoma City, OK. She has choreographed national hip hop pom routines for McLennan Community College and University of Oklahoma (OU).  She recently taught at the Soul De Soul dance convention as a guest artist in Oklahoma City, OK. She has taught at the American College Dance Association at Southeast Missouri State University and Anderson Indiana University. She also travels with numerous organizations teaching and judging all across the states. Michelle's talents have been showcased during the pre-game performance for the Oklahoma City Thunder and at Disney World in Orlando, Florida. Michelle is excited to be apart of the University of Oklahoma Musical Theatre department this year and Dance Unlimited.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col mb-4">
+                <div class="card faculty-member">
+                    <div type="button" data-toggle="modal" data-target="#jessica" id="faculty-img-btn">
+                        <img src="/images/jessica.jpg" alt="" class="faculty-img">
+                    </div>
+                    <div class="card-body p-0">
+                        <h5 class="card-title text-center">Jessica Cajina</h5>
+                    </div>
+                    <div class="modal fade" id="jessica" tabindex="-1" role="dialog" aria-labelledby="jessica" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-scrollable" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Jessica Cajina</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p class="faculty-bio">
+                                        Bio coming soon!
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col mb-4">
+                <div class="card faculty-member">
+                    <div type="button" data-toggle="modal" data-target="#jeremy" id="faculty-img-btn">
+                        <img src="/images/coming-soon.jpg" alt="" class="faculty-img">
+                    </div>
+                    <div class="card-body p-0">
+                        <h5 class="card-title text-center">Jeremy Duvall</h5>
+                    </div>
+                    <div class="modal fade" id="jeremy" tabindex="-1" role="dialog" aria-labelledby="jeremy" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-scrollable" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Jeremy Duvall</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p class="faculty-bio">
+                                        Bio coming soon!
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col mb-4">
+                <div class="card faculty-member">
+                    <div type="button" data-toggle="modal" data-target="#kristin" id="faculty-img-btn">
+                        <img src="/images/kristin.jpg" alt="" class="faculty-img">
+                    </div>
+                    <div class="card-body p-0">
+                        <h5 class="card-title text-center">Kristin Hair</h5>
+                    </div>
+                    <div class="modal fade" id="kristin" tabindex="-1" role="dialog" aria-labelledby="kristin" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-scrollable" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Kristin Hair</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p class="faculty-bio">
+                                        Bio coming soon!
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col mb-4">
+                <div class="card faculty-member">
+                    <div type="button" data-toggle="modal" data-target="#maddi" id="faculty-img-btn">
+                        <img src="/images/maddi.jpeg" alt="" class="faculty-img">
+                    </div>
+                    <div class="card-body p-0">
+                        <h5 class="card-title text-center">Maddi Hill</h5>
+                    </div>
+                    <div class="modal fade" id="maddi" tabindex="-1" role="dialog" aria-labelledby="maddi" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-scrollable" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Maddi Hill</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p class="faculty-bio">
+                                        Bio coming soon!
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col mb-4">
+                <div class="card faculty-member">
+                    <div type="button" data-toggle="modal" data-target="#alexis" id="faculty-img-btn">
+                        <img src="/images/coming-soon.jpg" alt="" class="faculty-img">
+                    </div>
+                    <div class="card-body p-0">
+                        <h5 class="card-title text-center">Alexis Lanzo</h5>
+                    </div>
+                    <div class="modal fade" id="alexis" tabindex="-1" role="dialog" aria-labelledby="alexis" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-scrollable" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Alexis Lanzo</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p class="faculty-bio">
+                                        Bio coming soon!
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col mb-4">
+                <div class="card faculty-member">
+                    <div type="button" data-toggle="modal" data-target="#chelsea" id="faculty-img-btn">
+                        <img src="/images/chelsea.jpg" alt="" class="faculty-img">
+                    </div>
+                    <div class="card-body p-0">
+                        <h5 class="card-title text-center">Chelsea Jones</h5>
+                    </div>
+                    <div class="modal fade" id="chelsea" tabindex="-1" role="dialog" aria-labelledby="chelsea" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-scrollable" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Chelsea Jones</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p class="faculty-bio">
+                                        Bio coming soon!
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col mb-4">
+                <div class="card faculty-member">
+                    <div type="button" data-toggle="modal" data-target="#jane" id="faculty-img-btn">
+                        <img src="/images/jane.jpg" alt="" class="faculty-img">
+                    </div>
+                    <div class="card-body p-0">
+                        <h5 class="card-title text-center mb-0">Jane Neil</h5>
+                        <p class="text-center"><small>Voice Instructor</small></p>
+                    </div>
+                    <div class="modal fade" id="jane" tabindex="-1" role="dialog" aria-labelledby="jane" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-scrollable" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Jane Neil</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p class="faculty-bio">
+                                        Bio coming soon!
                                     </p>
                                 </div>
                             </div>

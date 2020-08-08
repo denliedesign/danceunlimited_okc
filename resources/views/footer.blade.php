@@ -29,7 +29,7 @@
                             <a href="/spring">Production Info</a>
                         </li>
                         <li>
-                            <a href="/summer">Summer 2020</a>
+                            <a href="/summer">Summer</a>
                         </li>
                         <li>
                             <a href="/dress">Dress Code</a>

@@ -53,7 +53,7 @@
     @foreach($updates as $update)
         <div class="accordion" id="accordionExample">
             <div class="card" style="width: 100%;">
-                <div class="card-header text-center bg-unlimited" id="headingOne">
+                <div class="card-header text-center bg-danger" id="headingOne">
                     <h2 class="mb-0">
                         <button class="btn btn-link text-white font-weight-bold" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                             {{ $update->title }}
