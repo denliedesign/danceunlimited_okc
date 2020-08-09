@@ -361,7 +361,7 @@
             <div class="col mb-4">
                 <div class="card faculty-member">
                     <div type="button" data-toggle="modal" data-target="#jeremy" id="faculty-img-btn">
-                        <img src="/images/coming-soon.jpg" alt="" class="faculty-img">
+                        <img src="/images/jeremy.jpg" alt="" class="faculty-img">
                     </div>
                     <div class="card-body p-0">
                         <h5 class="card-title text-center">Jeremy Duvall</h5>
@@ -445,7 +445,7 @@
             <div class="col mb-4">
                 <div class="card faculty-member">
                     <div type="button" data-toggle="modal" data-target="#alexis" id="faculty-img-btn">
-                        <img src="/images/coming-soon.jpg" alt="" class="faculty-img">
+                        <img src="/images/alexis.jpeg" alt="" class="faculty-img">
                     </div>
                     <div class="card-body p-0">
                         <h5 class="card-title text-center">Alexis Lanzo</h5>
