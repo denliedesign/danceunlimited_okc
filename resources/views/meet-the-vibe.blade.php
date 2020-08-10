@@ -206,6 +206,26 @@
             <div class="col mb-4">
                 <div class="card faculty-member" id="vibe-member">
                     <div class="vibe-photos">
+                        <img src="images/vibe2/makenzie.jpg" alt="">
+                    </div>
+                    <div class="card-body p-0">
+                        <h5 class="card-title text-center">Makenzie</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col mb-4">
+                <div class="card faculty-member" id="vibe-member">
+                    <div class="vibe-photos">
+                        <img src="images/vibe2/malay.jpg" alt="">
+                    </div>
+                    <div class="card-body p-0">
+                        <h5 class="card-title text-center">Malay</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col mb-4">
+                <div class="card faculty-member" id="vibe-member">
+                    <div class="vibe-photos">
                         <img src="images/vibe2/marissa.jpg" alt="">
                     </div>
                     <div class="card-body p-0">
@@ -260,6 +280,16 @@
                     </div>
                     <div class="card-body p-0">
                         <h5 class="card-title text-center">Reese</h5>
+                    </div>
+                </div>
+            </div>
+            <div class="col mb-4">
+                <div class="card faculty-member" id="vibe-member">
+                    <div class="vibe-photos">
+                        <img src="images/coming-soon.jpg" alt="">
+                    </div>
+                    <div class="card-body p-0">
+                        <h5 class="card-title text-center">Riley</h5>
                     </div>
                 </div>
             </div>
