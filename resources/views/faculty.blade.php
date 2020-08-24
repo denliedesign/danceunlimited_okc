@@ -527,7 +527,33 @@
                 </div>
             </div>
 
-
+            <div class="col mb-4">
+                <div class="card faculty-member">
+                    <div type="button" data-toggle="modal" data-target="#natalie" id="faculty-img-btn">
+                        <img src="/images/natalie.jpg" alt="" class="faculty-img">
+                    </div>
+                    <div class="card-body p-0">
+                        <h5 class="card-title text-center mb-0">Natalie Goodin</h5>
+                    </div>
+                    <div class="modal fade" id="natalie" tabindex="-1" role="dialog" aria-labelledby="natalie" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-scrollable" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Natalie Goodin</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p class="faculty-bio">
+                                        Natalie is so excited to come back to teach at Dance Unlimited! Natalie grew up at the studio, and took classes for 15 years. She recently graduated with a degree in Musical Theatre from the University of Oklahoma, and her favorite style of dance to teach is tap. Natalie’s goal for her students is to help them discover that the studio is a safe place to learn, grow, create, fail, and succeed. She wants her students to feel confident yet challenged, and remember that the work is always worth it. Natalie is thankful to be back with her Dance Unlimited family!
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
 
 
