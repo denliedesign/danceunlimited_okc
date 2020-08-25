@@ -361,3 +361,12 @@ i {
         column-count: 1;
     }
 }
+
+.account-link {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.account-link:hover {
+    color: rgba(0, 0, 0, 1);
+    text-decoration: none;
+}

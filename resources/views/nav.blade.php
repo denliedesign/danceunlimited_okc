@@ -38,6 +38,13 @@
             </ul>
         </div>
     </nav>
+    <div class="bg-white">
+        <ul class="p-0 m-0 d-flex justify-content-center" style="list-style-type: none; font-size: 0.85em;">
+            <li class="nav-item">
+                <a class="account-link" href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd" target="_blank">Register/Account</a>
+            </li>
+        </ul>
+    </div>
     <div class="bg-light d-flex justify-content-center" id="rounded-header">
         <img src="/images/danceunlimited-logo.png" alt="" id="du-logo" class="mt-1 mb-4">
     </div>
