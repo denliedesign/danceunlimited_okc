@@ -555,7 +555,33 @@
                 </div>
             </div>
 
-
+            <div class="col mb-4">
+                <div class="card faculty-member">
+                    <div type="button" data-toggle="modal" data-target="#melissa" id="faculty-img-btn">
+                        <img src="/images/melissa-blake.jpg" alt="" class="faculty-img">
+                    </div>
+                    <div class="card-body p-0">
+                        <h5 class="card-title text-center mb-0">Melissa Blake</h5>
+                    </div>
+                    <div class="modal fade" id="melissa" tabindex="-1" role="dialog" aria-labelledby="melissa" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-scrollable" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Melissa Blake</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p class="faculty-bio">
+                                        Bio coming soon!
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
 
 
