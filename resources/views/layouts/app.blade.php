@@ -55,13 +55,13 @@
             <div class="card" style="width: 100%;">
                 <div class="card-header text-center bg-danger" id="headingOne">
                     <h2 class="mb-0">
-                        <button class="btn btn-link text-white font-weight-bold" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        <button class="btn btn-link text-white font-weight-bold text-uppercase" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style="font-size: 0.8em;">
                             {{ $update->title }}
                         </button>
                     </h2>
                 </div>
 
-                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
                     <div class="card-body text-center">
                         {!! $update->description !!}
                     </div>

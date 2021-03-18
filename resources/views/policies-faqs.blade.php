@@ -9,6 +9,46 @@
 
         <div class="accordion" id="accordionFAQ">
             <div class="card" style="width: 100%;">
+                <div class="card-header" id="policiesZero">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#closeZero" aria-expanded="true" aria-controls="closeZero">
+                            <h1 class="txt-black-title text-left text-dark">WELCOME PACKETS</h1>
+                        </button>
+                    </h2>
+                </div>
+
+                <div id="closeZero" class="collapse" aria-labelledby="policiesZero" data-parent="#accordionFAQ">
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-sm">
+                                <a href="/images/du-welcome.pdf" target="_blank" style="text-decoration: none;">
+                                    <img src="/images/du-welcome.jpg" alt="du welcome pack" class="img-fluid">
+                                    <div class="d-flex justify-content-center mt-2">
+                                        <p class="btn btn-danger">Dance Unlimited Welcome Pack</p>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-sm">
+                                <a href="/images/starlette-welcome.pdf" target="_blank" style="text-decoration: none;">
+                                    <img src="/images/starlette-welcome.jpg" alt="starlette welcome pack" class="img-fluid">
+                                    <div class="d-flex justify-content-center mt-2">
+                                        <p class="btn btn-danger">Starlette Welcome Pack</p>
+                                    </div>
+                                </a>
+                            </div>
+                            <div class="col-sm">
+                                <a href="/images/spotlight-acting-welcome.pdf" target="_blank" style="text-decoration: none;">
+                                    <img src="/images/spotlight-acting-welcome.jpg" alt="spotlight acting welcome pack" class="img-fluid">
+                                    <div class="d-flex justify-content-center mt-2">
+                                        <p class="btn btn-danger">Spotlight Acting Welcome Pack</p>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="card" style="width: 100%;">
                 <div class="card-header" id="policiesOne">
                     <h2 class="mb-0">
                         <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#closeOne" aria-expanded="true" aria-controls="closeOne">
@@ -17,7 +57,7 @@
                     </h2>
                 </div>
 
-                <div id="closeOne" class="collapse show" aria-labelledby="policiesOne" data-parent="#accordionFAQ">
+                <div id="closeOne" class="collapse" aria-labelledby="policiesOne" data-parent="#accordionFAQ">
                     <div class="card-body">
                         <p>
                             Children and parents choose Dance Unlimited for various reasons. Some enjoy dance simply for the fun of it. It is exhilarating and very rewarding! Still, others see it as an avenue to build self-esteem and poise, as a means of expression of imagination and creativity, or as a route towards socialization and friendships. Whatever your reason, you’ll find it at Dance Unlimited. Dancing is one of the best methods for developing the mind and body, even at the young age of two.

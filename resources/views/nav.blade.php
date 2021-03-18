@@ -4,7 +4,7 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse justify-content-lg-around" id="navbarNav" style="font-size: 0.85em;">
-            <ul class="navbar-nav" id="main-nav">
+            <ul class="navbar-nav text-center" id="main-nav">
                 <li class="nav-item">
                     <a class="nav-link" href="/">Home</a>
                 </li>
@@ -24,7 +24,7 @@
                     <a class="nav-link" href="/summer">Summer</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/fall">Fall/Spring</a>
+                    <a class="nav-link" href="/fall">Fall & Spring</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/dress">Dress Code</a>
@@ -35,14 +35,15 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#footer">Contact</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd" target="_blank">Register/Account</a>
+                </li>
             </ul>
         </div>
     </nav>
     <div class="bg-white">
         <ul class="p-0 m-0 d-flex justify-content-center" style="list-style-type: none; font-size: 0.85em;">
-            <li class="nav-item">
-                <a class="account-link" href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd" target="_blank">Register/Account</a>
-            </li>
+
         </ul>
     </div>
     <div class="bg-light d-flex justify-content-center" id="rounded-header">

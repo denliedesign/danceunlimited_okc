@@ -32,10 +32,16 @@
                             <a href="/summer">Summer</a>
                         </li>
                         <li>
+                            <a href="/fall">Fall & Spring</a>
+                        </li>
+                        <li>
                             <a href="/dress">Dress Code</a>
                         </li>
                         <li>
                             <a href="/policies-faqs">FAQ</a>
+                        </li>
+                        <li>
+                            <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd" target="_blank">Register/Account</a>
                         </li>
                     </ul>
                 </div>
