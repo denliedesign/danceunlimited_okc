@@ -63,8 +63,8 @@
                     <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>
                 </div>
                 <div class="col mt-3">
-                    <a href="images/summer/camp-8.png" target="_blank">
-                        <img src="images/summer/camp-8.png" alt="" style="width: 100%;">
+                    <a href="images/summer/camp-8.PNG" target="_blank">
+                        <img src="images/summer/camp-8.PNG" alt="" style="width: 100%;">
                     </a>
                     <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>
                 </div>
