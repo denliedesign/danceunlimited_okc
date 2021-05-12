@@ -370,3 +370,43 @@ i {
     color: rgba(0, 0, 0, 1);
     text-decoration: none;
 }
+
+.season-card {
+    position: relative;
+}
+
+.season-icon {
+    position: absolute;
+    top: 5%;
+    right: 5%;
+}
+
+.season-icon ion-icon {
+    font-size: 1.75em;
+}
+
+.summer-icon, .txt-summer {
+    /*color: #f76b6a;*/
+    /*color: #f98284;*/
+    color: #ffae42;
+}
+
+
+.fall-icon, .txt-fall {
+    /*color: #c49271;*/
+    /*color: #cf6b4b;*/
+    color: #a52b2a;
+}
+
+
+.winter-icon, .txt-winter {
+    /*color: #2d2d2d;*/
+    /*color: #81889a;*/
+    color: #698cb4;
+}
+
+.spring-icon, .txt-spring {
+    /*color: #809b64;*/
+    /*color: #c25da9;*/
+    color: #ec8ec0;
+}

@@ -44,60 +44,7 @@
 </head>
 <body>
 
-    @if(session()->has('message'))
-        <div class="alert alert-success" role="alert">
-            <strong>Success</strong> {{ session()->get('message') }}
-        </div>
-    @endif
-
-    @foreach($updates as $update)
-        <div class="accordion" id="accordionExample">
-            <div class="card" style="width: 100%;">
-                <div class="card-header text-center bg-danger" id="headingOne">
-                    <h2 class="mb-0">
-                        <button class="btn btn-link text-white font-weight-bold text-uppercase" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne" style="font-size: 0.8em;">
-                            {{ $update->title }}
-                        </button>
-                    </h2>
-                </div>
-
-                <div id="collapseOne" class="collapse show" aria-labelledby="headingOne" data-parent="#accordionExample">
-                    <div class="card-body text-center">
-                        {!! $update->description !!}
-                    </div>
-                    @can('update', \App\Update::class)
-                        <div>
-                            <form action="{{ route('updates.update', ['update' => $update]) }}"
-                                  method="POST" class="p-3">
-                                @method('PATCH')
-                                @include('forms.update')
-
-                                <button class="btn btn-primary" type="submit">Save</button>
-                            </form>
-                        </div>
-                    @endcan
-                </div>
-            </div>
-        </div>
-    @endforeach
-
-    {{--<div class="container py-5">--}}
-    {{--    @can('update', \App\Update::class)--}}
-    {{--        <div class="p-3">--}}
-    {{--            <h2>New Update</h2>--}}
-    {{--            <form action="updates" method="POST">--}}
-    {{--                @include('forms.update')--}}
-    {{--                <button type="submit" class="btn btn-primary">Add Update</button>--}}
-    {{--            </form>--}}
-    {{--        </div>--}}
-    {{--    @endcan--}}
-    {{--</div>--}}
-
-    <div class="website">
-    @include('nav')
     @yield('content')
-    @include('footer')
-    </div>
 
 </body>
 

@@ -28,7 +28,7 @@ class AppServiceProvider extends ServiceProvider
     public function boot()
     {
         view()->composer('*',function($view) {
-            $view->with('calendars', Calendar::all());
+            $view->with('calendars', Calendar::all()->sortBy('startday'));
         });
 
         view()->composer('*',function($view) {
