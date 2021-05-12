@@ -377,8 +377,8 @@ i {
 
 .season-icon {
     position: absolute;
-    top: 5%;
-    right: 5%;
+    top: 10px;
+    right: 10px;
 }
 
 .season-icon ion-icon {
