@@ -88,3 +88,6 @@
         </div>
     </div>
 </div>
+<div id="credit" class="py-1 text-right" style="background: black;">
+    <a class="text-muted text-decoration-none pr-4" href="https://denliedesign.com" target="_blank"><small>Dance Website Design by Denlie Design</small></a>
+</div>
