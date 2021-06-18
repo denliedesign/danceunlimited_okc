@@ -258,6 +258,8 @@ i {
     transition: -webkit-transform 0.8s ease;
     transition: transform 0.8s ease;
     transition: transform 0.8s ease, -webkit-transform 0.8s ease;
+    height: 318.75px;
+    object-fit: cover;
 }
 
 .faculty-img:hover {

@@ -59,7 +59,7 @@
                     </div>
                     <div class="card-body p-0">
                         <h5 class="card-title text-center mb-0">Jonathan Beck Reed</h5>
-                        <p class="text-center"><small>Owner/Artistic Director/Instructor</small></p>
+                        <p class="text-center"><small>Spotlight Director/Owner</small></p>
                     </div>
                     <div class="modal fade" id="jonathan" tabindex="-1" role="dialog" aria-labelledby="jonathan" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-scrollable" role="document">
@@ -96,12 +96,48 @@
             </div>
             <div class="col mb-4">
                 <div class="card faculty-member">
+                    <div type="button" data-toggle="modal" data-target="#ricci" id="faculty-img-btn">
+                        <img src="images/courtney-ricci.jpeg" alt="" class="faculty-img">
+                    </div>
+                    <div class="card-body p-0">
+                        <h5 class="card-title text-center mb-0">Courtney Ricci</h5>
+                        <p class="text-center"><small>Office Manager</small></p>
+                    </div>
+                    <div class="modal fade" id="ricci" tabindex="-1" role="dialog" aria-labelledby="ricci" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-scrollable" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Courtney Ricci</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p class="faculty-bio">
+                                        A lifelong dancer and lover of the arts, Courtney has been training in a multitude of dance styles since the age of seven. Her dance education began in her hometown of Vineland, New Jersey, where she spent years studying ballet with Maxine’s Dance Studio and the Vineland Regional Dance Company. Her experiences with this company allowed her to perform in a number of contemporary ballet festivals, including Regional Dance America Festivals and the annual Delaware Dance Festival. Courtney has also spent summers studying at Burklyn Ballet Theatre’s summer intensive in Vermont and the Radio City Rockettes Summer Intensive in New York City.
+                                        <br><br>
+                                        Courtney is a recent graduate of Oklahoma City University’s Ann Lacy School of American Dance and Entertainment, where she received her Bachelor of Science in Dance Management. Her studies included advanced training in ballet, tap, and jazz dance as they are used in musical theater, as well as courses in arts administration, technical theater, and business management. She has participated in OCU’s annual Student Choreography Showcase and the American Spirit Dance Company’s performances of “Home for the Holidays” and “Broadway Revue” as both a performer and a technician. Through her experiences at the Ann Lacy School, she trained under numerous reputable dance professors and choreographers, including Jo Rowan, Vincent Sandoval, Tiffany van der Merwe, Tiffany Warford, Cassandra Van Houten, Tye Love, Jessica Fay, and Kay Sandel.
+                                        <br><br>
+                                        Beyond dance, she loves serving at her church as a member of the production team. She is also passionate about getting to know people of all backgrounds and hearing their stories. Courtney is so excited to be a part of the team at Dance Unlimited and watch the students grow this year as both performers and individuals!
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row row-cols-2 row-cols-md-3 row-cols-lg-4">
+
+            <div class="col mb-4">
+                <div class="card faculty-member">
                     <div type="button" data-toggle="modal" data-target="#cerena" id="faculty-img-btn">
                         <img src="images/CERENA.jpg" alt="" class="faculty-img">
                     </div>
                     <div class="card-body p-0">
-                        <h5 class="card-title text-center mb-0">Cerena Chaney</h5>
-                        <p class="text-center"><small>Office Manager/Instructor</small></p>
+                        <h5 class="card-title text-center">Cerena Chaney</h5>
+{{--                        <p class="text-center"><small>Instructor</small></p>--}}
                     </div>
                     <div class="modal fade" id="cerena" tabindex="-1" role="dialog" aria-labelledby="cerena" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-scrollable" role="document">
@@ -122,12 +158,6 @@
                     </div>
                 </div>
             </div>
-        </div>
-
-        <div class="row row-cols-2 row-cols-md-3 row-cols-lg-4">
-
-
-
 
             <div class="col mb-4">
                 <div class="card faculty-member">
@@ -165,7 +195,8 @@
                         <img src="images/EMILY.jpg" alt="" class="faculty-img">
                     </div>
                     <div class="card-body p-0">
-                        <h5 class="card-title text-center">Emily Ham</h5>
+                        <h5 class="card-title text-center mb-0">Emily Ham</h5>
+                        <p class="text-center"><small>Instructor/Vibe Co. Director</small></p>
                     </div>
                     <div class="modal fade" id="emily" tabindex="-1" role="dialog" aria-labelledby="emily" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-scrollable" role="document">
@@ -193,7 +224,8 @@
                         <img src="images/KEYNA.jpg" alt="" class="faculty-img">
                     </div>
                     <div class="card-body p-0">
-                        <h5 class="card-title text-center">Keyna Allen</h5>
+                        <h5 class="card-title text-center mb-0">Keyna Allen</h5>
+                        <p class="text-center"><small>Instructor/Vibe Admin Director</small></p>
                     </div>
                     <div class="modal fade" id="keyna" tabindex="-1" role="dialog" aria-labelledby="keyna" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-scrollable" role="document">
@@ -250,7 +282,7 @@
                     </div>
                     <div class="card-body p-0">
                         <h5 class="card-title text-center mb-0">Makenzie Boatright</h5>
-                        <p class="text-center"><small>Acting/Voice</small></p>
+                        <p class="text-center"><small>Voice/Acting Instructor</small></p>
                     </div>
                     <div class="modal fade" id="makenzie" tabindex="-1" role="dialog" aria-labelledby="makenzie" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-scrollable" role="document">
@@ -278,7 +310,8 @@
                         <img src="images/MAYA.jpg" alt="" class="faculty-img">
                     </div>
                     <div class="card-body p-0">
-                        <h5 class="card-title text-center">Maya Cook</h5>
+                        <h5 class="card-title text-center mb-0">Maya Cook</h5>
+                        <p class="text-center"><small>Voice/Acting Instructor</small></p>
                     </div>
                     <div class="modal fade" id="maya" tabindex="-1" role="dialog" aria-labelledby="maya" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-scrollable" role="document">
@@ -358,61 +391,61 @@
                 </div>
             </div>
 
-            <div class="col mb-4">
-                <div class="card faculty-member">
-                    <div type="button" data-toggle="modal" data-target="#jeremy" id="faculty-img-btn">
-                        <img src="/images/jeremy.jpg" alt="" class="faculty-img">
-                    </div>
-                    <div class="card-body p-0">
-                        <h5 class="card-title text-center">Jeremy Duvall</h5>
-                    </div>
-                    <div class="modal fade" id="jeremy" tabindex="-1" role="dialog" aria-labelledby="jeremy" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-scrollable" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title">Jeremy Duvall</h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <p class="faculty-bio">
-                                        Bio coming soon!
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+{{--            <div class="col mb-4">--}}
+{{--                <div class="card faculty-member">--}}
+{{--                    <div type="button" data-toggle="modal" data-target="#jeremy" id="faculty-img-btn">--}}
+{{--                        <img src="/images/jeremy.jpg" alt="" class="faculty-img">--}}
+{{--                    </div>--}}
+{{--                    <div class="card-body p-0">--}}
+{{--                        <h5 class="card-title text-center">Jeremy Duvall</h5>--}}
+{{--                    </div>--}}
+{{--                    <div class="modal fade" id="jeremy" tabindex="-1" role="dialog" aria-labelledby="jeremy" aria-hidden="true">--}}
+{{--                        <div class="modal-dialog modal-dialog-scrollable" role="document">--}}
+{{--                            <div class="modal-content">--}}
+{{--                                <div class="modal-header">--}}
+{{--                                    <h5 class="modal-title">Jeremy Duvall</h5>--}}
+{{--                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">--}}
+{{--                                        <span aria-hidden="true">&times;</span>--}}
+{{--                                    </button>--}}
+{{--                                </div>--}}
+{{--                                <div class="modal-body">--}}
+{{--                                    <p class="faculty-bio">--}}
+{{--                                        Bio coming soon!--}}
+{{--                                    </p>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
 
-            <div class="col mb-4">
-                <div class="card faculty-member">
-                    <div type="button" data-toggle="modal" data-target="#kristin" id="faculty-img-btn">
-                        <img src="/images/kristin.jpg" alt="" class="faculty-img">
-                    </div>
-                    <div class="card-body p-0">
-                        <h5 class="card-title text-center">Kristin Hair</h5>
-                    </div>
-                    <div class="modal fade" id="kristin" tabindex="-1" role="dialog" aria-labelledby="kristin" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-scrollable" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title">Kristin Hair</h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <p class="faculty-bio">
-                                        Bio coming soon!
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+{{--            <div class="col mb-4">--}}
+{{--                <div class="card faculty-member">--}}
+{{--                    <div type="button" data-toggle="modal" data-target="#kristin" id="faculty-img-btn">--}}
+{{--                        <img src="/images/kristin.jpg" alt="" class="faculty-img">--}}
+{{--                    </div>--}}
+{{--                    <div class="card-body p-0">--}}
+{{--                        <h5 class="card-title text-center">Kristin Hair</h5>--}}
+{{--                    </div>--}}
+{{--                    <div class="modal fade" id="kristin" tabindex="-1" role="dialog" aria-labelledby="kristin" aria-hidden="true">--}}
+{{--                        <div class="modal-dialog modal-dialog-scrollable" role="document">--}}
+{{--                            <div class="modal-content">--}}
+{{--                                <div class="modal-header">--}}
+{{--                                    <h5 class="modal-title">Kristin Hair</h5>--}}
+{{--                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">--}}
+{{--                                        <span aria-hidden="true">&times;</span>--}}
+{{--                                    </button>--}}
+{{--                                </div>--}}
+{{--                                <div class="modal-body">--}}
+{{--                                    <p class="faculty-bio">--}}
+{{--                                        Bio coming soon!--}}
+{{--                                    </p>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
 
             <div class="col mb-4">
                 <div class="card faculty-member">
@@ -527,26 +560,54 @@
                 </div>
             </div>
 
+{{--            <div class="col mb-4">--}}
+{{--                <div class="card faculty-member">--}}
+{{--                    <div type="button" data-toggle="modal" data-target="#natalie" id="faculty-img-btn">--}}
+{{--                        <img src="/images/natalie.jpg" alt="" class="faculty-img">--}}
+{{--                    </div>--}}
+{{--                    <div class="card-body p-0">--}}
+{{--                        <h5 class="card-title text-center mb-0">Natalie Goodin</h5>--}}
+{{--                    </div>--}}
+{{--                    <div class="modal fade" id="natalie" tabindex="-1" role="dialog" aria-labelledby="natalie" aria-hidden="true">--}}
+{{--                        <div class="modal-dialog modal-dialog-scrollable" role="document">--}}
+{{--                            <div class="modal-content">--}}
+{{--                                <div class="modal-header">--}}
+{{--                                    <h5 class="modal-title">Natalie Goodin</h5>--}}
+{{--                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">--}}
+{{--                                        <span aria-hidden="true">&times;</span>--}}
+{{--                                    </button>--}}
+{{--                                </div>--}}
+{{--                                <div class="modal-body">--}}
+{{--                                    <p class="faculty-bio">--}}
+{{--                                        Natalie is so excited to come back to teach at Dance Unlimited! Natalie grew up at the studio, and took classes for 15 years. She recently graduated with a degree in Musical Theatre from the University of Oklahoma, and her favorite style of dance to teach is tap. Natalie’s goal for her students is to help them discover that the studio is a safe place to learn, grow, create, fail, and succeed. She wants her students to feel confident yet challenged, and remember that the work is always worth it. Natalie is thankful to be back with her Dance Unlimited family!--}}
+{{--                                    </p>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+
             <div class="col mb-4">
                 <div class="card faculty-member">
-                    <div type="button" data-toggle="modal" data-target="#natalie" id="faculty-img-btn">
-                        <img src="/images/natalie.jpg" alt="" class="faculty-img">
+                    <div type="button" data-toggle="modal" data-target="#melissa" id="faculty-img-btn">
+                        <img src="/images/melissa-blake.jpg" alt="" class="faculty-img">
                     </div>
                     <div class="card-body p-0">
-                        <h5 class="card-title text-center mb-0">Natalie Goodin</h5>
+                        <h5 class="card-title text-center">Melissa Blake</h5>
                     </div>
-                    <div class="modal fade" id="natalie" tabindex="-1" role="dialog" aria-labelledby="natalie" aria-hidden="true">
+                    <div class="modal fade" id="melissa" tabindex="-1" role="dialog" aria-labelledby="melissa" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-scrollable" role="document">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title">Natalie Goodin</h5>
+                                    <h5 class="modal-title">Melissa Blake</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                         <span aria-hidden="true">&times;</span>
                                     </button>
                                 </div>
                                 <div class="modal-body">
                                     <p class="faculty-bio">
-                                        Natalie is so excited to come back to teach at Dance Unlimited! Natalie grew up at the studio, and took classes for 15 years. She recently graduated with a degree in Musical Theatre from the University of Oklahoma, and her favorite style of dance to teach is tap. Natalie’s goal for her students is to help them discover that the studio is a safe place to learn, grow, create, fail, and succeed. She wants her students to feel confident yet challenged, and remember that the work is always worth it. Natalie is thankful to be back with her Dance Unlimited family!
+                                        Bio coming soon!
                                     </p>
                                 </div>
                             </div>
@@ -557,17 +618,17 @@
 
             <div class="col mb-4">
                 <div class="card faculty-member">
-                    <div type="button" data-toggle="modal" data-target="#melissa" id="faculty-img-btn">
-                        <img src="/images/melissa-blake.jpg" alt="" class="faculty-img">
+                    <div type="button" data-toggle="modal" data-target="#abbieruff" id="faculty-img-btn">
+                        <img src="/images/abbie-ruff.jpeg" alt="" class="faculty-img">
                     </div>
                     <div class="card-body p-0">
-                        <h5 class="card-title text-center mb-0">Melissa Blake</h5>
+                        <h5 class="card-title text-center">Abbie Ruff</h5>
                     </div>
-                    <div class="modal fade" id="melissa" tabindex="-1" role="dialog" aria-labelledby="melissa" aria-hidden="true">
+                    <div class="modal fade" id="abbieruff" tabindex="-1" role="dialog" aria-labelledby="abbieruff" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-scrollable" role="document">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title">Melissa Blake</h5>
+                                    <h5 class="modal-title">Abbie Ruff</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                         <span aria-hidden="true">&times;</span>
                                     </button>
