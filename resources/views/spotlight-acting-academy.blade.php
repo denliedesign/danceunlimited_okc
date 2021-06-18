@@ -34,7 +34,7 @@
                     <div class="card-body">
                         <h5 class="card-title text-center">Broadway Babies</h5>
                         <p class="card-text" style="white-space: normal; height: 216px;">
-                            This class is a Beginner Level class for ages 4 and up that requires no previous experience and is an introduction into the musical theatre world. All are welcome!
+                            This class is a Beginner Level class for ages 4-6 that requires no previous experience and is an introduction into the musical theatre world. All are welcome!
                             <br><br>
                             Broadway Babies is a music theatre production class that focuses on acting, singing, and dancing and introducing students to the musical theatre world in a FUN, high energy setting!
                         </p>
@@ -48,7 +48,7 @@
                     <div class="card-body">
                         <h5 class="card-title text-center">Razzle Dazzle</h5>
                         <p class="card-text" style="white-space: normal; height: 216px;">
-                            This class is a Beginner Level class for ages 7 and up that requires no previous experience and is an introduction into the musical theatre world. All are welcome!
+                            This class is a Beginner Level class for ages 7-8 that requires no previous experience and is an introduction into the musical theatre world. All are welcome!
                             <br><br>
                             Razzle Dazzle is a music theatre production class that focuses on acting, singing, and dancing and introducing students to the musical theatre world in a FUN, high energy setting!
                         </p>
@@ -57,28 +57,29 @@
                         </div>
                     </div>
                 </div>
-{{--            <div class="card mr-3" style="width: 400px;">--}}
-{{--                <img src="images/classes/3.jpg" class="card-img-top" alt="">--}}
-{{--                <div class="card-body">--}}
-{{--                    <h5 class="card-title text-center">Totally Drama</h5>--}}
-{{--                    <p class="card-text" style="white-space: normal; height: 216px;">--}}
-{{--                        This class is a Beginner Level class  for ages 9-11 years old that requires no previous experience and is an introduction into the musical theatre world. All are welcome!--}}
-{{--                        <br><br>--}}
-{{--                        Totally Drama is a music theatre production class that focuses on acting, singing, and dancing.--}}
-{{--                    </p>--}}
-{{--                    <div class="d-flex justify-content-center mb-3">--}}
-{{--                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger mr-3">ENROLL NOW</button></a>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
+
             <div class="card mr-3" style="width: 400px;">
                 <img src="images/classes/broadway-bound.jpg" class="card-img-top" alt="">
                 <div class="card-body">
                     <h5 class="card-title text-center">Broadway Bound</h5>
                     <p class="card-text" style="white-space: normal; height: 216px;">
-                        This class is a Beginner/Intermediate Level class for ages 9 and up that requires some previous experience but is still an introduction into the musical theatre world. All are welcome!
+                        This class is a Beginner/Intermediate Level class for ages 10-12 that requires some previous experience but is still an introduction into the musical theatre world. All are welcome!
                         <br><br>
                         Broadway Bound is a music theatre production class that focuses on acting, singing, and dancing.
+                    </p>
+                    <div class="d-flex justify-content-center mb-3">
+                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger mr-3">ENROLL NOW</button></a>
+                    </div>
+                </div>
+            </div>
+            <div class="card mr-3" style="width: 400px;">
+                <img src="images/coming-soon.jpg" class="card-img-top" alt="">
+                <div class="card-body">
+                    <h5 class="card-title text-center">Totally Drama</h5>
+                    <p class="card-text" style="white-space: normal; height: 216px;">
+                        This class is a Intermediate Level class for ages 10-12 years old.
+                        <br><br>
+                        Totally Drama is a music theatre production class that focuses on acting, singing, and dancing.
                     </p>
                     <div class="d-flex justify-content-center mb-3">
                         <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger mr-3">ENROLL NOW</button></a>
@@ -104,7 +105,7 @@
                 <div class="card-body">
                     <h5 class="card-title text-center">Curtain Call</h5>
                     <p class="card-text" style="white-space: normal; height: 216px;">
-                        This class is an Intermediate/Advanced Level production class for ages 10 and up that requires permission to enroll.
+                        This class is an Intermediate/Advanced Level production class for ages 10-12 that requires permission to enroll.
                         <br><br>
                         Curtain Call is a music theatre production class that focuses on acting, singing, and dancing.
                     </p>
@@ -118,7 +119,7 @@
                 <div class="card-body">
                     <h5 class="card-title text-center">Take Stage</h5>
                     <p class="card-text" style="white-space: normal; height: 216px;">
-                        This class is an Advanced Level Class for ages 12 and up that does require previous experience.
+                        This class is an Advanced Level Class for ages 13 and up that does require previous experience.
                         <br><br>
                         Take Stage is a music theatre production class that focuses on acting, singing, and dancing.
                     </p>
@@ -145,48 +146,54 @@
                 <table class="table">
                     <thead>
                     <tr>
-                        <th>Music for Minis</th>
+{{--                        <th>Music for Minis</th>--}}
                         <th>Broadway Babies</th>
                         <th>Razzle Dazzle</th>
                         <th>Broadway Bound</th>
-                        <th>Curtain Call</th>
-                        <th>Take Stage</th>
+                        <th>Totally Drama (Int)</th>
+                        <th>Curtain Call (Int/Adv)</th>
+                        <th>Take Stage (Int/Adv)</th>
                     </tr>
                     </thead>
                     <tbody>
                     <tr>
-                        <td>Ages 3-4</td>
-                        <td>Ages 4+</td>
-                        <td>Ages 7+</td>
-                        <td>Ages 9+</td>
-                        <td>Ages 10+</td>
-                        <td>Ages 12+</td>
+{{--                        <td>Ages 3-4</td>--}}
+                        <td>Ages 4-6</td>
+                        <td>Ages 7-8</td>
+                        <td>Ages 10-12</td>
+                        <td>Ages 10-12</td>
+                        <td>Ages 10-12</td>
+                        <td>Ages 13+</td>
                     </tr>
                     <tr>
-                        <td>Tuesday</td>
-                        <td>Wednesday</td>
+{{--                        <td>Tuesday</td>--}}
+                        <td>Monday</td>
                         <td>Monday</td>
                         <td>Tuesday</td>
-                        <td>Wednesday</td>
+                        <td>Thursday</td>
+                        <td>Monday</td>
                         <td>Tuesday</td>
                     </tr>
                     <tr>
-                        <td>6:00-6:30</td>
-                        <td>5:30-6:30</td>
+{{--                        <td>6:00-6:30</td>--}}
                         <td>5:30-6:30</td>
                         <td>6:30-7:30</td>
-                        <td>4:30-5:30</td>
-                        <td>4:00-6:00</td>
+                        <td>6:00-7:00</td>
+                        <td>5:45-7:00</td>
+                        <td>4:30-5:45</td>
+                        <td>4:15-6:00</td>
                     </tr>
                     <tr>
+{{--                        <td>$60/mo</td>--}}
                         <td>$60/mo</td>
                         <td>$60/mo</td>
-                        <td>$60/mo</td>
+                        <td>$75/mo</td>
                         <td>$75/mo</td>
                         <td>$75/mo</td>
                         <td>$75/mo</td>
                     </tr>
                     <tr>
+{{--                        <td><a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm mr-3">ENROLL</button></a></td>--}}
                         <td><a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm mr-3">ENROLL</button></a></td>
                         <td><a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm mr-3">ENROLL</button></a></td>
                         <td><a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm mr-3">ENROLL</button></a></td>
