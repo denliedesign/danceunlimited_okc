@@ -55,7 +55,7 @@
                                         </div>
                                     </div>
                                     <div class="card mr-3">
-                                        <img src="images/classes/starlette2.jpg" alt="" style="max-width: 350px;" class="card-img-top">
+                                        <img src="images/starlettes-at-DU.jpeg" alt="" style="max-width: 350px;" class="card-img-top">
                                         <h5 class="card-title text-center" style="font-size: 1.1em">Starlette Ballet/Jazz/Tap/Hip Hop</h5>
                                         <p class="text-center card-text"style="white-space: normal; height: 24px;">Classes designed for 5-7 year olds.</p>
                                         <div class="d-flex justify-content-center mb-3">
@@ -71,7 +71,7 @@
                                         </div>
                                     </div>
                                     <div class="card mr-3">
-                                        <img src="images/classes/jr-hip-hop.jpg" alt="" style="max-width: 350px;" class="card-img-top">
+                                        <img src="images/jr-hip-hop-hair.jpeg" alt="" style="max-width: 350px;" class="card-img-top">
                                         <h5 class="card-title text-center" style="font-size: 1.1em">JR Hip Hop</h5>
                                         <p class="text-center card-text"style="white-space: normal; height: 24px;">Class designed for 7.5-8 year olds</p>
                                         <div class="d-flex justify-content-center mb-3">
@@ -108,8 +108,8 @@
                             <div class="container">
                                 <div class="row" style="height: 492.267px;">
                                     <div class="col-sm">
-                                        <img src="images/classes/curtain-call2.jpeg" alt="" class="d-none d-md-block" style="height: 433px;">
-                                        <img src="images/classes/curtain-call2.jpeg" alt="" class="d-md-none" style="height: 250px;">
+{{--                                        <img src="images/spotlight-acting-sb.jpg" alt="" class="d-none d-md-block" style="height: 433px;">--}}
+                                        <img src="images/spotlight-acting-sb.jpg" alt="">
                                     </div>
                                     <div class="col-sm">
                                         <p class="pt-2">

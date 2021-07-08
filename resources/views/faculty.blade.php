@@ -136,8 +136,8 @@
                         <img src="images/CERENA.jpg" alt="" class="faculty-img">
                     </div>
                     <div class="card-body p-0">
-                        <h5 class="card-title text-center">Cerena Chaney</h5>
-{{--                        <p class="text-center"><small>Instructor</small></p>--}}
+                        <h5 class="card-title text-center mb-0">Cerena Chaney</h5>
+                        <p class="text-center"><small>Dance Instructor</small></p>
                     </div>
                     <div class="modal fade" id="cerena" tabindex="-1" role="dialog" aria-labelledby="cerena" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-scrollable" role="document">
@@ -159,33 +159,33 @@
                 </div>
             </div>
 
-            <div class="col mb-4">
-                <div class="card faculty-member">
-                    <div type="button" data-toggle="modal" data-target="#cameelah" id="faculty-img-btn">
-                        <img src="images/CAMEELAH.jpg" alt="" class="faculty-img">
-                    </div>
-                    <div class="card-body p-0">
-                        <h5 class="card-title text-center">Cameelah Pennington Cook</h5>
-                    </div>
+{{--            <div class="col mb-4">--}}
+{{--                <div class="card faculty-member">--}}
+{{--                    <div type="button" data-toggle="modal" data-target="#cameelah" id="faculty-img-btn">--}}
+{{--                        <img src="images/CAMEELAH.jpg" alt="" class="faculty-img">--}}
+{{--                    </div>--}}
+{{--                    <div class="card-body p-0">--}}
+{{--                        <h5 class="card-title text-center mb-0">Cameelah Pennington Cook</h5>--}}
+{{--                    </div>--}}
 
-                    <div class="modal fade" id="cameelah" tabindex="-1" role="dialog" aria-labelledby="cameelah" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-scrollable" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title">Cameelah Pennington Cook</h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <p class="faculty-bio">
-                                        Cameelah Pennington Cook is a native of Oklahoma City, Oklahoma. She received her bachelors in Fine Arts in Modern Dance Performance from the University of Oklahoma. Cameelah has been a member of several professional dance companies such as Dayton Contemporary Dance Company, Hartel Dance Group, and RACE Dance Company. During the day her time is spent teaching full time as the Director of Dance at Capitol Hill High School. In her rare spare time, Cameelah loves baking and crafting. Most of all, Cameelah loves sharing her love of dance with her students all over the city. She is really thankful to be spending her fourth year at DU.                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+{{--                    <div class="modal fade" id="cameelah" tabindex="-1" role="dialog" aria-labelledby="cameelah" aria-hidden="true">--}}
+{{--                        <div class="modal-dialog modal-dialog-scrollable" role="document">--}}
+{{--                            <div class="modal-content">--}}
+{{--                                <div class="modal-header">--}}
+{{--                                    <h5 class="modal-title">Cameelah Pennington Cook</h5>--}}
+{{--                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">--}}
+{{--                                        <span aria-hidden="true">&times;</span>--}}
+{{--                                    </button>--}}
+{{--                                </div>--}}
+{{--                                <div class="modal-body">--}}
+{{--                                    <p class="faculty-bio">--}}
+{{--                                        Cameelah Pennington Cook is a native of Oklahoma City, Oklahoma. She received her bachelors in Fine Arts in Modern Dance Performance from the University of Oklahoma. Cameelah has been a member of several professional dance companies such as Dayton Contemporary Dance Company, Hartel Dance Group, and RACE Dance Company. During the day her time is spent teaching full time as the Director of Dance at Capitol Hill High School. In her rare spare time, Cameelah loves baking and crafting. Most of all, Cameelah loves sharing her love of dance with her students all over the city. She is really thankful to be spending her fourth year at DU.                                    </p>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
 
 
 
@@ -253,7 +253,8 @@
                         <img src="images/LESA.jpg" alt="" class="faculty-img">
                     </div>
                     <div class="card-body p-0">
-                        <h5 class="card-title text-center">Lesa Determan</h5>
+                        <h5 class="card-title text-center mb-0">Lesa Determan</h5>
+                        <p class="text-center"><small>Dance Instructor</small></p>
                     </div>
                     <div class="modal fade" id="lesa" tabindex="-1" role="dialog" aria-labelledby="lesa" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-scrollable" role="document">
@@ -339,7 +340,8 @@
                         <img src="images/MICHELLE.jpg" alt="" class="faculty-img">
                     </div>
                     <div class="card-body p-0">
-                        <h5 class="card-title text-center">Michelle Rambo</h5>
+                        <h5 class="card-title text-center mb-0">Michelle Rambo</h5>
+                        <p class="text-center"><small>Dance Instructor</small></p>
                     </div>
                     <div class="modal fade" id="michelle" tabindex="-1" role="dialog" aria-labelledby="michelle" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-scrollable" role="document">
@@ -363,33 +365,33 @@
                 </div>
             </div>
 
-            <div class="col mb-4">
-                <div class="card faculty-member">
-                    <div type="button" data-toggle="modal" data-target="#jessica" id="faculty-img-btn">
-                        <img src="/images/jessica.jpg" alt="" class="faculty-img">
-                    </div>
-                    <div class="card-body p-0">
-                        <h5 class="card-title text-center">Jessica Cajina</h5>
-                    </div>
-                    <div class="modal fade" id="jessica" tabindex="-1" role="dialog" aria-labelledby="jessica" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-scrollable" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title">Jessica Cajina</h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <p class="faculty-bio">
-                                        Bio coming soon!
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+{{--            <div class="col mb-4">--}}
+{{--                <div class="card faculty-member">--}}
+{{--                    <div type="button" data-toggle="modal" data-target="#jessica" id="faculty-img-btn">--}}
+{{--                        <img src="/images/jessica.jpg" alt="" class="faculty-img">--}}
+{{--                    </div>--}}
+{{--                    <div class="card-body p-0">--}}
+{{--                        <h5 class="card-title text-center mb-0">Jessica Cajina</h5>--}}
+{{--                    </div>--}}
+{{--                    <div class="modal fade" id="jessica" tabindex="-1" role="dialog" aria-labelledby="jessica" aria-hidden="true">--}}
+{{--                        <div class="modal-dialog modal-dialog-scrollable" role="document">--}}
+{{--                            <div class="modal-content">--}}
+{{--                                <div class="modal-header">--}}
+{{--                                    <h5 class="modal-title">Jessica Cajina</h5>--}}
+{{--                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">--}}
+{{--                                        <span aria-hidden="true">&times;</span>--}}
+{{--                                    </button>--}}
+{{--                                </div>--}}
+{{--                                <div class="modal-body">--}}
+{{--                                    <p class="faculty-bio">--}}
+{{--                                        Bio coming soon!--}}
+{{--                                    </p>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
 
 {{--            <div class="col mb-4">--}}
 {{--                <div class="card faculty-member">--}}
@@ -397,7 +399,7 @@
 {{--                        <img src="/images/jeremy.jpg" alt="" class="faculty-img">--}}
 {{--                    </div>--}}
 {{--                    <div class="card-body p-0">--}}
-{{--                        <h5 class="card-title text-center">Jeremy Duvall</h5>--}}
+{{--                        <h5 class="card-title text-center mb-0">Jeremy Duvall</h5>--}}
 {{--                    </div>--}}
 {{--                    <div class="modal fade" id="jeremy" tabindex="-1" role="dialog" aria-labelledby="jeremy" aria-hidden="true">--}}
 {{--                        <div class="modal-dialog modal-dialog-scrollable" role="document">--}}
@@ -425,7 +427,7 @@
 {{--                        <img src="/images/kristin.jpg" alt="" class="faculty-img">--}}
 {{--                    </div>--}}
 {{--                    <div class="card-body p-0">--}}
-{{--                        <h5 class="card-title text-center">Kristin Hair</h5>--}}
+{{--                        <h5 class="card-title text-center mb-0">Kristin Hair</h5>--}}
 {{--                    </div>--}}
 {{--                    <div class="modal fade" id="kristin" tabindex="-1" role="dialog" aria-labelledby="kristin" aria-hidden="true">--}}
 {{--                        <div class="modal-dialog modal-dialog-scrollable" role="document">--}}
@@ -453,7 +455,8 @@
                         <img src="/images/maddi.jpeg" alt="" class="faculty-img">
                     </div>
                     <div class="card-body p-0">
-                        <h5 class="card-title text-center">Maddi Hill</h5>
+                        <h5 class="card-title text-center mb-0">Maddi Hill</h5>
+                        <p class="text-center"><small>Dance Instructor</small></p>
                     </div>
                     <div class="modal fade" id="maddi" tabindex="-1" role="dialog" aria-labelledby="maddi" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-scrollable" role="document">
@@ -475,33 +478,33 @@
                 </div>
             </div>
 
-            <div class="col mb-4">
-                <div class="card faculty-member">
-                    <div type="button" data-toggle="modal" data-target="#alexis" id="faculty-img-btn">
-                        <img src="/images/alexis.jpeg" alt="" class="faculty-img">
-                    </div>
-                    <div class="card-body p-0">
-                        <h5 class="card-title text-center">Alexis Lanzo</h5>
-                    </div>
-                    <div class="modal fade" id="alexis" tabindex="-1" role="dialog" aria-labelledby="alexis" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-scrollable" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title">Alexis Lanzo</h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <p class="faculty-bio">
-                                        Bio coming soon!
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+{{--            <div class="col mb-4">--}}
+{{--                <div class="card faculty-member">--}}
+{{--                    <div type="button" data-toggle="modal" data-target="#alexis" id="faculty-img-btn">--}}
+{{--                        <img src="/images/alexis.jpeg" alt="" class="faculty-img">--}}
+{{--                    </div>--}}
+{{--                    <div class="card-body p-0">--}}
+{{--                        <h5 class="card-title text-center mb-0">Alexis Lanzo</h5>--}}
+{{--                    </div>--}}
+{{--                    <div class="modal fade" id="alexis" tabindex="-1" role="dialog" aria-labelledby="alexis" aria-hidden="true">--}}
+{{--                        <div class="modal-dialog modal-dialog-scrollable" role="document">--}}
+{{--                            <div class="modal-content">--}}
+{{--                                <div class="modal-header">--}}
+{{--                                    <h5 class="modal-title">Alexis Lanzo</h5>--}}
+{{--                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">--}}
+{{--                                        <span aria-hidden="true">&times;</span>--}}
+{{--                                    </button>--}}
+{{--                                </div>--}}
+{{--                                <div class="modal-body">--}}
+{{--                                    <p class="faculty-bio">--}}
+{{--                                        Bio coming soon!--}}
+{{--                                    </p>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
 
             <div class="col mb-4">
                 <div class="card faculty-member">
@@ -509,7 +512,8 @@
                         <img src="/images/chelsea.jpg" alt="" class="faculty-img">
                     </div>
                     <div class="card-body p-0">
-                        <h5 class="card-title text-center">Chelsea Jones</h5>
+                        <h5 class="card-title text-center mb-0">Chelsea Jones</h5>
+                        <p class="text-center"><small>Dance Instructor</small></p>
                     </div>
                     <div class="modal fade" id="chelsea" tabindex="-1" role="dialog" aria-labelledby="chelsea" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-scrollable" role="document">
@@ -594,7 +598,8 @@
                         <img src="/images/melissa-blake.jpg" alt="" class="faculty-img">
                     </div>
                     <div class="card-body p-0">
-                        <h5 class="card-title text-center">Melissa Blake</h5>
+                        <h5 class="card-title text-center mb-0">Melissa Blake</h5>
+                        <p class="text-center"><small>Dance Instructor</small></p>
                     </div>
                     <div class="modal fade" id="melissa" tabindex="-1" role="dialog" aria-labelledby="melissa" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-scrollable" role="document">
@@ -622,7 +627,8 @@
                         <img src="/images/abbie-ruff.jpeg" alt="" class="faculty-img">
                     </div>
                     <div class="card-body p-0">
-                        <h5 class="card-title text-center">Abbie Ruff</h5>
+                        <h5 class="card-title text-center mb-0">Abbie Ruff</h5>
+                        <p class="text-center"><small>Dance Instructor</small></p>
                     </div>
                     <div class="modal fade" id="abbieruff" tabindex="-1" role="dialog" aria-labelledby="abbieruff" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-scrollable" role="document">
