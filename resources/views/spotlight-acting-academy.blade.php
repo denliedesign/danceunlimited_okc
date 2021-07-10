@@ -5,7 +5,12 @@
 @section('content')
 
     <div class="container pb-5">
-        <p class="txt-title text-center py-5">Spotlight Acting Academy</p>
+        <p class="txt-title text-center pt-5 pb-2">Spotlight Acting Academy</p>
+        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 pb-3">
+            <div class="p-2"><img src="/images/spotlight-2.JPG" alt="spotlight student" style="height: 480px; width: auto; object-fit: cover; object-position: 0 0;" class="img-fluid shadow rounded"></div>
+            <div class="p-2"><img src="/images/spotlight-1.jpg" alt="spotlight logo" style="height: 480px; width: auto; object-fit: cover; object-position: 50% 0;" class="img-fluid shadow rounded"></div>
+            <div class="p-2"><img src="/images/spotlight-3.jpg" alt="spotlight student" style="height: 480px; width: auto; object-fit: cover; object-position: 0 0;" class="img-fluid shadow rounded"></div>
+        </div>
         <p>
             At Spotlight Acting Academy, the doors are always open for students with a range of theatre experience. We offer the opportunity for students to explore their interest and passion in not only acting, but musical theatre and performance. Our classes focus on educating students on audition techniques, theatre etiquette, and the foundations of voice, dancing, and acting performance. Our students are able to put all of their hard work and showcase their progress at the end of each semester in our musical production. Our productions have ranged from Elf Jr to Madagascar Jr and everything in between. We pride ourselves in presenting the best production quality for our students from costuming, props, set design, lighting, and sound to allow for the best experience possible that allows our students to shine on stage.
             Our production classes not only deepen a student’s interest in musical theatre but are also a great way for a student to try something new that helps them to break out of their shell and flourish creatively.
@@ -73,7 +78,7 @@
                 </div>
             </div>
             <div class="card mr-3" style="width: 400px;">
-                <img src="images/coming-soon.jpg" class="card-img-top" alt="">
+                <img src="images/coming-soon.jpg" class="card-img-top" alt="" style="height: 398px; width: 398px; object-fit: cover;">
                 <div class="card-body">
                     <h5 class="card-title text-center">Totally Drama</h5>
                     <p class="card-text" style="white-space: normal; height: 216px;">

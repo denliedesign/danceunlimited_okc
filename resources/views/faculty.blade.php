@@ -27,23 +27,23 @@
                                 </div>
                                 <div class="modal-body">
                                     <p class="faculty-bio">
-                                        Amy Reynolds-Reed (Owner/Artistic Director) opened Dance Unlimited in August 1999.
+                                        (Owner/Artistic Director/Dance Instructor) Opened Dance Unlimited in August 1999.
                                         <br><br>
-                                        Amy is a professional teacher/dancer with over 29 years of experience as an instructor/dancer of jazz, classical ballet, tap, modern and pointe.  Originally from Yukon, OK, Amy studied dance at Doran Vossen School Dance, and attended UCO for Dance graduating in 1995.  While in college Amy was a member of the Kaleidoscope Dance Company serving as student rehearsal and business director.  (FULL Scholarship for DANCE. ALL 4 year! Yes, it happens!)
+                                        Amy is a professional teacher/dancer with 30+ years’ experience as an instructor/dancer of jazz, classical ballet, tap, modern and pointe. Originally from Yukon, OK, and a graduate of the UCO Dance Program.
                                         <br><br>
-                                        Amy was a member of the UCO Dance Faculty for 6 year where she was an instructor of Jazz, Tap and Modern dance technique classes and Dance Pedagogy.  Then switched gears to join the University of Oklahoma in the Weitzenhoffer School of Musical Theatre as a Professor of Dance!  She served on the Dean’s Committee and Recruitment Committee at OU.  After 12 years at this wonderful University she is now back at UCO as a Professor in the Music Theatre department, just completing her first year!
+                                        Amy was a member of the UCO Dance Faculty for 6 years where she instructed Jazz, Tap and Modern dance technique classes plus Dance Pedagogy. Then switched gears to join the University of Oklahoma, Weitzenhoffer School of Musical Theatre.  She served on the Dean’s Committee and Recruitment Committee at OU for 12 years. Most recently she just finished up the past 4 years at UCO as a Professor in the Music Theatre department.
                                         <br><br>
-                                        Amy is also an accomplished choreographer.  Amy’s choreography can be seen not only in the year-end productions, but also on the VIBE Dance Company. She also choreographs for College, and Professional Regional musical theatre productions. Choreography credits include Rock of Ages (Lyric Theatre at the Plaza), Philharmonic Christmas Show, Billy Elliot, West Side Story, Hairspray, Call Me Madam (Lyric Theatre) The Wedding Singer (Sooner Theatre), Peter and the Star Catcher, Little Me (City Rep Theatre), South Pacific (Jewel Box Theatre), A Funny Thing Happened on the Way to the Forum, You’re A Good Man Charlie Brown (City Rep Theatre), The Fantasticks (OCU),  The Will Rogers Follies (Lyric Theatre/Grandbury Opera House), Jesus Christ Superstar and Cabaret (Lyric Theatre of OKC) and The Pirates of Penzance (OCU), Man of LaMancha (UCO),  Once Upon A Mattress, The Scarlet Pimpernel and A Chorus Line (OU).
+                                        Amy is an accomplished choreographer. Amy’s choreography can be seen not only in the year-end productions, but also on the VIBE Dance Company, collegiately, and regionally.
                                         <br><br>
-                                        Next projects:  Coming UP Summer 2018 – Freaky Friday (Lyric Theatre of OKC), Fall 2018 - Most Happy Fellow (UCO)
+                                        Choreography credits include Newsies! (Lyric Theatre OKC), Rock of Ages (Lyric Theatre at the Plaza), Freaky Friday (Lyric Theatre of OKC), Philharmonic Christmas Show, Billy Elliot, West Side Story, Hairspray, Call Me Madam (Lyric Theatre) The Wedding Singer (Sooner Theatre), Peter and the Star Catcher, Little Me (City Rep Theatre), South Pacific (Jewel Box Theatre), A Funny Thing Happened on the Way to the Forum, You’re A Good Man Charlie Brown (City Rep Theatre), The Fantasticks (OCU), The Will Rogers Follies (Lyric Theatre/Grandbury Opera House), Jesus Christ Superstar and Cabaret (Lyric Theatre of OKC) and The Pirates of Penzance (OCU), Man of LaMancha (UCO), Once Upon A Mattress, The Scarlet Pimpernel and A Chorus Line (OU), Most Happy Fellow (UCO)
                                         <br><br>
                                         Amy co-produced/directed the OKC Dance Project ”, a local jazz/contemporary dance company, performances of “Common Thread” and “Woven.
                                         <br><br>
                                         Favorite Performance Credits include Joseph and the Amazing Technicolor Dreamcoat, La Cage Aux Folles, Hair, Chicago, Grease, The Best Little Whorehouse in Texas, Can-Can, West Side Story, and A Funny Thing Happened On The Way To The Forum. Amy also worked in Boca Raton at the Royal Palm Dinner Theater and abroad on Royal Caribbean’s Rhapsody of the Seas.
                                         <br><br>
-                                        Amy’s many years of acquired knowledge and experience have given her the tools to teach with a great appreciation for each student’s individual needs and awareness of how to best help them realize their ultimate goals. This enthusiasm has led many of her students over the years to personal growth and competitive success.
+                                        <em>Amy’s many years of acquired knowledge and experience have given her the tools to teach with a great appreciation for each student’s individual needs and awareness of how to best help them realize their ultimate goals. This enthusiasm has led many of her students over the years to personal growth and competitive success.</em>
                                         <br><br>
-                                        Amy is also a very proud mom of her 10-year-old twins Krayson and Ember!
+                                        Amy is also a very proud mom of her 13-year-old twins Krayson and Ember!
                                     </p>
                                 </div>
                             </div>
@@ -150,7 +150,11 @@
                                 </div>
                                 <div class="modal-body">
                                     <p class="faculty-bio">
-                                        Cerena Chaney grew up in Ponca City, Oklahoma. She discovered her love of dance and the performing arts under the direction of Fran Norris at Miss Fran’s Dance and Tumbling Studio. Beginning dance at three years of age, Cerena studied tap, jazz, ballet, hip-hop, and acrobatics at her home dance studio. Cerena was also an active participant in her community children’s theatre, where she trained in dance, voice, and acting. After she graduated high school, Cerena attended Stephens College in Columbia, Missouri for two years as a dance major with an education minor, as well as being a member of the Stephens College Competitive Dance Team. While at Stephens College, Cerena trained in classical ballet and modern dance, as well as jazz, tap, and musical theatre dance. She transferred to Oklahoma City University to further pursue her passion of dance and teaching. Cerena is currently a senior dance pedagogy major at the Ann Lacy School of American Dance and Entertainment at Oklahoma City University. While at OCU, Cerena has performed with the American Spirit Dance Company in “Home for the Holidays” and the “Broadway Spring Revue”. After graduation, Cerena plans to continue teaching, and audition for the Oklahoma City Thunder Girls Dance Team.
+                                        Cerena Chaney is a native of Ponca City, Oklahoma. Dance has been her passion for as long as she can remember. Cerena began dancing at the age of three and continued to dance under the direction of Fran Norris at Miss Fran’s Dance and Tumbling Studio until graduating high school. Her love for this art form quickly grew into a permanent part of her life.
+                                        <br><br>
+                                        After graduating high school, Cerena wanted to take her passion to the next level, and she attended Oklahoma City University as a dance major. While at Oklahoma City University, she continued her love of dance technique and performance, but also fostered a passion for teaching dance to others. Cerena graduated in May 2020 with a Bachelor of Science in Dance Pedagogy.
+                                        <br><br>
+                                        Since graduating, Cerena has continued to teach, learn, and grow in her love of dance. She is starting her fourth year working for American Dance Drill Team, teaching dance team camps during the summer months to high school dance teams across the Midwest. Cerena is also starting her second year as the Pom Coach at Oakdale Middle School! She is excited to start her first year as a dance teacher as Classen SAS Middle School. Cerena is so excited to be starting her third year at Dance Unlimited, and she can’t wait to continue teaching, growing, and building relationships with students and families!
                                     </p>
                                 </div>
                             </div>
@@ -209,7 +213,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <p class="faculty-bio">
-                                        Emily Oliver was born in Edmond, Oklahoma.  She grew up dancing at Dance Unlimited Performing Arts Center then continued to pursue dance at the University of Oklahoma graduating in May of 2015 with a BFA in Modern Dance Performance. Emily was a member of the Contemporary Dance Oklahoma Company where she was able to work with and perform work by choreographers such as Carla Maxwell/Jose Limon, Alvin Ailey, Jessica Lang, and Austin Hartel. She was able to perform with Hartel Dance Group for a season, traveling to the International Fringe Festival, as well as the fall concert Retrospective and was also a member of the Oklahoma City Dance Project 2012 and 2014. Most recently, she spent a season working with the talented artists in Hannah Kahn Dance Company in Denver, CO under the artistic direction of Hannah Kahn.
+                                        Emily was born and raised in Edmond, Oklahoma. She grew up dancing at Dance Unlimited Performing Arts Center. She then pursued a dance degree at The University of Oklahoma, graduating in May of 2015 with a BFA in Modern Dance Performance. Emily was a member of the Contemporary Dance Oklahoma Company where she was able to work with and perform work by choreographers such as Carla Maxwell/Jose Limon, Alvin Ailey, Jessica Lang, and Austin Hartel. She was able to perform with Hartel Dance Group for a season, traveling to the International Fringe Festival, as well as the fall concert Retrospective. She was also a member of the Oklahoma City Dance Project 2012 and 2014. She spent a season working with the talented artists in Hannah Kahn Dance Company in Denver, CO under the artistic direction of Hannah Kahn. Most recently, she has been pursuing her passion for teaching dance and has had the fulfilling experience of directing The Vibe Dance Company.
                                     </p>
                                 </div>
                             </div>
@@ -267,7 +271,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <p class="faculty-bio">
-                                        Lesa began dancing at the age of three at Applause Studios in Oklahoma City under the direction of Patricia Oplontnik.  She became a member of the competition company at the age of eight and continued competing through high school.  Competing at various conventions and competitions throughout the region, Lesa, had the opportunity to study with various professional artists such as Keith Clifton, Rhonda Miller, Greg Russel, and Jeff Amsden.  In 1997, Lesa competed in the Miss Dance of Oklahoma competition taking 5th place and going on to compete at the Dance Masters of America National Convention in Orlando, FL taking 2nd runner up in her age division.  After graduating high school in 1998, she went to the University of Central Oklahoma where she was a member of the Kaleidoscope Dancers Company for four years.  During her college career, Lesa toured to various middle schools and high schools performing for children of all ages.  She also performed in Opening Night in Bricktown and at the American College Dance Festival Gala.  Lesa graduated with a Bachelor’s Degree in 2003 and has taught here at Dance Unlimited PAC for many years!
+                                        Lesa began dancing at the age of three at Applause Studios in Oklahoma City under the direction of Patricia Oplontnik. She became a member of the competition company at the age of eight and continued competing through high school. Competing at various conventions and competitions throughout the region, Lesa, had the opportunity to study with various professional artists such as Keith Clifton, Rhonda Miller, Greg Russel, and Jeff Amsden. In 1997, Lesa competed in the Miss Dance of Oklahoma competition taking 5th place and going on to compete at the Dance Masters of America National Convention in Orlando, FL taking 2nd runner up in her age division. After graduating high school in 1998, she went to the University of Central Oklahoma where she was a member of the Kaleidoscope Dancers Company for four years. During her college career, Lesa toured to various middle schools and high schools performing for children of all ages. She also performed in Opening Night in Bricktown and at the American College Dance Festival Gala. Lesa graduated with a Bachelor’s of Business Administration in 2003 and has taught here at Dance Unlimited PAC for the past 21 years.  Looking forward to another great year with the best dance family!
                                     </p>
                                 </div>
                             </div>
@@ -296,7 +300,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <p class="faculty-bio">
-                                        Makenzie Boatright is from Edmond, Oklahoma. She is currently a Senior at the University of Central Oklahoma studying Musical Theatre performance. Makenzie has had 13 years of vocal training and 9 years of dance. Along with years of performance experience, Makenzie also has experience in choreographing, music directing, and teaching private lessons. Makenzie is active in performing at her school, the community, and leading worship at her church. Some of her favorite shows have been Les Miserables, The Addams Family, Merrily We Roll Along, and The Most Happy Fella. After graduation, Makenzie plans on moving to New York City to pursue her dream of being on Broadway! Makenzie is so glad that Dance Unlimited and Spotlight have given her the opportunity to teach and share her passion with others!
+                                        Makenzie Boatright is from Edmond, Oklahoma. She has a Bachelor of Music in Musical Theatre Performance from the University of Central Oklahoma (UCO). Makenzie has had 13 years of vocal training and 9 years of dance. Along with years of performance experience, Makenzie also has experience in choreographing, music directing, and teaching private lessons. She has also been the Director and Assistant Director of many shows here at Spotlight!  Makenzie is active in performing in the community, and leading worship at her church. During the day, Makenzie spends her time serving as the Fine Arts Assistant at Crossings Christian School. In July 2020, Makenzie married her husband Dustin, and they live in Edmond with their dog Piper! Makenzie is so glad that Dance Unlimited and Spotlight have given her the opportunity to teach and share her passion with others!
                                     </p>
                                 </div>
                             </div>
@@ -312,7 +316,7 @@
                     </div>
                     <div class="card-body p-0">
                         <h5 class="card-title text-center mb-0">Maya Cook</h5>
-                        <p class="text-center"><small>Voice/Acting Instructor</small></p>
+                        <p class="text-center"><small>Voice, Piano/Acting Instructor</small></p>
                     </div>
                     <div class="modal fade" id="maya" tabindex="-1" role="dialog" aria-labelledby="maya" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-scrollable" role="document">
@@ -325,7 +329,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <p class="faculty-bio">
-                                        Maya Cook is from Edmond, Oklahoma, and is a Junior in the Musical Theatre program at the University of Central Oklahoma. She loves working with kids, and has worked at her church’s children’s ministry and Project Princess. Last Spring she choreographed Madagascar jr. at Dance Unlimited. She has experience in directing, music directing, and choreographing. Maya has participated in several UCO productions, and has been performing for about 13 years. Her future plans include performing for a few years and then eventually opening up her own children’s theatre. She is so ecstatic to teach musical theatre at Dance Unlimited for another year!
+                                        Maya Cook is from Edmond, Oklahoma. She is a graduate from the University of Central Oklahoma with a bachelor’s degree in Musical Theatre. She loves working with kids and has worked at her church’s children’s ministry and Project Princess. She has been working as a Musical Theatre teacher, Voice teacher, and Piano teacher at Dance Unlimited for two years now. She has experience in directing, music directing, and choreographing. Maya has participated in several UCO productions, and has been performing for about 15 years. She is so ecstatic to teach at Dance Unlimited for another year!
                                     </p>
                                 </div>
                             </div>
@@ -452,11 +456,11 @@
             <div class="col mb-4">
                 <div class="card faculty-member">
                     <div type="button" data-toggle="modal" data-target="#maddi" id="faculty-img-btn">
-                        <img src="/images/maddi.jpeg" alt="" class="faculty-img">
+                        <img src="/images/staff-maddi.jpeg" alt="" class="faculty-img">
                     </div>
                     <div class="card-body p-0">
                         <h5 class="card-title text-center mb-0">Maddi Hill</h5>
-                        <p class="text-center"><small>Dance Instructor</small></p>
+                        <p class="text-center"><small>Lobby Coordinator</small></p>
                     </div>
                     <div class="modal fade" id="maddi" tabindex="-1" role="dialog" aria-labelledby="maddi" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-scrollable" role="document">
@@ -469,7 +473,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <p class="faculty-bio">
-                                        Bio coming soon!
+                                        Maddi Hill is from Mansfield, Texas. She is currently a rising senior at the University of Central Oklahoma pursing a Bachelor of Music in Musical Theatre. She loves working with kids, seeing the joy and passion in their eyes as they find their passions and talents. After completing her degree, she hopes to inspire children to always chase their dreams by working as a performer for the Walt Disney World Company, Cruise lines, and more. She is so excited to continue to be a part of the Dance Unlimited family.
                                     </p>
                                 </div>
                             </div>
@@ -526,7 +530,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <p class="faculty-bio">
-                                        Bio coming soon!
+                                        Chelsea Jones is a graduate from Oklahoma University with a BFA in Musical Theatre. While performing was fun for Chelsea, she felt more fulfilled teaching. She has been teaching consistently with Dance Unlimited for almost 8 years now and enjoys all disciplines! Chelsea is the head of the dance department at Heritage Hall, and works consistently with the DU Starlette program.  Teaching is Chelsea’s passion but when she’s not teaching, she is being a mom to Jentry (5) and Janson (2) and eating as many sour patch kids as she can!
                                     </p>
                                 </div>
                             </div>
@@ -541,21 +545,21 @@
                         <img src="/images/jane.jpg" alt="" class="faculty-img">
                     </div>
                     <div class="card-body p-0">
-                        <h5 class="card-title text-center mb-0">Jane Neil</h5>
-                        <p class="text-center"><small>Voice Instructor</small></p>
+                        <h5 class="card-title text-center mb-0">Jane Warner Neil</h5>
+                        <p class="text-center"><small>Voice, Piano Instructor</small></p>
                     </div>
                     <div class="modal fade" id="jane" tabindex="-1" role="dialog" aria-labelledby="jane" aria-hidden="true">
                         <div class="modal-dialog modal-dialog-scrollable" role="document">
                             <div class="modal-content">
                                 <div class="modal-header">
-                                    <h5 class="modal-title">Jane Neil</h5>
+                                    <h5 class="modal-title">Jane Warner Neil</h5>
                                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                         <span aria-hidden="true">&times;</span>
                                     </button>
                                 </div>
                                 <div class="modal-body">
                                     <p class="faculty-bio">
-                                        Bio coming soon!
+                                        Jane Warner Neil is an OU Musical Theater graduate. In addition to raising her three beautiful children with her husband, she has a great passion for teaching and performing. She has been a part of many musicals, but her favorite roles were “Laurie” in the musical Oklahoma and “Gabriella, in the musical high school musical. Jane specializes in the Alexander technique and can teach vocal styles ranging from pop to opera. She teaches beginner piano, beginner-advanced voice, and beginner-advanced acting, and beginner-advanced songwriting. Jane believes strongly in unleashing the artist that lives in you and having a blast on the journey.
                                     </p>
                                 </div>
                             </div>
@@ -612,7 +616,9 @@
                                 </div>
                                 <div class="modal-body">
                                     <p class="faculty-bio">
-                                        Bio coming soon!
+                                        Mel Blanke is a dancer/choreographer from Edmond, Oklahoma. She has been teaching for 10 years, styles include Jazz, Contemporary, Lyrical and Technique. Melissa graduated with a BFA in Dance Performance from UCO in 2014. There, Melissa had the pleasure of training under an amazing faculty, along with some guest artists such as: Andrew Palermo, KiKi Lucas, Will Johnston, and many more.
+                                        <br><br>
+                                        Since then, she has choreographed and taught master classes for many studios. She has also had her presented in 2 RAW Artist shows, Celebrity CREATE and Kidz Carnival in LA. Melissa is so excited to continue to be a part of the DU family!
                                     </p>
                                 </div>
                             </div>
@@ -642,6 +648,66 @@
                                 <div class="modal-body">
                                     <p class="faculty-bio">
                                         Bio coming soon!
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col mb-4">
+                <div class="card faculty-member">
+                    <div type="button" data-toggle="modal" data-target="#alyssa" id="faculty-img-btn">
+                        <img src="/images/staff-alyssa.jpg" alt="" class="faculty-img">
+                    </div>
+                    <div class="card-body p-0">
+                        <h5 class="card-title text-center mb-0">Alyssa Hedding</h5>
+                        <p class="text-center"><small>Dance Instructor</small></p>
+                    </div>
+                    <div class="modal fade" id="alyssa" tabindex="-1" role="dialog" aria-labelledby="alyssa" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-scrollable" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Alyssa Hedding</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p class="faculty-bio">
+                                        Alyssa Hedding is from Flower Mound, Texas, and is currently a rising Sophomore Musical Theatre Major at the University of Central Oklahoma. Alyssa has been dancing all disciplines for 16 years. Some of Alyssa’s favorite shows to perform in were, Smitty in How to Succeed, Rosie in Mamma Mia, Rock of Ages (Ensemble/Dance Captain) , Oklahoma, and Bye Bye Birdie.
+                                        <br><br>
+                                        After graduating college, she hopes to perform, teach dance, and choreograph at studios and theatres! Alyssa loves sharing her love of dance with kids and is excited to be a part of the DU faculty!
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col mb-4">
+                <div class="card faculty-member">
+                    <div type="button" data-toggle="modal" data-target="#lilli" id="faculty-img-btn">
+                        <img src="/images/staff-lilli.jpg" alt="" class="faculty-img">
+                    </div>
+                    <div class="card-body p-0">
+                        <h5 class="card-title text-center mb-0">Lillian Ball</h5>
+                        <p class="text-center"><small>Dance Instructor</small></p>
+                    </div>
+                    <div class="modal fade" id="lilli" tabindex="-1" role="dialog" aria-labelledby="lilli" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-scrollable" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Lillian Ball</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p class="faculty-bio">
+                                        Lillian Ball is from Lincoln Nebraska, is a Rising Senior at OCU, currently earning a Bachelor of Science in Dance Management. Lillian began dancing at the age of two and studies all genres of dance. Lillian’s proudest moments included receiving First Over-All National Championship for her tapping, alongside her brother in 2018, named National Senior Dance Down Winner for three consecutive years, and being crowned the National Title of “Miss Spotlight 2018” at Spotlight Dance Cup National Finals. Lillian was honored with the “Blue Cobalt Award” for the Most Promising Sophomore Dance Universal student at OCU in 2020. Lillian has held many leadership roles at OCU such as: Director’s Assistant to Jo Rowan, Choreographer’s Assistant to Vincent Sandoval and Alana Martin, Head Deck Crew, and Film & Editing Assistant. She has performed in American Spirit Dance Company shows at OCU, as well as danced the lead role in the Student Choreography show in the fall of 2019. Lillian performed in the Spring into Spring show as the Line Captain for Jeremy Duvall’s dance, “Big Noise”. Lillian took home a choreography award with a tap solo choreographed for her brother, Beaudree Ball, “False Confidence”. Later, she received another choreography award for a tap solo, “Too Cool” danced by Madison Mattson. Lillian most recently was the Tap Master Instructor for Alpha Omega The Intensive during the summer of 2021. Lillian pours her heart into each student she gets the chance to teach. Lillian strives to be a role model and hopes to share her love for dance with many people and bring out the best in each of her students.
                                     </p>
                                 </div>
                             </div>

@@ -55,7 +55,7 @@
                                         </div>
                                     </div>
                                     <div class="card mr-3">
-                                        <img src="images/starlettes-at-DU.jpeg" alt="" style="max-width: 350px;" class="card-img-top">
+                                        <img src="images/starlettes-at-DU.JPG" alt="" style="width: 350px; height: 350px; object-fit: cover; object-position: 40% 0;" class="card-img-top">
                                         <h5 class="card-title text-center" style="font-size: 1.1em">Starlette Ballet/Jazz/Tap/Hip Hop</h5>
                                         <p class="text-center card-text"style="white-space: normal; height: 24px;">Classes designed for 5-7 year olds.</p>
                                         <div class="d-flex justify-content-center mb-3">

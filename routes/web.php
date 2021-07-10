@@ -39,9 +39,9 @@ Route::get('the-vibe', function () {
     return view('the-vibe');
 });
 
-Route::get('meet-the-vibe', function () {
-    return view('meet-the-vibe');
-});
+//Route::get('meet-the-vibe', function () {
+//    return view('meet-the-vibe');
+//});
 
 Route::get('spring', function () {
     return view('spring');
