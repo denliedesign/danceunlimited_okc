@@ -81,7 +81,7 @@
                 @case('Hip Hop')
                 <div class="my-2">
                     <div class="dress-box py-3" id="spotlight-schedule">
-                        <p class="lead text-center" style="font-size: 1.33em;">Hip Hop Ages 6 &^</p>
+                        <p class="lead text-center" style="font-size: 1.33em;">Hip Hop Ages 8 &^</p>
                         <div class="table-responsive px-4">
                             <table class="table">
                                 <tbody>

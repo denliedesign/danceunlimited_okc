@@ -78,11 +78,11 @@
                 </div>
             </div>
             <div class="card mr-3" style="width: 400px;">
-                <img src="images/coming-soon.jpg" class="card-img-top" alt="" style="height: 398px; width: 398px; object-fit: cover;">
+                <img src="images/spotlight-totally-drama.jpeg" class="card-img-top" alt="" style="height: 398px; width: 398px; object-fit: cover;">
                 <div class="card-body">
                     <h5 class="card-title text-center">Totally Drama</h5>
                     <p class="card-text" style="white-space: normal; height: 216px;">
-                        This class is a Intermediate Level class for ages 10-12 years old.
+                        This class is a class for ages 10-12 years old.
                         <br><br>
                         Totally Drama is a music theatre production class that focuses on acting, singing, and dancing.
                     </p>
@@ -110,7 +110,7 @@
                 <div class="card-body">
                     <h5 class="card-title text-center">Curtain Call</h5>
                     <p class="card-text" style="white-space: normal; height: 216px;">
-                        This class is an Intermediate/Advanced Level production class for ages 10-12 that requires permission to enroll.
+                        This class is a production class for ages 13+ that requires permission to enroll.
                         <br><br>
                         Curtain Call is a music theatre production class that focuses on acting, singing, and dancing.
                     </p>
@@ -155,8 +155,8 @@
                         <th>Broadway Babies</th>
                         <th>Razzle Dazzle</th>
                         <th>Broadway Bound</th>
-                        <th>Totally Drama (Int)</th>
-                        <th>Curtain Call (Int/Adv)</th>
+                        <th>Totally Drama</th>
+                        <th>Curtain Call</th>
                         <th>Take Stage (Int/Adv)</th>
                     </tr>
                     </thead>
@@ -167,7 +167,7 @@
                         <td>Ages 7-8</td>
                         <td>Ages 10-12</td>
                         <td>Ages 10-12</td>
-                        <td>Ages 10-12</td>
+                        <td>Ages 13+</td>
                         <td>Ages 13+</td>
                     </tr>
                     <tr>
@@ -176,7 +176,7 @@
                         <td>Monday</td>
                         <td>Tuesday</td>
                         <td>Thursday</td>
-                        <td>Monday</td>
+                        <td>Thursday</td>
                         <td>Tuesday</td>
                     </tr>
                     <tr>
