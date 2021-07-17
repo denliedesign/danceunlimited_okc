@@ -18,58 +18,61 @@
         </div>
 
         <h1 class="txt-black-title pt-5">Summer Camps</h1>
-        <div>
-            <div class="row row-cols-2 row-cols-lg-3">
-                <div class="col mt-3">
-                    <a href="images/summer/camp-1.png" target="_blank">
-                        <img src="images/summer/camp-1.png" alt="" style="width: 100%;">
-                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>
-                    </a>
-                </div>
-                <div class="col mt-3">
-                    <a href="images/summer/camp-2.png" target="_blank">
-                        <img src="images/summer/camp-2.png" alt="" style="width: 100%;">
-                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>
-                    </a>
-                </div>
-                <div class="col mt-3">
-                    <a href="images/summer/camp-3.jpg" target="_blank">
-                        <img src="images/summer/camp-3.jpg" alt="" style="width: 100%;">
-                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>
-                    </a>
-                </div>
-                <div class="col mt-3">
-                    <a href="images/summer/camp-4.jpeg" target="_blank">
-                        <img src="images/summer/camp-4.jpeg" alt="" style="width: 100%;">
-                    </a>
-                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>
-                </div>
-                <div class="col mt-3">
-                    <a href="images/summer/camp-5.jpg" target="_blank">
-                        <img src="images/summer/camp-5.jpg" alt="" style="width: 100%;">
-                    </a>
-                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>
-                </div>
-                <div class="col mt-3">
-                    <a href="images/summer/camp-6.jpg" target="_blank">
-                        <img src="images/summer/camp-6.jpg" alt="" style="width: 100%;">
-                    </a>
-                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>
-                </div>
-                <div class="col mt-3">
-                    <a href="images/summer/camp-7.png" target="_blank">
-                        <img src="images/summer/camp-7.png" alt="" style="width: 100%;">
-                    </a>
-                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>
-                </div>
-                <div class="col mt-3">
-                    <a href="images/summer/camp-8.PNG" target="_blank">
-                        <img src="images/summer/camp-8.PNG" alt="" style="width: 100%;">
-                    </a>
-                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>
-                </div>
-            </div>
-        </div>
+        <p>
+            Thank you for a FUN Summer Camp season!!
+        </p>
+{{--        <div>--}}
+{{--            <div class="row row-cols-2 row-cols-lg-3">--}}
+{{--                <div class="col mt-3">--}}
+{{--                    <a href="images/summer/camp-1.png" target="_blank">--}}
+{{--                        <img src="images/summer/camp-1.png" alt="" style="width: 100%;">--}}
+{{--                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>--}}
+{{--                    </a>--}}
+{{--                </div>--}}
+{{--                <div class="col mt-3">--}}
+{{--                    <a href="images/summer/camp-2.png" target="_blank">--}}
+{{--                        <img src="images/summer/camp-2.png" alt="" style="width: 100%;">--}}
+{{--                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>--}}
+{{--                    </a>--}}
+{{--                </div>--}}
+{{--                <div class="col mt-3">--}}
+{{--                    <a href="images/summer/camp-3.jpg" target="_blank">--}}
+{{--                        <img src="images/summer/camp-3.jpg" alt="" style="width: 100%;">--}}
+{{--                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>--}}
+{{--                    </a>--}}
+{{--                </div>--}}
+{{--                <div class="col mt-3">--}}
+{{--                    <a href="images/summer/camp-4.jpeg" target="_blank">--}}
+{{--                        <img src="images/summer/camp-4.jpeg" alt="" style="width: 100%;">--}}
+{{--                    </a>--}}
+{{--                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>--}}
+{{--                </div>--}}
+{{--                <div class="col mt-3">--}}
+{{--                    <a href="images/summer/camp-5.jpg" target="_blank">--}}
+{{--                        <img src="images/summer/camp-5.jpg" alt="" style="width: 100%;">--}}
+{{--                    </a>--}}
+{{--                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>--}}
+{{--                </div>--}}
+{{--                <div class="col mt-3">--}}
+{{--                    <a href="images/summer/camp-6.jpg" target="_blank">--}}
+{{--                        <img src="images/summer/camp-6.jpg" alt="" style="width: 100%;">--}}
+{{--                    </a>--}}
+{{--                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>--}}
+{{--                </div>--}}
+{{--                <div class="col mt-3">--}}
+{{--                    <a href="images/summer/camp-7.png" target="_blank">--}}
+{{--                        <img src="images/summer/camp-7.png" alt="" style="width: 100%;">--}}
+{{--                    </a>--}}
+{{--                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>--}}
+{{--                </div>--}}
+{{--                <div class="col mt-3">--}}
+{{--                    <a href="images/summer/camp-8.PNG" target="_blank">--}}
+{{--                        <img src="images/summer/camp-8.PNG" alt="" style="width: 100%;">--}}
+{{--                    </a>--}}
+{{--                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm spring-btn">ENROLL NOW</button></a>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
     </div>
 
 @endsection

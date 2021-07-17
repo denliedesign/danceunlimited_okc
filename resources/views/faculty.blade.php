@@ -616,7 +616,7 @@
                                 </div>
                                 <div class="modal-body">
                                     <p class="faculty-bio">
-                                        Mel Blanke is a dancer/choreographer from Edmond, Oklahoma. She has been teaching for 10 years, styles include Jazz, Contemporary, Lyrical and Technique. Melissa graduated with a BFA in Dance Performance from UCO in 2014. There, Melissa had the pleasure of training under an amazing faculty, along with some guest artists such as: Andrew Palermo, KiKi Lucas, Will Johnston, and many more.
+                                        Mel Blake is a dancer/choreographer from Edmond, Oklahoma. She has been teaching for 10 years, styles include Jazz, Contemporary, Lyrical and Technique. Melissa graduated with a BFA in Dance Performance from UCO in 2014. There, Melissa had the pleasure of training under an amazing faculty, along with some guest artists such as: Andrew Palermo, KiKi Lucas, Will Johnston, and many more.
                                         <br><br>
                                         Since then, she has choreographed and taught master classes for many studios. She has also had her presented in 2 RAW Artist shows, Celebrity CREATE and Kidz Carnival in LA. Melissa is so excited to continue to be a part of the DU family!
                                     </p>
