@@ -38,6 +38,56 @@
 
             </div>
 
+
+            <section id="new-events" class="text-center my-5">
+               <div class="container">
+                  <div class="row">
+                      <div class="col-sm">
+                          <h2 class="txt-orange">MOVE OVER MOANA!!!! We’ll have you on our stages soon.</h2>
+                          <p>
+                              But, for this Fall, we are “falling” all the way back to the <span class="highlight-yellow"><em><strong>Totally Rad</strong></em> 1980’s</span> with two FANTASTIC Musicals set in the era of Madonna, Molly Ringwald, Def Leopard, Bon Jovi, Prince, Cindi Lauper and Michael Jackson!!!
+                          </p>
+                          <p class="txt-pink-purple">
+                              The Broadway hits, <span class="highlight-white">HEATHERS; The Musical</span>, and <span class="highlight-white">ROCK OF AGES</span> will be rocking our Spotlight Studio stage!!!  These are not your “parents” musicals…well… actually, they are. If you parents grew up in the 80’s, anyway!!!
+                          </p>
+                          <p class="txt-green">
+                              If you’ve seen the Broadway shows, or the movies… FEAR NOT!!! We will have all the great music, and the storylines, without the language, or the adult situations. They’re <u>cleaned up</u>, high energy, super fun, and family friendly versions of the hit Broadway musicals!!!
+                          </p>
+                          <p class="txt-dark-blue">
+                              ROCK OF AGES is more than just your typical jukebox musical. It blends great hits from the 1980s by popular Rockers together to tell the story of a small town 80’s girl going to LA’s Sunset strip to seek her fame and fortune. Packed with bigger than life colorful characters, 80s bangs, LOTS of aqua net, massive mullets, and eclectic costumes, ROCK OF AGES is a blast from the popular past of the 1980’s that kids of all ages will enjoy!!!
+                          </p>
+                          <p class="txt-red">
+                              HEATHERS THE MUSICAL; is the darkly delicious story of Veronica Sawyer, a brainy, beautiful teenage misfit who hustles her way into the most powerful and ruthless clique at Westerberg High: The Heathers.
+                          </p>
+                          <p>
+                              Broadway Babies, Razzle Dazzle, Broadway Bound will be performing Rock of Ages Youth Edition.
+                              <br>
+                              Curtain Call and Totally Drama will be performing Rock of Ages Teen Edition.
+                              <br>
+                              Take Stage will be performing Heathers: Teen Edition.
+                          </p>
+                          <p class="highlight-turq">
+                              Totally Drama, Curtain Call and Take Stage will have AUDITIONS Saturday Aug 7th, and Callbacks Aug 8th.
+                          </p>
+                          <p>
+                              You <strong>must</strong> be enrolled at Spotlight for the semester to attend auditions and participate.
+                          </p>
+                          <div class="d-flex justify-content-center mb-3">
+                              <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd" target="_blank"><button class="btn btn-danger mr-3">Enroll In Class</button></a>
+                              <a href="https://www.signupgenius.com/go/60B0E4AACA92AA5FD0-rock" target="_blank"><button class="btn btn-outline-danger">Sign Up For Auditions</button></a>
+                          </div>
+                      </div>
+                      <div class="col-sm">
+                          <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
+                              <img src="/images/rock-of-ages-youth.jpg" alt="spotlight acting events" class="img-fluid">
+                              <img src="/images/rock-of-ages-teen.jpg" alt="spotlight acting events" class="img-fluid">
+                          </div>
+                          <img src="/images/heathers.jpg" alt="spotlight acting events" class="img-fluid">
+                      </div>
+                  </div>
+               </div>
+            </section>
+
             <div class="container">
                 <div class="row">
                     <div class="col-md-6">

@@ -412,3 +412,12 @@ i {
     /*color: #c25da9;*/
     color: #ec8ec0;
 }
+
+.txt-orange { color: orange; }
+.txt-pink-purple { color: deeppink; }
+.txt-green { color: green; }
+.txt-dark-blue { color: darkblue; }
+.txt-red { color: red; }
+.highlight-turq { background: turquoise; }
+.highlight-yellow { background: yellow; }
+.highlight-white { background: white; font-weight: bold; }
