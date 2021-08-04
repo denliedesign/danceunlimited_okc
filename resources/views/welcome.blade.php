@@ -176,7 +176,21 @@
                 </div>
             </div>
 
-
+            <div class="container d-flex justify-content-center pt-5">
+                <div class="row">
+                    <div class="col-md text-center d-flex align-items-center">
+                        <div>
+                            <h1 class="txt-black-title">We Have Built a Reputation for Excellence in Dance Instruction</h1>
+                            <p>
+                                From your child’s first class to their graduation performance, DUPAC has a class for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, DUPAC is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="col-md">
+                        <img src="/images/mtjgd-cert.jpg" alt="more than just great dancing certification" class="img-fluid" style="max-width: 600px; width: 100%; height: auto;">
+                    </div>
+                </div>
+            </div>
 
             <div id="calendar" class="mt-5 pb-5">
                 <div class="container">
