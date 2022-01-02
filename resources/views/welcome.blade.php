@@ -38,7 +38,42 @@
 
             </div>
 
-
+                <section id="new-events" class="text-center my-5">
+                    <h2 class="txt-black-title">Spotlight Acting Spring 2022 Auditions</h2>
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-sm">
+                                <img src="/images/spotlight-chicago.jpg" alt="chicago logo" class="img-fluid">
+                                <br><span style="font-size: 1.33em; color:#a52b2a;" class="font-weight-bold">CHICAGO AUDITIONS<br> TAKE STAGE (AGES 13+)</span>
+                                <br><strong>Auditions</strong>
+                                <br>Tuesday, January 18th 4:15-6pm
+                                <br>
+                                <br><strong>Callbacks</strong>
+                                <br>Sunday, January 23rd 2-5pm
+                            </div>
+                            <div class="col-sm">
+                                <img src="/images/spotlight-freaky-friday.jpg" alt="freaky friday logo" class="img-fluid">
+                                <br><span style="font-size: 1.33em; color:#a52b2a;" class="font-weight-bold">FREAKY FRIDAY AUDITIONS<br> (AGES 9-13)</span>
+                                <br><strong>Auditions</strong>
+                                <br>BROADWAY BOUND-Tuesday, January 18th 6:15-7:15pm
+                                <br>CURTAIN CALL- Thursday January 20th 4:30-5:45
+                                <br>TOTALLY DRAMA- Thursday, January 20th 5:45-7pm
+                                <br>
+                                <br><strong>Callbacks</strong>
+                                <br>BROADWAY BOUND- Friday January 21st 4:30-6 pm
+                                <br>TOTALLY DRAMA- Saturday January 22nd - 2:30-5pm
+                                <br>CURTAIN CALL- Saturday January 22nd- 5-7:30pm
+                            </div>
+                            <div class="col-sm">
+                                <img src="/images/spotlight-winnie-the-pooh.jpg" alt="winnie the pooh logo" class="img-fluid">
+                                <br><span style="font-size: 1.33em; color:#a52b2a;" class="font-weight-bold">WINNIE THE POOH AUDITIONS<br> (AGES 4-9)</span>
+                                <br><strong>Auditions</strong>
+                                <br>BROADWAY BABIES- No audition required
+                                <br>RAZZLE DAZZLE- Monday, January 17th 6:30-7:30
+                            </div>
+                        </div>
+                    </div>
+                </section>
 {{--            <section id="new-events" class="text-center my-5">--}}
 {{--               <div class="container">--}}
 {{--                  <div class="row">--}}
