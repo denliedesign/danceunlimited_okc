@@ -24,7 +24,7 @@
                     <a class="nav-link" href="/summer">Summer</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/fall">Fall & Spring</a>
+                    <a class="nav-link" href="/fall">Fall & Spring & Pop Ups</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/dress">Dress Code</a>

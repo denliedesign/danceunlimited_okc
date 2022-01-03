@@ -32,7 +32,7 @@
                             <a href="/summer">Summer</a>
                         </li>
                         <li>
-                            <a href="/fall">Fall & Spring</a>
+                            <a href="/fall">Fall & Spring & Pop Ups</a>
                         </li>
                         <li>
                             <a href="/dress">Dress Code</a>
