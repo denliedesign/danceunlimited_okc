@@ -18,7 +18,7 @@
                     <br><span style="color: #a52b2a; font-size: 1.33em; text-shadow: dimgray 1px 1px 2px;" class="font-weight-bold">2 Day Pom Workshop</span>
                     <br><strong>Ages:</strong> 12 and older
                     <br><strong>Skills:</strong> Across the floor, kick technique, sideline, dance combo
-                    <br><strong>Date:</strong> January 22 nd &amp; 23 rd AND /OR March 22 nd &amp; 23 rd
+                    <br><strong>Date:</strong> January 22 nd &amp; 23 rd AND /OR March 26 nd &amp; 27 rd
                     <br><strong>Cost:</strong> $75 for one day or $100 for two days ($175 for both Jan&amp; Mar workshops)
                     <br><strong>Time:</strong> Saturday 10am-1pm and Sunday 2-5pm
                     <br>
