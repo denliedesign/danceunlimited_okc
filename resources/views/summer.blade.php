@@ -27,6 +27,8 @@
                         <br>
                         <strong>Cost:</strong> $150.00
                     </p>
+                                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button type="button" class="btn btn-danger text-uppercase">ENROLL NOW</button></a>
+
                 </div>
                 <div class="text-center p-2">
                     <img src="/images/wheres-my-spotlight.jpg" alt="summer camp graphic" class="img-fluid">
@@ -44,6 +46,8 @@
                         <br>
                         <strong>Cost:</strong> $150.00
                     </p>
+                                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button type="button" class="btn btn-danger text-uppercase">ENROLL NOW</button></a>
+
                 </div>
                 <div class="text-center p-2">
                     <img src="/images/dance-your-magic.jpg" alt="summer camp graphic" class="img-fluid">
@@ -68,6 +72,8 @@
                         <br>
                         <strong>Cost:</strong> $150.00
                     </p>
+                                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button type="button" class="btn btn-danger text-uppercase">ENROLL NOW</button></a>
+
                 </div>
                 <div class="text-center p-2">
                     <img src="/images/under-the-big-top.jpg" alt="summer camp graphic" class="img-fluid">
@@ -94,6 +100,8 @@
                         <br>
                         <strong>Cost:</strong> $150.00
                     </p>
+                                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button type="button" class="btn btn-danger text-uppercase">ENROLL NOW</button></a>
+
                 </div>
                 <div class="text-center p-2">
                     <img src="/images/bringin-the-beat.jpg" alt="summer camp graphic" class="img-fluid">
@@ -109,6 +117,8 @@
                         <br>
                         <strong>Cost:</strong> $300
                     </p>
+                                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button type="button" class="btn btn-danger text-uppercase">ENROLL NOW</button></a>
+
                 </div>
                 <div class="text-center p-2">
                     <img src="/images/villain.jpg" alt="summer camp graphic" class="img-fluid">
@@ -129,6 +139,8 @@
                         <br>
                         <strong>Cost:</strong> $150.00
                     </p>
+                                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button type="button" class="btn btn-danger text-uppercase">ENROLL NOW</button></a>
+
                 </div>
                 <div class="text-center p-2">
                     <img src="/images/one-day-camps.jpg" alt="summer camp graphic" class="img-fluid">
@@ -141,6 +153,8 @@
                         <br><br>
                         <strong>July 20 &middot; Pony Tales</strong> – Always be Unique!!! Unicorns, Ponies and Rainbows. Dancing, Games, Crafts and Friendships!
                     </p>
+                                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button type="button" class="btn btn-danger text-uppercase">ENROLL NOW</button></a>
+
                 </div>
             </div>
         </section>
