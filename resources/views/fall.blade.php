@@ -32,22 +32,22 @@
                     <br><strong>Date:</strong> March 26th
                     <br><strong>Time:</strong> 1:30-2:30pm
                     <br>
-                    <br><span style="color: #a52b2a; font-size: 1.33em; text-shadow: dimgray 1px 1px 2px;" class="font-weight-bold">Broadway Babies! Song and Dance</span>
-                    <br>Does your child sing and dance at home and love to entertain you?? This pop up is perfect for them!
-                    <br>This is an hour-long class designed specifically for 3–6-year-olds that will have them singing, dancing &amp; engaged from start to finish.
-                    <br><strong>Date:</strong> Jan 22 nd and Feb 5th
-                    <br><strong>Time:</strong> 11am-12pm
-                    <br><strong>Ages:</strong> 3-6
-                    <br><strong>Cost:</strong> $15 for one class, $20 for both
-                    <br>
-                    <br><span style="color: #a52b2a; font-size: 1.33em; text-shadow: dimgray 1px 1px 2px;" class="font-weight-bold">The Royal Ball</span>
-                    <br>Grab your favorite princess/prince outfit &amp; your best friends and join us for the best Royal Ball Ballet Style Dance Camp!
-                    <br>Camp will be full of the most fun princess/prince games, royal dancing, fairytale story time &amp; so much more!
-                    <br><strong>Date:</strong> February 12th
-                    <br><strong>Time:</strong> 10am-12pm
-                    <br><strong>Ages:</strong> 3-6
-                    <br><strong>Cost:</strong> $20
-                    <br>
+{{--                    <br><span style="color: #a52b2a; font-size: 1.33em; text-shadow: dimgray 1px 1px 2px;" class="font-weight-bold">Broadway Babies! Song and Dance</span>--}}
+{{--                    <br>Does your child sing and dance at home and love to entertain you?? This pop up is perfect for them!--}}
+{{--                    <br>This is an hour-long class designed specifically for 3–6-year-olds that will have them singing, dancing &amp; engaged from start to finish.--}}
+{{--                    <br><strong>Date:</strong> Jan 22 nd and Feb 5th--}}
+{{--                    <br><strong>Time:</strong> 11am-12pm--}}
+{{--                    <br><strong>Ages:</strong> 3-6--}}
+{{--                    <br><strong>Cost:</strong> $15 for one class, $20 for both--}}
+{{--                    <br>--}}
+{{--                    <br><span style="color: #a52b2a; font-size: 1.33em; text-shadow: dimgray 1px 1px 2px;" class="font-weight-bold">The Royal Ball</span>--}}
+{{--                    <br>Grab your favorite princess/prince outfit &amp; your best friends and join us for the best Royal Ball Ballet Style Dance Camp!--}}
+{{--                    <br>Camp will be full of the most fun princess/prince games, royal dancing, fairytale story time &amp; so much more!--}}
+{{--                    <br><strong>Date:</strong> February 12th--}}
+{{--                    <br><strong>Time:</strong> 10am-12pm--}}
+{{--                    <br><strong>Ages:</strong> 3-6--}}
+{{--                    <br><strong>Cost:</strong> $20--}}
+{{--                    <br>--}}
                     <br><span style="color: #a52b2a; font-size: 1.33em; text-shadow: dimgray 1px 1px 2px;" class="font-weight-bold">Dancing with your Dolls!</span>
                     <br>American Girl, Barbie Doll, LOL Doll, Cabbage Patch, or whatever your FAVORITE doll is! Join us for a fun day of dancing, games, singing, &amp; making fun new crafts for your doll!
                     <br><strong>Date:</strong> March 26th
@@ -55,23 +55,13 @@
                     <br><strong>Ages:</strong> 3-6
                     <br><strong>Cost:</strong> $20
                     <br>
-                    <br><span style="color: #a52b2a; font-size: 1.33em; text-shadow: dimgray 1px 1px 2px;" class="font-weight-bold">ZOMBIE Music Theatre Dance Camp!!!</span>
-                    <br>Let’s Sing and Dance, Let’s make some awesome memories!
-                    <br><strong>Date:</strong> Jan 22nd
-                    <br><strong>Time:</strong> 12:30-2:30
-                    <br><strong>Age:</strong> 7-11
-                    <br><strong>Cost:</strong> $20
-                </p>
-            </div>
-            <div class="col-sm">
-                <p>
-                    <br><span style="color: #a52b2a; font-size: 1.33em; text-shadow: dimgray 1px 1px 2px;" class="font-weight-bold">ANNIE Music Theatre Dance Camp!!!</span>
-                    <br>Let’s Sing and Dance, Let’s make some awesome memories!
-                    <br><strong>Date:</strong> Feb 5th
-                    <br><strong>Time:</strong> 12:30-2:30
-                    <br><strong>Age:</strong> 7-11
-                    <br><strong>Cost:</strong> $20
-                    <br>
+{{--                    <br>--}}
+{{--                    <br><span style="color: #a52b2a; font-size: 1.33em; text-shadow: dimgray 1px 1px 2px;" class="font-weight-bold">ZOMBIE Music Theatre Dance Camp!!!</span>--}}
+{{--                    <br>Let’s Sing and Dance, Let’s make some awesome memories!--}}
+{{--                    <br><strong>Date:</strong> Jan 22nd--}}
+{{--                    <br><strong>Time:</strong> 12:30-2:30--}}
+{{--                    <br><strong>Age:</strong> 7-11--}}
+{{--                    <br><strong>Cost:</strong> $20--}}
                     <br><span style="color: #a52b2a; font-size: 1.33em; text-shadow: dimgray 1px 1px 2px;" class="font-weight-bold">Leaps/Jumps Workshop</span>
                     <br>A workshop with all the technique prep for jazz leaps and jumps! Great workshop for those getting ready for POM tryouts, Vibe Auditions or perfecting skills for class!
                     <br><strong>Date:</strong> February 12th
@@ -81,7 +71,17 @@
                     <br>And/or
                     <br><strong>Date:</strong> March 26th
                     <br><strong>Time:</strong> 2:30-3:30pm
-                    <br>
+                </p>
+            </div>
+            <div class="col-sm">
+                <p>
+{{--                    <br><span style="color: #a52b2a; font-size: 1.33em; text-shadow: dimgray 1px 1px 2px;" class="font-weight-bold">ANNIE Music Theatre Dance Camp!!!</span>--}}
+{{--                    <br>Let’s Sing and Dance, Let’s make some awesome memories!--}}
+{{--                    <br><strong>Date:</strong> Feb 5th--}}
+{{--                    <br><strong>Time:</strong> 12:30-2:30--}}
+{{--                    <br><strong>Age:</strong> 7-11--}}
+{{--                    <br><strong>Cost:</strong> $20--}}
+{{--                    <br>--}}
                     <br><span style="color: #a52b2a; font-size: 1.33em; text-shadow: dimgray 1px 1px 2px;" class="font-weight-bold">Walkovers/Handstands/Cartwheels, OH My!</span>
                     <br>A Beginning Acro workshop with all the technique prep for Acro skills and sequences!
                     <br><strong>Date:</strong> February 12th

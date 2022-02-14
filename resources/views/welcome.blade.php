@@ -11,7 +11,7 @@
                             </p>
                         </div>
                         <div class="d-flex justify-content-center">
-                            <video id="myVideo" controls>
+                            <video id="myVideo" controls poster="/images/dupac-poster.jpg">
                                 <source src="images/back-up.mp4" type="video/mp4">
                             </video>
                         </div>

@@ -22,3 +22,7 @@ const buttonLefts = document.getElementById('slide-left-calendar');
 buttonLefts.onclick = function () {
     document.getElementById('scrolling-wrapper-calendar').scrollLeft += -350;
 };
+
+function downToBottom() {
+    gsap.to(window, {duration: 5, ease: 'power2.inOut', scrollTo: '#bottom'});
+}

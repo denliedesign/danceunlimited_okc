@@ -11,9 +11,9 @@
         @endcan
 
         <section>
-            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-2">
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-3">
                 <div class="text-center p-2">
-                    <img src="/images/fairies-princesses-pirates.jpg" alt="summer camp graphic" class="img-fluid">
+                    <img src="/images/fairies-princesses-pirates.jpg" alt="summer camp graphic" class="img-fluid" style="max-height: 400px;">
                     <h3>Fairies, Princesses &amp; Pirates!</h3>
                     <p class="lead">June 6th – 9th</p>
                     <p>
@@ -31,7 +31,7 @@
 
                 </div>
                 <div class="text-center p-2">
-                    <img src="/images/wheres-my-spotlight.jpg" alt="summer camp graphic" class="img-fluid">
+                    <img src="/images/wheres-my-spotlight.jpg" alt="summer camp graphic" class="img-fluid" style="max-height: 400px;">
                     <h3>Where's MY Spotlight?</h3>
                     <p class="lead">June 6th – 9th</p>
                     <p>
@@ -50,7 +50,7 @@
 
                 </div>
                 <div class="text-center p-2">
-                    <img src="/images/dance-your-magic.jpg" alt="summer camp graphic" class="img-fluid">
+                    <img src="/images/dance-your-magic.jpg" alt="summer camp graphic" class="img-fluid" style="max-height: 400px;">
                     <h3>Dance YOUR Magic!</h3>
                     <p class="lead">June 13th – 16th</p>
                     <p>
@@ -76,7 +76,7 @@
 
                 </div>
                 <div class="text-center p-2">
-                    <img src="/images/under-the-big-top.jpg" alt="summer camp graphic" class="img-fluid">
+                    <img src="/images/under-the-big-top.jpg" alt="summer camp graphic" class="img-fluid" style="max-height: 400px;">
                     <h3>Under the Big Top</h3>
                     <p class="lead">June 20th – 23rd</p>
                     <p>
@@ -104,7 +104,7 @@
 
                 </div>
                 <div class="text-center p-2">
-                    <img src="/images/bringin-the-beat.jpg" alt="summer camp graphic" class="img-fluid">
+                    <img src="/images/bringin-the-beat.jpg" alt="summer camp graphic" class="img-fluid" style="max-height: 400px;">
                     <h3>Summer Dance Camp – Bringin the Beat!</h3>
                     <p class="lead">July 11th - 14th</p>
                     <p>
@@ -121,7 +121,7 @@
 
                 </div>
                 <div class="text-center p-2">
-                    <img src="/images/villain.jpg" alt="summer camp graphic" class="img-fluid">
+                    <img src="/images/villain.jpg" alt="summer camp graphic" class="img-fluid" style="max-height: 400px;">
                     <h3>Did you say VILLAIN????</h3>
                     <p class="lead">July 18th - 21st</p>
                     <p>
@@ -143,7 +143,7 @@
 
                 </div>
                 <div class="text-center p-2">
-                    <img src="/images/one-day-camps.jpg" alt="summer camp graphic" class="img-fluid">
+                    <img src="/images/one-day-camps.jpg" alt="summer camp graphic" class="img-fluid" style="max-height: 400px;">
                     <h3>1 Day Camps</h3>
                     <p class="lead">Ages 3-6 / Time: 10am-12pm (Arrive 9:45) / Cost: $25</p>
                     <p>
@@ -163,10 +163,10 @@
 {{--        <p class="text-center font-weight-bold my-0">Summer 2022 Coming Soon</p>--}}
 {{--        <p class="text-center font-weight-bold my-0">We Are Now Enrolling For All Things Summer!</p>--}}
 {{--        <p class="text-center text-muted mt-0"><small>All classes must have a minimum of 6 enrolled to make</small></p>--}}
-{{--        <h1 class="txt-black-title pt-5">Summer Schedule</h1>--}}
-{{--        <div class="card-columns">--}}
-{{--            @include('sstyles')--}}
-{{--        </div>--}}
+        <h1 class="txt-black-title pt-5">Summer Schedule</h1>
+        <div class="card-columns">
+            @include('sstyles')
+        </div>
 
 {{--        <h1 class="txt-black-title pt-5">Summer Camps</h1>--}}
 {{--        <p>--}}
