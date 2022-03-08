@@ -421,3 +421,24 @@ i {
 .highlight-turq { background: turquoise; }
 .highlight-yellow { background: yellow; }
 .highlight-white { background: white; font-weight: bold; }
+
+.btn-wow {
+    background: linear-gradient(to bottom right, #6F99DE, #6FDEB3);
+    color: white;
+    text-shadow: 1px 1px 2px #DE7C6F;
+    border: 3px solid white;
+    box-shadow: 2px 2px 4px #DE7C6F;
+    transition: all ease 0.8s;
+    border-radius: 50%;
+    height: 133px;
+    width: 133px;
+    transform: rotate(-1deg);
+    /*padding: 30px 15px 30px 15px;*/
+}
+
+.btn-wow:hover {
+    text-shadow: none;
+    box-shadow: none;
+    color: white;
+    transform: rotate(1deg);
+}

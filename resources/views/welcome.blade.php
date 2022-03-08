@@ -126,6 +126,13 @@
 {{--            </section>--}}
 
             <div class="container">
+
+                <div class="d-flex justify-content-center mb-4 mt-2">
+                    <a href="https://store68590524.company.site" target="_blank">
+                        <button class="btn btn-wow btn-lg" style="font-family: 'Suez One', Serif; font-size: 1.75em;">WOW!</button>
+                    </a>
+                </div>
+
                 <div class="row">
                     <div class="col-md-6">
                         <div id="classes">
