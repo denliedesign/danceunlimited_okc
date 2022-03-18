@@ -127,11 +127,26 @@
 
             <div class="container">
 
-                <div class="d-flex justify-content-center mb-4 mt-2">
-                    <a href="https://store68590524.company.site" target="_blank">
-                        <button class="btn btn-wow btn-lg" style="font-family: 'Suez One', Serif; font-size: 1.75em;">WOW!</button>
-                    </a>
+                <div class="d-flex justify-content-center">
+                    <div class="row">
+                        <div class="col-sm">
+                            <img src="/images/apparel.png" alt="apparel" class="img-fluid">
+                        </div>
+                        <div class="col-sm text-center d-flex align-items-center">
+                            <div>
+                                <h3 class="txt-black-title">Gear Up With Dance Unlimited</h3>
+                                <p>
+                                    Show your pride and support with official Dance Unlimited apparel
+                                </p>
+                                <div class="d-flex justify-content-center mb-3">
+                                    <a href="https://store68590524.company.site" target="_blank"><button class="btn btn-danger">SHOP NOW</button></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
+
+
 
                 <div class="row">
                     <div class="col-md-6">
