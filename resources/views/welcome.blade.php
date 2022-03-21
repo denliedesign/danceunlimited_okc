@@ -235,6 +235,10 @@
                 </div>
             </div>
 
+            <div class="py-5">
+                @include('seasons')
+            </div>
+
             <div class="container d-flex justify-content-center py-5">
                 <div class="row">
                     <div class="col-md text-center d-flex align-items-center">

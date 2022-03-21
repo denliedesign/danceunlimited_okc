@@ -8,10 +8,10 @@
 </div>
 <div data-spy="scroll" data-target="#list-example" data-offset="5" class="scrollspy-example" style="height: 400px; overflow-y: scroll;">
 
-    <div style="position: relative;">
+    <div class="container" style="position: relative;">
         <div id="summer">
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 m-0 p-0">
-                <div class="col my-2 px-2">
+                <div class="col my-2 px-2 d-flex justify-content-center">
                     <div class="card season-card" style="max-width: 400px; width: 100%;">
                         <div class="season-icon summer-icon">
                             <ion-icon name="sunny"></ion-icon>
@@ -40,7 +40,7 @@
                     </div>
                 </div>
 
-                <div class="col my-2 px-2">
+                <div class="col my-2 px-2 d-flex justify-content-center">
                     <div class="card season-card" style="max-width: 400px; width: 100%;">
                         <div class="season-icon summer-icon">
                             <ion-icon name="sunny"></ion-icon>
@@ -69,7 +69,7 @@
                     </div>
                 </div>
 
-                <div class="col my-2 px-2">
+                <div class="col my-2 px-2 d-flex justify-content-center">
                     <div class="card season-card" style="max-width: 400px; width: 100%;">
                         <div class="season-icon summer-icon">
                             <ion-icon name="sunny"></ion-icon>
@@ -102,7 +102,7 @@
 
         <div id="fall">
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 m-0 p-0">
-                <div class="col my-2 px-2">
+                <div class="col my-2 px-2 d-flex justify-content-center">
                     <div class="card" style="max-width: 400px; width: 100%;">
                         <div class="season-icon fall-icon">
                             <ion-icon name="leaf"></ion-icon>
@@ -131,7 +131,7 @@
                     </div>
                 </div>
 
-                <div class="col my-2 px-2">
+                <div class="col my-2 px-2 d-flex justify-content-center">
                     <div class="card" style="max-width: 400px; width: 100%;">
                         <div class="season-icon fall-icon">
                             <ion-icon name="leaf"></ion-icon>
@@ -160,7 +160,7 @@
                     </div>
                 </div>
 
-                <div class="col my-2 px-2">
+                <div class="col my-2 px-2 d-flex justify-content-center">
                     <div class="card" style="max-width: 400px; width: 100%;">
                         <div class="season-icon fall-icon">
                             <ion-icon name="leaf"></ion-icon>
@@ -193,7 +193,7 @@
 
         <div id="winter">
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 m-0 p-0">
-                <div class="col my-2 px-2">
+                <div class="col my-2 px-2 d-flex justify-content-center">
                     <div class="card" style="max-width: 400px; width: 100%;">
                         <div class="season-icon winter-icon">
                             <ion-icon name="snow"></ion-icon>
@@ -222,7 +222,7 @@
                     </div>
                 </div>
 
-                <div class="col my-2 px-2">
+                <div class="col my-2 px-2 d-flex justify-content-center">
                     <div class="card" style="max-width: 400px; width: 100%;">
                         <div class="season-icon winter-icon">
                             <ion-icon name="snow"></ion-icon>
@@ -251,7 +251,7 @@
                     </div>
                 </div>
 
-                <div class="col my-2 px-2">
+                <div class="col my-2 px-2 d-flex justify-content-center">
                     <div class="card" style="max-width: 400px; width: 100%;">
                         <div class="season-icon winter-icon">
                             <ion-icon name="snow"></ion-icon>
@@ -284,7 +284,7 @@
 
         <div id="spring">
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 m-0 p-0">
-                <div class="col my-2 px-2">
+                <div class="col my-2 px-2 d-flex justify-content-center">
                     <div class="card" style="max-width: 400px; width: 100%;">
                         <div class="season-icon spring-icon">
                             <ion-icon name="rose"></ion-icon>
@@ -313,7 +313,7 @@
                     </div>
                 </div>
 
-                <div class="col my-2 px-2">
+                <div class="col my-2 px-2 d-flex justify-content-center">
                     <div class="card" style="max-width: 400px; width: 100%;">
                         <div class="season-icon spring-icon">
                             <ion-icon name="rose"></ion-icon>
@@ -342,7 +342,7 @@
                     </div>
                 </div>
 
-                <div class="col my-2 px-2">
+                <div class="col my-2 px-2 d-flex justify-content-center">
                     <div class="card" style="max-width: 400px; width: 100%;">
                         <div class="season-icon spring-icon">
                             <ion-icon name="rose"></ion-icon>
