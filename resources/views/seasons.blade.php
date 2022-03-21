@@ -6,6 +6,11 @@
         <div class="col"><a class="text-white" href="#spring">Spring</a></div>
     </div>
 </div>
+
+@can('update', \App\Calendar::class)
+    <p class="text-center"><a href="calendars/create">New Date</a></p>
+@endcan
+
 <div data-spy="scroll" data-target="#list-example" data-offset="5" class="scrollspy-example" style="height: 400px; overflow-y: scroll;">
 
     <div class="container" style="position: relative;">
