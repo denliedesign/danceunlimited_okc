@@ -10,6 +10,16 @@
             <p class="text-center"><a href="/sstyles/create">New Summer Item</a></p>
         @endcan
 
+        <p class="lead mb-1"><em>Summer Information!</em></p>
+        <ul>
+            <li>Summer Camps begin June 6th!</li>
+            <li>Summer Dance and Acting Classes run June 14th – June 30. Summer Break July 1-7. Classes resume July 11th – 28th.</li>
+            <li>Front Desk Hours are Monday 10am – 2pm, Tuesday - Thursday 3:30 – 9:00pm.</li>
+            <li>Studio Phone Number – 405.242.4612</li>
+            <li>Studio Email – danceunlimitedokc@gmail.com</li>
+        </ul>
+
+
         <section>
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-3">
                 <div class="text-center p-2">
