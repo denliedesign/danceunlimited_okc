@@ -221,25 +221,43 @@
                     </div>
                 </div>
             </div>
-        </div>
-    </div>
 
-    <div id="calendar" class="pb-5">
-        <div class="container">
-            <h1 class="txt-black-title text-center">Calendar</h1>
-            @can('update', \App\Calendar::class) <p class="text-center"><a href="/calendars/create">New Calendar Item</a></p> @endcan
-            <div id="calendar">
-                {{--                        <div class="horizontal-controls d-flex justify-content-center my-2">--}}
-                {{--                            <button id="slide-left-calendar" class="mr-5"><i class="arrow click-left d-flex align-self-center"></i></button>--}}
-                {{--                            <button id="slide-right-calendar"><i class="arrow click-right d-flex align-self-center"></i></button>--}}
-                {{--                        </div>--}}
-                {{--                        <div class="scrolling-wrapper-calendar pb-2" id="scrolling-wrapper-calendar">--}}
-                {{--                        @include('calendars')--}}
-                @include('seasons')
+            <div class="card" style="width: 100%;">
+                <div class="card-header" id="policiesEight">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#closeEight" aria-expanded="false" aria-controls="closeEight">
+                            <h1 class="txt-black-title text-left text-dark">CALENDAR</h1>
+                        </button>
+                    </h2>
+                </div>
+                <div id="closeEight" class="collapse" aria-labelledby="policiesEight" data-parent="#accordionFAQ">
+                    <div class="card-body">
 
+                        <div id="calendar" class="pb-5">
+                            <div class="container">
+                                <h1 class="txt-black-title text-center">Calendar</h1>
+                                @can('update', \App\Calendar::class) <p class="text-center"><a href="/calendars/create">New Calendar Item</a></p> @endcan
+                                <div id="calendar">
+                                    {{--                        <div class="horizontal-controls d-flex justify-content-center my-2">--}}
+                                    {{--                            <button id="slide-left-calendar" class="mr-5"><i class="arrow click-left d-flex align-self-center"></i></button>--}}
+                                    {{--                            <button id="slide-right-calendar"><i class="arrow click-right d-flex align-self-center"></i></button>--}}
+                                    {{--                        </div>--}}
+                                    {{--                        <div class="scrolling-wrapper-calendar pb-2" id="scrolling-wrapper-calendar">--}}
+                                    {{--                        @include('calendars')--}}
+                                    @include('seasons')
+
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
             </div>
+
         </div>
     </div>
+
+
 
 {{--        <div>--}}
 {{--            <h1 class="txt-black-title text-center">Why Dance at Dance Unlimited?</h1>--}}
