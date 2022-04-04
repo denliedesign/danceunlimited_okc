@@ -129,17 +129,28 @@
 
                 <div class="d-flex justify-content-center">
                     <div class="row">
-                        <div class="col-sm">
-                            <img src="/images/apparel.png" alt="apparel" class="img-fluid">
+                        <div class="col-sm text-center p-2" id="spotlight" style="height: 100%;">
+                            <h3 class="txt-black-title">Recital Google Drive!</h3>
+                            <p>
+                                Click here to access our recital Google Drive - your one stop shop for important dates, rehearsal info, picture day details, costume notes, and music!
+                            </p>
+                            <div class="d-flex justify-content-center mb-3">
+                                <a href="https://drive.google.com/drive/u/0/folders/1VtxcjzRlL66RI9YTlX8I_yRtqMAxaUgH" target="_blank"><button class="btn btn-danger">ALL THINGS RECITAL</button></a>
+                            </div>
                         </div>
                         <div class="col-sm text-center d-flex align-items-center">
-                            <div>
-                                <h3 class="txt-black-title">Gear Up With Dance Unlimited</h3>
-                                <p>
-                                    Show your pride and support with official Dance Unlimited apparel
-                                </p>
-                                <div class="d-flex justify-content-center mb-3">
-                                    <a href="https://store68590524.company.site" target="_blank"><button class="btn btn-danger">SHOP NOW</button></a>
+                            <div class="col-sm">
+                                <img src="/images/apparel.png" alt="apparel" class="img-fluid">
+                            </div>
+                            <div class="col-sm">
+                                <div>
+                                    <h3 class="txt-black-title">Gear Up With Dance Unlimited</h3>
+                                    <p>
+                                        Show your pride and support with official Dance Unlimited apparel
+                                    </p>
+                                    <div class="d-flex justify-content-center mb-3">
+                                        <a href="https://store68590524.company.site" target="_blank"><button class="btn btn-danger">SHOP NOW</button></a>
+                                    </div>
                                 </div>
                             </div>
                         </div>
