@@ -199,7 +199,7 @@
                     </tr>
                     <tr>
 {{--                        <td><a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm mr-3">ENROLL</button></a></td>--}}
-                        <td><a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm mr-3">ENROLL</button></a></td>
+{{--                        <td><a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm mr-3">ENROLL</button></a></td>--}}
                         <td><a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm mr-3">ENROLL</button></a></td>
                         <td><a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm mr-3">ENROLL</button></a></td>
                         <td><a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm mr-3">ENROLL</button></a></td>
