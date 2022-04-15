@@ -20,24 +20,24 @@
                     <div class="card-body">
                         <div class="row">
                             <div class="col-sm">
-                                <a href="/images/du-welcome.pdf" target="_blank" style="text-decoration: none;">
-                                    <img src="/images/du-welcome.jpg" alt="du welcome pack" class="img-fluid">
+                                <a href="/images/du-welcome-22.pdf" target="_blank" style="text-decoration: none;">
+                                    <img src="/images/du-welcome-22.jpg" alt="du welcome pack" class="img-fluid">
                                     <div class="d-flex justify-content-center mt-2">
                                         <p class="btn btn-danger">Dance Unlimited Welcome Pack</p>
                                     </div>
                                 </a>
                             </div>
                             <div class="col-sm">
-                                <a href="/images/starlette-welcome.pdf" target="_blank" style="text-decoration: none;">
-                                    <img src="/images/starlette-welcome.jpg" alt="starlette welcome pack" class="img-fluid">
+                                <a href="/images/starlette-welcome-22.pdf" target="_blank" style="text-decoration: none;">
+                                    <img src="/images/starlette-welcome-22.jpg" alt="starlette welcome pack" class="img-fluid">
                                     <div class="d-flex justify-content-center mt-2">
                                         <p class="btn btn-danger">Starlette Welcome Pack</p>
                                     </div>
                                 </a>
                             </div>
                             <div class="col-sm">
-                                <a href="/images/spotlight-acting-welcome.pdf" target="_blank" style="text-decoration: none;">
-                                    <img src="/images/spotlight-acting-welcome.jpg" alt="spotlight acting welcome pack" class="img-fluid">
+                                <a href="/images/spotlight-acting-welcome-22.pdf" target="_blank" style="text-decoration: none;">
+                                    <img src="/images/spotlight-acting-welcome-22.jpg" alt="spotlight acting welcome pack" class="img-fluid">
                                     <div class="d-flex justify-content-center mt-2">
                                         <p class="btn btn-danger">Spotlight Acting Welcome Pack</p>
                                     </div>
