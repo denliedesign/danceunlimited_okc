@@ -1,11 +1,11 @@
 @extends('layouts.app')
 
-@section('title', 'Fall & Spring 2021-2022 | Dance Unlimited')
+@section('title', 'Fall 2022-2023 | Dance Unlimited')
 
 @section('content')
 
     <div class="container pb-5">
-        <p class="txt-title text-center pt-5 mb-0">Fall & Spring 2021-2022</p>
+        <p class="txt-title text-center pt-5 mb-0">Fall 2022-2023</p>
         @can('update', \App\Fstyle::class)
             <p class="text-center"><a href="/fstyles/create">New Fall Item</a></p>
         @endcan
