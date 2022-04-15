@@ -85,10 +85,10 @@
                     <a href="images/vibe-audition-21.pdf" target="_blank"><button class="btn btn-outline-danger mr-3">THE VIBE AUDITION FORM</button></a>
                     <a href="images/vibe-policy.pdf" target="_blank"><button class="btn btn-outline-danger">THE VIBE POLICY</button></a>
                 </div>
-                <div class="mb-5 mt-3 d-flex justify-content-center">
-                    <a href="images/vibette-info.pdf" target="_blank"><button class="btn btn-outline-danger mr-3">VIBETTES INFO</button></a>
-                    <a href="images/vibette-contract-21.pdf" target="_blank"><button class="btn btn-outline-danger">VIBETTES CONTRACT</button></a>
-                </div>
+{{--                <div class="mb-5 mt-3 d-flex justify-content-center">--}}
+{{--                    <a href="images/vibette-info.pdf" target="_blank"><button class="btn btn-outline-danger mr-3">VIBETTES INFO</button></a>--}}
+{{--                    <a href="images/vibette-contract-21.pdf" target="_blank"><button class="btn btn-outline-danger">VIBETTES CONTRACT</button></a>--}}
+{{--                </div>--}}
             </div>
 
         </div>
