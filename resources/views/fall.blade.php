@@ -125,7 +125,7 @@
 {{--        <img src="/images/class-breakdown.jpg" alt="class breakdown" class="img-fluid">--}}
 
 
-        <h1 class="txt-black-title pt-5">Fall & Spring Schedule</h1>
+        <h1 class="txt-black-title pt-5">Fall Schedule</h1>
         <div class="card-columns" style="font-size: 0.9em;">
             @include('fstyles')
         </div>
