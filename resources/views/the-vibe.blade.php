@@ -82,8 +82,9 @@
                 </div>
                 <div class="mt-5 d-flex justify-content-center">
 {{--                    <a href="meet-the-vibe"><button class="btn btn-danger mr-3">MEET THE VIBE</button></a>--}}
-                    <a href="images/vibe-audition-21.pdf" target="_blank"><button class="btn btn-outline-danger mr-3">THE VIBE AUDITION FORM</button></a>
-                    <a href="images/vibe-policy.pdf" target="_blank"><button class="btn btn-outline-danger">THE VIBE POLICY</button></a>
+{{--                    <a href="images/vibe-audition-21.pdf" target="_blank"><button class="btn btn-outline-danger mr-3">THE VIBE AUDITION FORM</button></a>--}}
+{{--                    <a href="images/vibe-policy.pdf" target="_blank"><button class="btn btn-outline-danger">THE VIBE POLICY</button></a>--}}
+                    <a href="images/vibe-info-22.pdf" target="_blank"><button class="btn btn-outline-danger">THE VIBE INFO</button></a>
                 </div>
 {{--                <div class="mb-5 mt-3 d-flex justify-content-center">--}}
 {{--                    <a href="images/vibette-info.pdf" target="_blank"><button class="btn btn-outline-danger mr-3">VIBETTES INFO</button></a>--}}
