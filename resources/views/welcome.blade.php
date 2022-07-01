@@ -7,12 +7,12 @@
                     <div class="container video-container">
                         <div class="d-flex justify-content-center">
                             <p class="txt-overlay text-center txt-title">
-                                OKC/Edmond Premier Dance & Acting Studio with a variety of classes for all ages
+                                OKC/Edmond Premier Dance & Acting Studio With A Variety of Classes for All Students
                             </p>
                         </div>
                         <div class="d-flex justify-content-center">
                             <video id="myVideo" controls poster="/images/dupac-poster.jpg">
-                                <source src="images/back-up.mp4" type="video/mp4">
+                                <source src="images/dupac-22.mp4" type="video/mp4">
                             </video>
                         </div>
                     </div>
@@ -127,35 +127,35 @@
 
             <div class="container">
 
-                <div class="d-flex justify-content-center">
-                    <div class="row">
-                        <div class="col-sm text-center p-2" id="spotlight" style="height: 100%;">
-                            <h3 class="txt-black-title">Recital Google Drive!</h3>
-                            <p>
-                                Click here to access our recital Google Drive - your one stop shop for important dates, rehearsal info, picture day details, costume notes, and music!
-                            </p>
-                            <div class="d-flex justify-content-center mb-3">
-                                <a href="https://drive.google.com/drive/u/0/folders/1VtxcjzRlL66RI9YTlX8I_yRtqMAxaUgH" target="_blank"><button class="btn btn-danger">ALL THINGS RECITAL</button></a>
-                            </div>
-                        </div>
-                        <div class="col-sm text-center d-flex align-items-center">
-                            <div class="col-sm">
-                                <img src="/images/apparel.png" alt="apparel" class="img-fluid">
-                            </div>
-                            <div class="col-sm">
-                                <div>
-                                    <h3 class="txt-black-title">Gear Up With Dance Unlimited</h3>
-                                    <p>
-                                        Show your pride and support with official Dance Unlimited apparel
-                                    </p>
-                                    <div class="d-flex justify-content-center mb-3">
-                                        <a href="https://store68590524.company.site" target="_blank"><button class="btn btn-danger">SHOP NOW</button></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+{{--                <div class="d-flex justify-content-center">--}}
+{{--                    <div class="row">--}}
+{{--                        <div class="col-sm text-center p-2" id="spotlight" style="height: 100%;">--}}
+{{--                            <h3 class="txt-black-title">Recital Google Drive!</h3>--}}
+{{--                            <p>--}}
+{{--                                Click here to access our recital Google Drive - your one stop shop for important dates, rehearsal info, picture day details, costume notes, and music!--}}
+{{--                            </p>--}}
+{{--                            <div class="d-flex justify-content-center mb-3">--}}
+{{--                                <a href="https://drive.google.com/drive/u/0/folders/1VtxcjzRlL66RI9YTlX8I_yRtqMAxaUgH" target="_blank"><button class="btn btn-danger">ALL THINGS RECITAL</button></a>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="col-sm text-center d-flex align-items-center">--}}
+{{--                            <div class="col-sm">--}}
+{{--                                <img src="/images/apparel.png" alt="apparel" class="img-fluid">--}}
+{{--                            </div>--}}
+{{--                            <div class="col-sm">--}}
+{{--                                <div>--}}
+{{--                                    <h3 class="txt-black-title">Gear Up With Dance Unlimited</h3>--}}
+{{--                                    <p>--}}
+{{--                                        Show your pride and support with official Dance Unlimited apparel--}}
+{{--                                    </p>--}}
+{{--                                    <div class="d-flex justify-content-center mb-3">--}}
+{{--                                        <a href="https://store68590524.company.site" target="_blank"><button class="btn btn-danger">SHOP NOW</button></a>--}}
+{{--                                    </div>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
 
 
 
@@ -167,49 +167,60 @@
                                 <div class="scrolling-wrapper py-2" id="scrolling-wrapper">
                                     <div class="card mr-3" style="">
                                         <img src="images/classes/starlette.jpg" alt="" style="max-width: 350px;" class="card-img-top">
-                                        <h5 class="card-title text-center" style="font-size: 1.1em">Starlette</h5>
-                                        <p class="text-center card-text"style="white-space: normal; height: 24px;">Class designed for 3-4 year olds.</p>
+                                        <h5 class="card-title text-center" style="font-size: 1.1em">Creative Combo</h5>
+                                        <p class="text-center card-text"style="white-space: normal; height: 24px;">Ballet & Tap class for 3-4 year olds.</p>
                                         <div class="d-flex justify-content-center mb-3">
                                             <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger mr-3">ENROLL NOW</button></a>
                                             <a href="starlette-information"><button class="btn btn-outline-danger">LEARN MORE</button></a>
                                         </div>
                                     </div>
-                                    <div class="card mr-3">
-                                        <img src="images/starlettes-at-DU.JPG" alt="" style="width: 350px; height: 350px; object-fit: cover; object-position: 40% 0;" class="card-img-top">
-                                        <h5 class="card-title text-center" style="font-size: 1.1em">Starlette Ballet/Jazz/Tap/Hip Hop</h5>
-                                        <p class="text-center card-text"style="white-space: normal; height: 24px;">Classes designed for 5-7 year olds.</p>
-                                        <div class="d-flex justify-content-center mb-3">
-                                            <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger">ENROLL NOW</button></a>
-                                        </div>
-                                    </div>
-                                    <div class="card mr-3">
-                                        <img src="images/classes/acro.jpg" alt="" style="max-width: 350px;" class="card-img-top">
-                                        <h5 class="card-title text-center" style="font-size: 1.1em">Acro</h5>
-                                        <p class="text-center card-text"style="white-space: normal; height: 24px;">Ages 5 and up!</p>
-                                        <div class="d-flex justify-content-center mb-3">
-                                            <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger">ENROLL NOW</button></a>
-                                        </div>
-                                    </div>
-                                    <div class="card mr-3">
+                                    <div class="card mr-3" style="">
                                         <img src="images/jr-hip-hop-hair.jpeg" alt="" style="max-width: 350px;" class="card-img-top">
-                                        <h5 class="card-title text-center" style="font-size: 1.1em">JR Hip Hop</h5>
-                                        <p class="text-center card-text"style="white-space: normal; height: 24px;">Class designed for 7.5-8 year olds</p>
+                                        <h5 class="card-title text-center" style="font-size: 1.1em">Children Level</h5>
+                                        <p class="text-center card-text"style="white-space: normal; height: 24px;">Ballet/Tap and Jazz/Hip Hop classes for 5-7 year olds.</p>
                                         <div class="d-flex justify-content-center mb-3">
-                                            <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger">ENROLL NOW</button></a>
+                                            <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger mr-3">ENROLL NOW</button></a>
+                                            <a href="starlette-information"><button class="btn btn-outline-danger">LEARN MORE</button></a>
                                         </div>
                                     </div>
+
+
+{{--                                    <div class="card mr-3">--}}
+{{--                                        <img src="images/starlettes-at-DU.JPG" alt="" style="width: 350px; height: 350px; object-fit: cover; object-position: 40% 0;" class="card-img-top">--}}
+{{--                                        <h5 class="card-title text-center" style="font-size: 1.1em">Starlette Ballet/Jazz/Tap/Hip Hop</h5>--}}
+{{--                                        <p class="text-center card-text"style="white-space: normal; height: 24px;">Classes designed for 5-7 year olds.</p>--}}
+{{--                                        <div class="d-flex justify-content-center mb-3">--}}
+{{--                                            <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger">ENROLL NOW</button></a>--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                    <div class="card mr-3">--}}
+{{--                                        <img src="images/classes/acro.jpg" alt="" style="max-width: 350px;" class="card-img-top">--}}
+{{--                                        <h5 class="card-title text-center" style="font-size: 1.1em">Acro</h5>--}}
+{{--                                        <p class="text-center card-text"style="white-space: normal; height: 24px;">Ages 5 and up!</p>--}}
+{{--                                        <div class="d-flex justify-content-center mb-3">--}}
+{{--                                            <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger">ENROLL NOW</button></a>--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
+{{--                                    <div class="card mr-3">--}}
+{{--                                        <img src="images/jr-hip-hop-hair.jpeg" alt="" style="max-width: 350px;" class="card-img-top">--}}
+{{--                                        <h5 class="card-title text-center" style="font-size: 1.1em">JR Hip Hop</h5>--}}
+{{--                                        <p class="text-center card-text"style="white-space: normal; height: 24px;">Class designed for 7.5-8 year olds</p>--}}
+{{--                                        <div class="d-flex justify-content-center mb-3">--}}
+{{--                                            <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger">ENROLL NOW</button></a>--}}
+{{--                                        </div>--}}
+{{--                                    </div>--}}
                                     <div class="card mr-3">
                                         <img src="images/classes/jr-ballet.jpg" alt="" style="max-width: 350px;" class="card-img-top">
-                                        <h5 class="card-title text-center" style="font-size: 1.1em">JR Ballet, Jazz, & Tap</h5>
-                                        <p class="text-center card-text"style="white-space: normal; height: 24px;">Class designed for 8-11 year olds</p>
+                                        <h5 class="card-title text-center" style="font-size: 1.1em">Junior Level</h5>
+                                        <p class="text-center card-text"style="white-space: normal; height: 24px;">Ballet, Tap, Jazz, & Hip Hop classes for ages 8-12.</p>
                                         <div class="d-flex justify-content-center mb-3">
                                             <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger">ENROLL NOW</button></a>
                                         </div>
                                     </div>
                                     <div class="card mr-3">
                                         <img src="images/classes/hip-hop.jpg" alt="" style="max-width: 350px;" class="card-img-top">
-                                        <h5 class="card-title text-center" style="font-size: 1.1em">Teen Ballet, Jazz, Hip Hop & Tap</h5>
-                                        <p class="text-center card-text"style="white-space: normal; height: 24px;">Class designed for ages 12+.</p>
+                                        <h5 class="card-title text-center" style="font-size: 1.1em">Teen Level</h5>
+                                        <p class="text-center card-text"style="white-space: normal; height: 24px;">Ballet, Tap, Jazz, & Hip Hop classes for ages 13-18.</p>
                                         <div class="d-flex justify-content-center mb-3">
                                             <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger">ENROLL NOW</button></a>
                                         </div>
@@ -233,7 +244,7 @@
                                     </div>
                                     <div class="col-sm">
                                         <p class="pt-2">
-                                            At Spotlight Acting Academy, the doors are always open for students with a range of theatre experience. We offer the opportunity for students to explore their interest and passion in not only acting, but musical theatre and performance.
+                                            Spotlight Acting Academy provides quality training to students with a range of theatre experience. Production classes offer opportunities for students to explore their interest and passion in not only acting, but musical theatre & performance.
                                         </p>
                                         <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button type="button" class="btn btn-danger mb-3">ENROLL NOW</button></a>
                                         <a href="spotlight-acting-academy"><button type="button" class="btn btn-outline-danger mb-3">LEARN MORE</button></a>
@@ -251,17 +262,32 @@
 {{--            </div>--}}
 
             <div class="container d-flex justify-content-center py-5">
-                <div class="row">
-                    <div class="col-md text-center d-flex align-items-center">
-                        <div>
-                            <h1 class="txt-black-title">We Have Built a Reputation for Excellence in Dance Instruction</h1>
-                            <p>
-                                From your child’s first class to their graduation performance, DUPAC has a class for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, DUPAC is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
-                            </p>
+                <div>
+                    <div class="row">
+                        <div class="col-md text-center d-flex align-items-center">
+                            <div>
+                                <h1 class="txt-black-title">We Have Built a Reputation for Excellence in Dance Instruction</h1>
+                                <p>
+                                    From your child’s first class to their graduation performance, DUPAC has a class for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, DUPAC is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col-md">
+                            <img src="/images/mtjgd-cert.jpg" alt="more than just great dancing certification" class="img-fluid" style="max-width: 600px; width: 100%; height: auto;">
                         </div>
                     </div>
-                    <div class="col-md">
-                        <img src="/images/mtjgd-cert.jpg" alt="more than just great dancing certification" class="img-fluid" style="max-width: 600px; width: 100%; height: auto;">
+                    <div class="row mt-3">
+                        <div class="col-md d-flex justify-content-center">
+                            <img src="/images/logo-ypad.png" alt="ypad badge" class="img-fluid" style="max-width: 300px; width: 100%; height: auto;">
+                        </div>
+                        <div class="col-md text-center d-flex align-items-center">
+                            <div>
+                                <h1 class="txt-black-title">DUPAC is Youth Protection Advocates in Dance® Certified!</h1>
+                                <p>
+                                    Faculty and Staff at Dance Unlimited & Spotlight Acting Academy are certified educators with Youth Protection Advocates in Dance (YPAD). YPAD is the nation’s only dance certification program focusing on safety and wellness for dance students and providing our dance professionals with the skills to protect and develop healthy and safe dance environments!
+                                </p>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
