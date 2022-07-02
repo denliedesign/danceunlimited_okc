@@ -144,7 +144,6 @@
             <p class="px-4">
                 <small class="text-muted">
                     Spotlight reserves the right to cancel a class if less than six students are enrolled. In this case, an appropriate class will be suggested or the student will receive a refund.
-                    <br>All Spotlight Acting Academy students must also enroll in a dance class.
                 </small>
             </p>
             <div class="table-responsive px-4">
@@ -191,11 +190,11 @@
                     <tr>
 {{--                        <td>$60/mo</td>--}}
 {{--                        <td>$60/mo</td>--}}
-                        <td>$60/mo</td>
                         <td>$75/mo</td>
                         <td>$75/mo</td>
-                        <td>$75/mo</td>
-                        <td>$75/mo</td>
+                        <td>$90/mo</td>
+                        <td>$140/mo</td>
+                        <td>$140/mo</td>
                     </tr>
                     <tr>
 {{--                        <td><a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm mr-3">ENROLL</button></a></td>--}}
@@ -209,6 +208,12 @@
                     </tbody>
                 </table>
             </div>
+        </div>
+
+        <div class="dress-box py-3 mt-4">
+            <p class="text-center py-4">
+                Information about Junior Theatre Festival Atlanta 2022 - coming soon!
+            </p>
         </div>
 
         <div class="row">

@@ -26,13 +26,13 @@
                             <a href="/the-vibe">Vibe Competitive Company</a>
                         </li>
                         <li>
-                            <a href="/spring">Production Info</a>
+                            <a href="/spring">Production</a>
                         </li>
                         <li>
                             <a href="/summer">Summer</a>
                         </li>
                         <li>
-                            <a href="/fall">Fall & Spring & Pop Ups</a>
+                            <a href="/fall">Fall</a>
                         </li>
                         <li>
                             <a href="/dress">Dress Code</a>
@@ -77,6 +77,7 @@
                     <ul>
                         <li><ion-icon name="call"></ion-icon> 405-242-4612</li>
                         <li><ion-icon name="mail"></ion-icon> danceunlimitedokc@gmail.com</li>
+                        <li><ion-icon name="mail"></ion-icon> spotlightactingokc@gmail.com</li>
                         <li><ion-icon name="location"></ion-icon> 1217 E Hefner Road, OKC, OK 73131</li>
                         <li><ion-icon name="gift"></ion-icon> PO Box 14371 Oklahoma City, OK 73113</li>
                     </ul>

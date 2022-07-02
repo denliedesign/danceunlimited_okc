@@ -3,7 +3,7 @@
         @case('Starlette and Acro')
         <div class="my-2">
             <div class="dress-box py-3" id="spotlight-schedule">
-                <p class="lead text-center" style="font-size: 1.33em;">Starlette & Acro Ages 3 &^</p>
+                <p class="lead text-center" style="font-size: 1.33em;">Starlettes Ages 3-7</p>
                 <div class="table-responsive px-4">
                     <table class="table">
                         <tbody>

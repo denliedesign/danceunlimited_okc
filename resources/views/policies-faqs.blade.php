@@ -23,7 +23,7 @@
                                 <a href="/images/du-welcome-22.pdf" target="_blank" style="text-decoration: none;">
                                     <img src="/images/du-welcome-22.jpg" alt="du welcome pack" class="img-fluid">
                                     <div class="d-flex justify-content-center mt-2">
-                                        <p class="btn btn-danger">Dance Unlimited Welcome Pack</p>
+                                        <p class="btn btn-danger">Jr/Teen Welcome Pack</p>
                                     </div>
                                 </a>
                             </div>
@@ -156,6 +156,8 @@
                     <div class="card-body">
                         <p>
                             All families should have current email address on their account in order to receive “need to know” important information from Dance Unlimited and Spotlight Acting.
+                            <br><br>
+                            Updates are also sent out via the Remind app with important class and rehearsal information. Please contact the front desk if you are in need of your specific Remind code.
                         </p>
                     </div>
                 </div>

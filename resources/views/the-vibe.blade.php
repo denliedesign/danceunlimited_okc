@@ -12,7 +12,7 @@
         <p class="text-center">
             The Vibe Dance Company was designed for dancers to have extra stage time and work with guest artists from all over the U.S. When we are looking for VIBE dancers we are looking for dancers with a true love and passion for dance and who enjoy working to acquire advanced level dancing skills. We love dancers who think dancing is FUN! Competition dancers are expected to work to be well rounded, resilient and enthusiastic! We compete Ballet, Tap, Jazz, Contemporary, Hip Hop, Music Theatre and Open.
         </p>
-        <p class="text-center"><strong>Auditions for 21-22 will be June 3rd, 2021</strong></p>
+{{--        <p class="text-center"><strong>Auditions for 21-22 will be June 3rd, 2021</strong></p>--}}
     </div>
 
     <div id="vibeSlide" class="carousel slide" data-ride="carousel">
