@@ -172,7 +172,7 @@
                         Dance Unlimited and Spotlight are excited to be attending <strong>Junior Theatre Festival Atlanta - January 13-15, 2023!</strong>
                     </p>
                     <div class="text-center">
-                        <a href="https://drive.google.com/file/d/1RtmV1xqUF1ibD6Rk0_wHqeAdwJJVm4bE/view?usp=sharing" target="_blank"><button class="btn btn-danger">Details</button></a>
+                        <a href="/images/junior-theatre-festival.pdf" target="_blank"><button class="btn btn-danger">Details</button></a>
                     </div>
                 </div>
             </div>
