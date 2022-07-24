@@ -6,10 +6,11 @@
 
     <div class="container pb-5">
         <p class="txt-title text-center pt-5 pb-2">Spotlight Acting Academy</p>
-        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 pb-3">
-            <div class="p-2"><img src="/images/spotlight-2.JPG" alt="spotlight student" style="height: 480px; width: auto; object-fit: cover; object-position: 0 0;" class="img-fluid shadow rounded"></div>
-            <div class="p-2"><img src="/images/spotlight-1.jpg" alt="spotlight logo" style="height: 480px; width: auto; object-fit: cover; object-position: 50% 0;" class="img-fluid shadow rounded"></div>
-            <div class="p-2"><img src="/images/spotlight-3.jpg" alt="spotlight student" style="height: 480px; width: auto; object-fit: cover; object-position: 0 0;" class="img-fluid shadow rounded"></div>
+        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4 pb-3">
+            <div class="p-2"><img src="/images/spotlight-mary-poppins.JPG" alt="spotlight mary poppins" style="height: 335px; width: auto; object-fit: cover; object-position: 0 0;" class="img-fluid shadow rounded"></div>
+            <div class="p-2"><img src="/images/spotlight-heathers.png" alt="spotlight heathers" style="height: 335px; width: auto; object-fit: cover; object-position: 50% 0;" class="img-fluid shadow rounded"></div>
+            <div class="p-2"><img src="/images/spotlight-spongebob.jpg" alt="spotlight spongebob" style="height: 335px; width: auto; object-fit: cover; object-position: 0 0;" class="img-fluid shadow rounded"></div>
+            <div class="p-2"><img src="/images/spotlight-wizard-of-oz.png" alt="spotlight wizard of oz" style="height: 335px; width: auto; object-fit: cover; object-position: 0 0;" class="img-fluid shadow rounded"></div>
         </div>
         <p>
             At Spotlight Acting Academy, the doors are always open for students with a range of theatre experience. We offer the opportunity for students to explore their interest and passion in not only acting, but musical theatre and performance. Our classes focus on educating students on audition techniques, theatre etiquette, and the foundations of voice, dancing, and acting performance. Our students are able to put all of their hard work and showcase their progress at the end of each semester in our musical production. Our productions have ranged from Elf Jr to Madagascar Jr and everything in between. We pride ourselves in presenting the best production quality for our students from costuming, props, set design, lighting, and sound to allow for the best experience possible that allows our students to shine on stage.
@@ -19,124 +20,77 @@
             All classes perform two productions each year - one in the fall and one in the spring. Productions are composed of songs, dances, and lines that must be memorized by the show.
         </p>
 
-        <div class="scrolling-wrapper pt-5 pb-2" id="scrolling-wrapper">
-{{--            <div class="card mr-3" style="width: 400px;">--}}
-{{--                <img src="images/classes/music-for-minis.jpeg" class="card-img-top" alt="">--}}
-{{--                <div class="card-body">--}}
-{{--                    <h5 class="card-title text-center">Music for Minis</h5>--}}
-{{--                    <p class="card-text small" style="white-space: normal; height: 216px;">--}}
-{{--                        Music for Minis is a creative & FUN way to introduce your child to the world of voice & music! This is a 30 minute class designed specifically for 3-4 year olds that will have them singing, dancing & engaged from start to finish. Our Music for Minis class encourages a positive atmosphere where students can form friendships, gain confidence, & be a star!--}}
-{{--                        <br><br>--}}
-{{--                        Our Music for Minis class will do a small performance during their class time the final week of classes each semester. No experience is necessary to enroll in this class & all are welcome!--}}
-{{--                    </p>--}}
-{{--                    <div class="d-flex justify-content-center mb-3">--}}
-{{--                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger mr-3">ENROLL NOW</button></a>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-{{--            <div class="card mr-3" style="width: 400px;">--}}
-{{--                    <img src="images/classes/broadway-babies.JPG" class="card-img-top" alt="">--}}
-{{--                    <div class="card-body">--}}
-{{--                        <h5 class="card-title text-center">Broadway Babies</h5>--}}
-{{--                        <p class="card-text" style="white-space: normal; height: 216px;">--}}
-{{--                            This class is a Beginner Level class for ages 4-6 that requires no previous experience and is an introduction into the musical theatre world. All are welcome!--}}
-{{--                            <br><br>--}}
-{{--                            Broadway Babies is a music theatre production class that focuses on acting, singing, and dancing and introducing students to the musical theatre world in a FUN, high energy setting!--}}
-{{--                        </p>--}}
-{{--                        <div class="d-flex justify-content-center mb-3">--}}
-{{--                            <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger mr-3">ENROLL NOW</button></a>--}}
-{{--                        </div>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-                <div class="card mr-3" style="width: 400px;">
-                    <img src="images/classes/razzle-dazzle.jpg" class="card-img-top" alt="">
-                    <div class="card-body">
-                        <h5 class="card-title text-center">Razzle Dazzle</h5>
-                        <p class="card-text" style="white-space: normal; height: 216px;">
-                            This class is a Beginner Level class for ages 4 and up that requires no previous experience and is an introduction into the musical theatre world. All are welcome!
-                            <br><br>
-                            Razzle Dazzle is a music theatre production class that focuses on acting, singing, and dancing and introducing students to the musical theatre world in a FUN, high energy setting!
-                        </p>
-                        <div class="d-flex justify-content-center mb-3">
-                            <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger mr-3">ENROLL NOW</button></a>
-                        </div>
-                    </div>
-                </div>
-
-            <div class="card mr-3" style="width: 400px;">
-                <img src="images/classes/broadway-bound.jpg" class="card-img-top" alt="">
+        <div class="pt-5 pb-2 card-group">
+            <div class="card">
+                <img src="images/spot-razzle-dazzle.jpg" class="card-img-top" style="height: 255px; width: 100%; object-fit: cover; object-position: center;" alt="">
                 <div class="card-body">
-                    <h5 class="card-title text-center">Broadway Bound</h5>
-                    <p class="card-text" style="white-space: normal; height: 216px;">
+                    <h5 class="card-title text-center font-weight-bold">Razzle Dazzle</h5>
+                    <p class="card-text">
+                        This class is a Beginner Level class for ages 4 and up that requires no previous experience and is an introduction into the musical theatre world. All are welcome!
+                        <br><br>
+                        Razzle Dazzle is a music theatre production class that focuses on acting, singing, and dancing and introducing students to the musical theatre world in a FUN, high energy setting!
+                    </p>
+                </div>
+                <div class="card-footer text-center">
+                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger">ENROLL NOW</button></a>
+                </div>
+            </div>
+            <div class="card">
+                <img src="images/spot-broadway-bound.jpg" class="card-img-top" style="height: 255px; width: 100%; object-fit: cover; object-position: 37% 50%;" alt="">
+                <div class="card-body">
+                    <h5 class="card-title text-center font-weight-bold">Broadway Bound</h5>
+                    <p class="card-text">
                         This class is a Beginner/Intermediate Level class for ages 8 and up that requires some previous experience but is still an introduction into the musical theatre world. All are welcome!
                         <br><br>
                         Broadway Bound is a music theatre production class that focuses on acting, singing, and dancing.
                     </p>
-                    <div class="d-flex justify-content-center mb-3">
-                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger mr-3">ENROLL NOW</button></a>
-                    </div>
+                </div>
+                <div class="card-footer text-center">
+                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger">ENROLL NOW</button></a>
                 </div>
             </div>
-            <div class="card mr-3" style="width: 400px;">
-                <img src="images/spotlight-totally-drama.jpeg" class="card-img-top" alt="" style="height: 398px; width: 398px; object-fit: cover;">
+            <div class="card">
+                <img src="images/spot-totally-drama.jpg" class="card-img-top" style="height: 255px; width: 100%; object-fit: cover; object-position: center;" alt="">
                 <div class="card-body">
-                    <h5 class="card-title text-center">Totally Drama</h5>
-                    <p class="card-text" style="white-space: normal; height: 216px;">
+                    <h5 class="card-title text-center font-weight-bold">Totally Drama</h5>
+                    <p class="card-text">
                         This class is a class for ages 10 and up years old.
                         <br><br>
                         Totally Drama is a music theatre production class that focuses on acting, singing, and dancing.
                     </p>
-                    <div class="d-flex justify-content-center mb-3">
-                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger mr-3">ENROLL NOW</button></a>
-                    </div>
+                </div>
+                <div class="card-footer text-center">
+                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger">ENROLL NOW</button></a>
                 </div>
             </div>
-{{--            <div class="card mr-3" style="width: 400px;">--}}
-{{--                <img src="images/classes/5.jpg" class="card-img-top" alt="">--}}
-{{--                <div class="card-body">--}}
-{{--                    <h5 class="card-title text-center">Center Stage</h5>--}}
-{{--                    <p class="card-text" style="white-space: normal; height: 216px;">--}}
-{{--                        This class is an Intermediate Level class for ages 10-13 that requires experience.--}}
-{{--                        <br><br>--}}
-{{--                        Center Stage is a Intermediate music theatre production class that focuses on acting, singing, and dancing.--}}
-{{--                    </p>--}}
-{{--                    <div class="d-flex justify-content-center mb-3">--}}
-{{--                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger mr-3">ENROLL NOW</button></a>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-            <div class="card mr-3" style="width: 400px;">
-                <img src="images/classes/curtain-call.jpg" class="card-img-top" alt="">
+            <div class="card">
+                <img src="images/spot-curtain-call.jpg" class="card-img-top" style="height: 255px; width: 100%; object-fit: cover; object-position: center;" alt="">
                 <div class="card-body">
-                    <h5 class="card-title text-center">Curtain Call</h5>
-                    <p class="card-text" style="white-space: normal; height: 216px;">
+                    <h5 class="card-title text-center font-weight-bold">Curtain Call</h5>
+                    <p class="card-text">
                         This class is a production class for ages 13+ that requires permission to enroll.
                         <br><br>
                         Curtain Call is a music theatre production class that focuses on acting, singing, and dancing.
                     </p>
-                    <div class="d-flex justify-content-center mb-3">
-                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger mr-3">ENROLL NOW</button></a>
-                    </div>
+                </div>
+                <div class="card-footer text-center">
+                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger">ENROLL NOW</button></a>
                 </div>
             </div>
-            <div class="card" style="width: 400px;">
-                <img src="images/classes/take-stage.jpg" class="card-img-top" alt="">
+            <div class="card">
+                <img src="images/spot-take-stage.jpg" class="card-img-top" style="height: 255px; width: 100%; object-fit: cover; object-position: center;" alt="">
                 <div class="card-body">
-                    <h5 class="card-title text-center">Take Stage</h5>
-                    <p class="card-text" style="white-space: normal; height: 216px;">
+                    <h5 class="card-title text-center font-weight-bold">Take Stage</h5>
+                    <p class="card-text">
                         This class is an Advanced Level Class for ages 14 and up that does require previous experience.
                         <br><br>
                         Take Stage is a music theatre production class that focuses on acting, singing, and dancing.
                     </p>
-                    <div class="d-flex justify-content-center mb-3">
-                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger mr-3">ENROLL NOW</button></a>
-                    </div>
+                </div>
+                <div class="card-footer text-center">
+                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger">ENROLL NOW</button></a>
                 </div>
             </div>
-        </div>
-        <div class="horizontal-controls d-flex justify-content-center">
-            <button id="slide-left" class="mr-5"><i class="arrow click-left d-flex align-self-center"></i></button>
-            <button id="slide-right"><i class="arrow click-right d-flex align-self-center"></i></button>
         </div>
 
         <h1 class="txt-black-title pt-5">Class Schedule</h1>
@@ -174,16 +128,16 @@
 {{--                        <td>Monday</td>--}}
                         <td>Monday</td>
                         <td>Monday</td>
-                        <td>Tuesday</td>
+                        <td>Monday</td>
                         <td>Thursday</td>
                         <td>Tuesday</td>
                     </tr>
                     <tr>
 {{--                        <td>6:00-6:30</td>--}}
 {{--                        <td>5:30-6:30</td>--}}
-                        <td>5:00-6:00</td>
-                        <td>6:00-7:00</td>
-                        <td>6:30-7:45</td>
+                        <td>5:30-6:30</td>
+                        <td>6:30-7:30</td>
+                        <td>4:30-5:30</td>
                         <td>4:30-6:30</td>
                         <td>4:30-6:30</td>
                     </tr>
@@ -192,13 +146,13 @@
 {{--                        <td>$60/mo</td>--}}
                         <td>$75/mo</td>
                         <td>$75/mo</td>
-                        <td>$90/mo</td>
+                        <td>$75/mo</td>
                         <td>$140/mo</td>
                         <td>$140/mo</td>
                     </tr>
                     <tr>
-{{--                        <td><a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm mr-3">ENROLL</button></a></td>--}}
-{{--                        <td><a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm mr-3">ENROLL</button></a></td>--}}
+{{--                        <td><a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm">ENROLL</button></a></td>--}}
+{{--                        <td><a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm">ENROLL</button></a></td>--}}
                         <td><a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm mr-3">ENROLL</button></a></td>
                         <td><a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm mr-3">ENROLL</button></a></td>
                         <td><a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-sm mr-3">ENROLL</button></a></td>
@@ -210,10 +164,29 @@
             </div>
         </div>
 
-        <div class="dress-box py-3 mt-4">
-            <p class="text-center py-4">
-                Information about Junior Theatre Festival Atlanta 2022 - coming soon!
-            </p>
+        <div class="row">
+            <div class="col-sm mr-3">
+                <h1 class="txt-black-title pt-5">Junior Theatre Festival - Atlanta 2023</h1>
+                <div class="dress-box py-3">
+                    <p class="text-center">
+                        Dance Unlimited and Spotlight are excited to be attending <strong>Junior Theatre Festival Atlanta - January 13-15, 2023!</strong>
+                    </p>
+                    <div class="text-center">
+                        <a href="https://drive.google.com/file/d/1RtmV1xqUF1ibD6Rk0_wHqeAdwJJVm4bE/view?usp=sharing" target="_blank"><button class="btn btn-danger">Details</button></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm">
+                <h1 class="txt-black-title pt-5">Voice & Piano Lessons</h1>
+                <div class="dress-box py-3">
+                    <p class="text-center">
+                        Interested in studying voice or piano through private lessons? Our instructors have a passion for teaching and are available for lessons for students ages 3-18. Fill out the interest form below for information! <em>Please indicate the student’s name, age, and desired area of study (voice/piano).</em>
+                    </p>
+                    <div class="mx-3">
+                        @include('contact.create')
+                    </div>
+                </div>
+            </div>
         </div>
 
         <div class="row">

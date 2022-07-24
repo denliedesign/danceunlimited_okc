@@ -228,30 +228,40 @@
                 <div class="card-header" id="policiesEight">
                     <h2 class="mb-0">
                         <button class="btn btn-link collapsed" type="button" data-toggle="collapse" data-target="#closeEight" aria-expanded="false" aria-controls="closeEight">
-                            <h1 class="txt-black-title text-left text-dark">CALENDAR</h1>
+                            <h1 class="txt-black-title text-left text-dark">CERTIFICATIONS</h1>
                         </button>
                     </h2>
                 </div>
                 <div id="closeEight" class="collapse" aria-labelledby="policiesEight" data-parent="#accordionFAQ">
                     <div class="card-body">
-
-                        <div id="calendar" class="pb-5">
-                            <div class="container">
-                                <h1 class="txt-black-title text-center">Calendar</h1>
-                                @can('update', \App\Calendar::class) <p class="text-center"><a href="/calendars/create">New Calendar Item</a></p> @endcan
-                                <div id="calendar">
-                                    {{--                        <div class="horizontal-controls d-flex justify-content-center my-2">--}}
-                                    {{--                            <button id="slide-left-calendar" class="mr-5"><i class="arrow click-left d-flex align-self-center"></i></button>--}}
-                                    {{--                            <button id="slide-right-calendar"><i class="arrow click-right d-flex align-self-center"></i></button>--}}
-                                    {{--                        </div>--}}
-                                    {{--                        <div class="scrolling-wrapper-calendar pb-2" id="scrolling-wrapper-calendar">--}}
-                                    {{--                        @include('calendars')--}}
-                                    @include('seasons')
-
+                        <div>
+                            <div class="row">
+                                <div class="col-md text-center d-flex align-items-center">
+                                    <div>
+                                        <h1 class="txt-black-title">We Have Built a Reputation for Excellence in Dance Instruction</h1>
+                                        <p>
+                                            From your child’s first class to their graduation performance, DUPAC has a class for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, DUPAC is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
+                                        </p>
+                                    </div>
+                                </div>
+                                <div class="col-md">
+                                    <img src="/images/certificate-mtjgd.jpg" alt="more than just great dancing certification" class="img-fluid" style="max-width: 600px; width: 100%; height: auto;">
+                                </div>
+                            </div>
+                            <div class="row mt-3">
+                                <div class="col-md d-flex justify-content-center">
+                                    <img src="/images/logo-ypad.png" alt="ypad badge" class="img-fluid" style="max-width: 300px; width: 100%; height: auto;">
+                                </div>
+                                <div class="col-md text-center d-flex align-items-center">
+                                    <div>
+                                        <h1 class="txt-black-title">DUPAC is Youth Protection Advocates in Dance® Certified!</h1>
+                                        <p>
+                                            Faculty and Staff at Dance Unlimited & Spotlight Acting Academy are certified educators with Youth Protection Advocates in Dance (YPAD). YPAD is the nation’s only dance certification program focusing on safety and wellness for dance students and providing our dance professionals with the skills to protect and develop healthy and safe dance environments!
+                                        </p>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>

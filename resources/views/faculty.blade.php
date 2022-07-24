@@ -276,6 +276,35 @@
 
             <div class="col mb-4">
                 <div class="card faculty-member">
+                    <div type="button" data-toggle="modal" data-target="#lilli" id="faculty-img-btn">
+                        <img src="/images/staff-lilli.JPG" alt="" class="faculty-img">
+                    </div>
+                    <div class="card-body p-0">
+                        <h5 class="card-title text-center mb-0">Lillian Ball</h5>
+                        <p class="text-center"><small>Dance Instructor</small></p>
+                    </div>
+                    <div class="modal fade" id="lilli" tabindex="-1" role="dialog" aria-labelledby="lilli" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-scrollable" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title">Lillian Ball</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    <p class="faculty-bio">
+                                        Lillian Ball is a recent graduate of Oklahoma City University’s Ann Lacy School of American Dance and Entertainment with a Bachelor of Science in Dance Management. Lillian has been dancing since the age of two. She grew up  dancing at Universal Dance Academy in Lincoln, NE. Lillian has studied several different genres of dance including; Ballet, Pointe, Lyrical, Contemporary, Jazz, Musical Theater, Tap, Ballroom, Tumbling and Hip Hop. In high school, Lillian was a co-captain for the Lincoln North Star Dazzlers for two years. One of her proudest achievements was in 2014 when she attended Spotlight Dance Cup Nationals and received First Over-All National Championship for her tapping, alongside her brother, Beaudree. Lillian was also the National Spotlight Dance Cup Senior Dance Down Diamond Winner for three consecutive years. Lillian has received many over-all titles in all categories of dance throughout her years of training. One of Lillian’s proudest accomplishments was winning the National Title of “Miss Spotlight 2018” at the National Finals in Wisconsin Dells, Wisconsin. Lillian also attended the National Dance Honors and placed in the top seven for the Senior category. During Lillian’s time as a student in the dance department at OCU, she was honored with the “Blue Cobalt Award '' for the Most Promising Sophomore Dance Universal student. She held many leadership roles such as, Director’s Assistant to Jo Rowan, Choreographer’s Assistant to Alana Martin and Vincent Sandoval, Head Deck Crew, and Film & Editing Assistant. She held the responsibility of line captain for several dance professors and performed leading roles in the American Spirit Dance Company shows at OCU. She also danced the lead role in the Student Choreography Show, “Set A Fire”. Some of Lillian’s highlights from being a student include, becoming President of Students of Arts Management, a Student Director for the Pep Dancers, OCU Performing Arts Ticket Office Manager, and the Head of the Opening and Closing Production team for the Student Choreography Show. Upon graduation, Lillian was one of two senior recipients of the “Leadership Award” for the Ann Lacy School. Lillian’s passion for dance, teaching, and arts management are a huge part of Lillian’s commitment in returning to Oklahoma City University to join the dance department staff as the full-time Marketing & Operations Manager. Outside of of her time at OCU, she was the Master Tap Instructor at “Alpha Omega the Intensive” in Destin, Florida, worked as an apprentice with Spotlight Dance Cup National Finals as a Stage Manager and Choreographer’s Assistant, performed as a Sound Technician for dance recitals and enjoys teaching. Lillian has produced national award winning choreography for competition teams, as well as dance studios, high school dance teams, and summer theater camps with the Lincoln Community Playhouse. Lillian is excited to be teaching at Dance Unlimited again and hopes to share her love for dance with as many people in the dance community as possible and bring out the best in each of her students.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col mb-4">
+                <div class="card faculty-member">
                     <div type="button" data-toggle="modal" data-target="#makenzie" id="faculty-img-btn">
                         <img src="images/MAKENZIE.jpg" alt="" class="faculty-img">
                     </div>
@@ -676,35 +705,6 @@
 {{--                                        Alyssa Hedding is from Flower Mound, Texas, and is currently a rising Sophomore Musical Theatre Major at the University of Central Oklahoma. Alyssa has been dancing all disciplines for 16 years. Some of Alyssa’s favorite shows to perform in were, Smitty in How to Succeed, Rosie in Mamma Mia, Rock of Ages (Ensemble/Dance Captain) , Oklahoma, and Bye Bye Birdie.--}}
 {{--                                        <br><br>--}}
 {{--                                        After graduating college, she hopes to perform, teach dance, and choreograph at studios and theatres! Alyssa loves sharing her love of dance with kids and is excited to be a part of the DU faculty!--}}
-{{--                                    </p>--}}
-{{--                                </div>--}}
-{{--                            </div>--}}
-{{--                        </div>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
-
-{{--            <div class="col mb-4">--}}
-{{--                <div class="card faculty-member">--}}
-{{--                    <div type="button" data-toggle="modal" data-target="#lilli" id="faculty-img-btn">--}}
-{{--                        <img src="/images/staff-lilli.JPG" alt="" class="faculty-img">--}}
-{{--                    </div>--}}
-{{--                    <div class="card-body p-0">--}}
-{{--                        <h5 class="card-title text-center mb-0">Lillian Ball</h5>--}}
-{{--                        <p class="text-center"><small>Dance Instructor</small></p>--}}
-{{--                    </div>--}}
-{{--                    <div class="modal fade" id="lilli" tabindex="-1" role="dialog" aria-labelledby="lilli" aria-hidden="true">--}}
-{{--                        <div class="modal-dialog modal-dialog-scrollable" role="document">--}}
-{{--                            <div class="modal-content">--}}
-{{--                                <div class="modal-header">--}}
-{{--                                    <h5 class="modal-title">Lillian Ball</h5>--}}
-{{--                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">--}}
-{{--                                        <span aria-hidden="true">&times;</span>--}}
-{{--                                    </button>--}}
-{{--                                </div>--}}
-{{--                                <div class="modal-body">--}}
-{{--                                    <p class="faculty-bio">--}}
-{{--                                        Lillian Ball is from Lincoln Nebraska, is a Rising Senior at OCU, currently earning a Bachelor of Science in Dance Management. Lillian began dancing at the age of two and studies all genres of dance. Lillian’s proudest moments included receiving First Over-All National Championship for her tapping, alongside her brother in 2018, named National Senior Dance Down Winner for three consecutive years, and being crowned the National Title of “Miss Spotlight 2018” at Spotlight Dance Cup National Finals. Lillian was honored with the “Blue Cobalt Award” for the Most Promising Sophomore Dance Universal student at OCU in 2020. Lillian has held many leadership roles at OCU such as: Director’s Assistant to Jo Rowan, Choreographer’s Assistant to Vincent Sandoval and Alana Martin, Head Deck Crew, and Film & Editing Assistant. She has performed in American Spirit Dance Company shows at OCU, as well as danced the lead role in the Student Choreography show in the fall of 2019. Lillian performed in the Spring into Spring show as the Line Captain for Jeremy Duvall’s dance, “Big Noise”. Lillian took home a choreography award with a tap solo choreographed for her brother, Beaudree Ball, “False Confidence”. Later, she received another choreography award for a tap solo, “Too Cool” danced by Madison Mattson. Lillian most recently was the Tap Master Instructor for Alpha Omega The Intensive during the summer of 2021. Lillian pours her heart into each student she gets the chance to teach. Lillian strives to be a role model and hopes to share her love for dance with many people and bring out the best in each of her students.--}}
 {{--                                    </p>--}}
 {{--                                </div>--}}
 {{--                            </div>--}}
