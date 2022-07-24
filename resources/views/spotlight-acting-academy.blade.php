@@ -7,7 +7,7 @@
     <div class="container pb-5">
         <p class="txt-title text-center pt-5 pb-2">Spotlight Acting Academy</p>
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4 pb-3">
-            <div class="p-2"><img src="/images/spotlight-mary-poppins.JPG" alt="spotlight mary poppins" style="height: 335px; width: auto; object-fit: cover; object-position: 0 0;" class="img-fluid shadow rounded"></div>
+            <div class="p-2"><img src="/images/spotlight-mary-poppins.jpg" alt="spotlight mary poppins" style="height: 335px; width: auto; object-fit: cover; object-position: 0 0;" class="img-fluid shadow rounded"></div>
             <div class="p-2"><img src="/images/spotlight-heathers.png" alt="spotlight heathers" style="height: 335px; width: auto; object-fit: cover; object-position: 50% 0;" class="img-fluid shadow rounded"></div>
             <div class="p-2"><img src="/images/spotlight-spongebob.jpg" alt="spotlight spongebob" style="height: 335px; width: auto; object-fit: cover; object-position: 0 0;" class="img-fluid shadow rounded"></div>
             <div class="p-2"><img src="/images/spotlight-wizard-of-oz.png" alt="spotlight wizard of oz" style="height: 335px; width: auto; object-fit: cover; object-position: 0 0;" class="img-fluid shadow rounded"></div>
