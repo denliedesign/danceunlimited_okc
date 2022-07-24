@@ -20,16 +20,16 @@
                     <div class="card-body">
                         <div class="row">
                             <div class="col-sm">
-                                <a href="/images/du-welcome-22.pdf" target="_blank" style="text-decoration: none;">
-                                    <img src="/images/du-welcome-22.jpg" alt="du welcome pack" class="img-fluid">
+                                <a href="/images/welcome-22-23-junior-teen.pdf" target="_blank" style="text-decoration: none;">
+                                    <img src="/images/welcome-22-23-junior-teen.jpg" alt="du welcome pack" class="img-fluid">
                                     <div class="d-flex justify-content-center mt-2">
                                         <p class="btn btn-danger">Jr/Teen Welcome Pack</p>
                                     </div>
                                 </a>
                             </div>
                             <div class="col-sm">
-                                <a href="/images/starlette-welcome-22.pdf" target="_blank" style="text-decoration: none;">
-                                    <img src="/images/starlette-welcome-22.jpg" alt="starlette welcome pack" class="img-fluid">
+                                <a href="/images/welcome-22-23-starlettes.pdf" target="_blank" style="text-decoration: none;">
+                                    <img src="/images/welcome-22-23-starlettes.jpg" alt="starlette welcome pack" class="img-fluid">
                                     <div class="d-flex justify-content-center mt-2">
                                         <p class="btn btn-danger">Starlette Welcome Pack</p>
                                     </div>

@@ -21,115 +21,115 @@
 
 
         <section>
-            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-3">
-                <div class="text-center p-2">
-                    <img src="/images/fairies-princesses-pirates.jpg" alt="summer camp graphic" class="img-fluid" style="max-height: 400px;">
-                    <h3>Fairies, Princesses &amp; Pirates!</h3>
-                    <p class="lead">June 6th – 9th</p>
-                    <p>
-                        Do you dream of being a fairy or a princess or a PIRATE?
-                        Get ready for Story Time, Royal Poses, a journey to Pixie Hollow and Neverland, crafts, and we will look
-                        for lost treasure and even prepare a dance for the royal ball! Come to camp and have a magical time. Remember to bring a snack and water.
-                        <br><br>
-                        <strong>Ages:</strong> 3-6
-                        <br>
-                        <strong>Time:</strong> 9am-12
-                        <br>
-                        <strong>Cost:</strong> $150.00
-                    </p>
-                                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button type="button" class="btn btn-danger text-uppercase">ENROLL NOW</button></a>
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-2 row-cols-lg-2">
+{{--                <div class="text-center p-2">--}}
+{{--                    <img src="/images/fairies-princesses-pirates.jpg" alt="summer camp graphic" class="img-fluid" style="max-height: 400px;">--}}
+{{--                    <h3>Fairies, Princesses &amp; Pirates!</h3>--}}
+{{--                    <p class="lead">June 6th – 9th</p>--}}
+{{--                    <p>--}}
+{{--                        Do you dream of being a fairy or a princess or a PIRATE?--}}
+{{--                        Get ready for Story Time, Royal Poses, a journey to Pixie Hollow and Neverland, crafts, and we will look--}}
+{{--                        for lost treasure and even prepare a dance for the royal ball! Come to camp and have a magical time. Remember to bring a snack and water.--}}
+{{--                        <br><br>--}}
+{{--                        <strong>Ages:</strong> 3-6--}}
+{{--                        <br>--}}
+{{--                        <strong>Time:</strong> 9am-12--}}
+{{--                        <br>--}}
+{{--                        <strong>Cost:</strong> $150.00--}}
+{{--                    </p>--}}
+{{--                                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button type="button" class="btn btn-danger text-uppercase">ENROLL NOW</button></a>--}}
 
-                </div>
-                <div class="text-center p-2">
-                    <img src="/images/wheres-my-spotlight.jpg" alt="summer camp graphic" class="img-fluid" style="max-height: 400px;">
-                    <h3>Where's MY Spotlight?</h3>
-                    <p class="lead">June 6th – 9th</p>
-                    <p>
-                        Were you born to entertain??
-                        Join us for 4 days full of learning Fun Musical Theatre choreography, coaching audition songs, taking
-                        headshots, creating resumes, and even learn scenes from iconic Broadway musicals!!
-                        You’ll be ready for the stage in NO TIME! Remember to bring a snack and water.
-                        <br><br>
-                        <strong>Ages:</strong> 7&^
-                        <br>
-                        <strong>Time:</strong> 1pm-4:00pm (Arrive 12:45)
-                        <br>
-                        <strong>Cost:</strong> $150.00
-                    </p>
-                                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button type="button" class="btn btn-danger text-uppercase">ENROLL NOW</button></a>
+{{--                </div>--}}
+{{--                <div class="text-center p-2">--}}
+{{--                    <img src="/images/wheres-my-spotlight.jpg" alt="summer camp graphic" class="img-fluid" style="max-height: 400px;">--}}
+{{--                    <h3>Where's MY Spotlight?</h3>--}}
+{{--                    <p class="lead">June 6th – 9th</p>--}}
+{{--                    <p>--}}
+{{--                        Were you born to entertain??--}}
+{{--                        Join us for 4 days full of learning Fun Musical Theatre choreography, coaching audition songs, taking--}}
+{{--                        headshots, creating resumes, and even learn scenes from iconic Broadway musicals!!--}}
+{{--                        You’ll be ready for the stage in NO TIME! Remember to bring a snack and water.--}}
+{{--                        <br><br>--}}
+{{--                        <strong>Ages:</strong> 7&^--}}
+{{--                        <br>--}}
+{{--                        <strong>Time:</strong> 1pm-4:00pm (Arrive 12:45)--}}
+{{--                        <br>--}}
+{{--                        <strong>Cost:</strong> $150.00--}}
+{{--                    </p>--}}
+{{--                                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button type="button" class="btn btn-danger text-uppercase">ENROLL NOW</button></a>--}}
 
-                </div>
-                <div class="text-center p-2">
-                    <img src="/images/dance-your-magic.jpg" alt="summer camp graphic" class="img-fluid" style="max-height: 400px;">
-                    <h3>Dance YOUR Magic!</h3>
-                    <p class="lead">June 13th – 16th</p>
-                    <p>
-                        Do you love Encanto, Raya, Moana and more?
-                        <br>
-                        Join us for a week fun week of dancing, singing, crafts, and ALL THINGS Magical.
-                        <br>
-                        Remember to bring a snack and water.
-                        <br><br>
-                        <strong>Ages:</strong> 3-6
-                        <br>
-                        <strong>Time:</strong> 9am-12pm (Arrive 8:45)
-                        <br>
-                        <strong>Cost:</strong> $150.00
-                        <br><br>
-                        <strong>Ages:</strong> 7&^
-                        <br>
-                        <strong>Time:</strong> 1pm-4:00pm (Arrive 12:45)
-                        <br>
-                        <strong>Cost:</strong> $150.00
-                    </p>
-                                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button type="button" class="btn btn-danger text-uppercase">ENROLL NOW</button></a>
+{{--                </div>--}}
+{{--                <div class="text-center p-2">--}}
+{{--                    <img src="/images/dance-your-magic.jpg" alt="summer camp graphic" class="img-fluid" style="max-height: 400px;">--}}
+{{--                    <h3>Dance YOUR Magic!</h3>--}}
+{{--                    <p class="lead">June 13th – 16th</p>--}}
+{{--                    <p>--}}
+{{--                        Do you love Encanto, Raya, Moana and more?--}}
+{{--                        <br>--}}
+{{--                        Join us for a week fun week of dancing, singing, crafts, and ALL THINGS Magical.--}}
+{{--                        <br>--}}
+{{--                        Remember to bring a snack and water.--}}
+{{--                        <br><br>--}}
+{{--                        <strong>Ages:</strong> 3-6--}}
+{{--                        <br>--}}
+{{--                        <strong>Time:</strong> 9am-12pm (Arrive 8:45)--}}
+{{--                        <br>--}}
+{{--                        <strong>Cost:</strong> $150.00--}}
+{{--                        <br><br>--}}
+{{--                        <strong>Ages:</strong> 7&^--}}
+{{--                        <br>--}}
+{{--                        <strong>Time:</strong> 1pm-4:00pm (Arrive 12:45)--}}
+{{--                        <br>--}}
+{{--                        <strong>Cost:</strong> $150.00--}}
+{{--                    </p>--}}
+{{--                                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button type="button" class="btn btn-danger text-uppercase">ENROLL NOW</button></a>--}}
 
-                </div>
-                <div class="text-center p-2">
-                    <img src="/images/under-the-big-top.jpg" alt="summer camp graphic" class="img-fluid" style="max-height: 400px;">
-                    <h3>Under the Big Top</h3>
-                    <p class="lead">June 20th – 23rd</p>
-                    <p>
-                        This is the GREATEST camp! One of our MOST popular
-                        <br>
-                        It’s a circus in here!
-                        <br>
-                        Get ready for a fun week of jazz and hip-hop dancing, singing, carnival games, crafts and acrobatics!
-                        <br>
-                        Remember to bring a snack and water.
-                        <br><br>
-                        <strong>Ages:</strong> 3-6
-                        <br>
-                        <strong>Time:</strong> 9am-12pm (Arrive 8:45)
-                        <br>
-                        <strong>Cost:</strong> $150.00
-                        <br><br>
-                        <strong>Ages:</strong> 7&^
-                        <br>
-                        <strong>Time:</strong> 1pm-4:00pm (Arrive 12:45)
-                        <br>
-                        <strong>Cost:</strong> $150.00
-                    </p>
-                                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button type="button" class="btn btn-danger text-uppercase">ENROLL NOW</button></a>
+{{--                </div>--}}
+{{--                <div class="text-center p-2">--}}
+{{--                    <img src="/images/under-the-big-top.jpg" alt="summer camp graphic" class="img-fluid" style="max-height: 400px;">--}}
+{{--                    <h3>Under the Big Top</h3>--}}
+{{--                    <p class="lead">June 20th – 23rd</p>--}}
+{{--                    <p>--}}
+{{--                        This is the GREATEST camp! One of our MOST popular--}}
+{{--                        <br>--}}
+{{--                        It’s a circus in here!--}}
+{{--                        <br>--}}
+{{--                        Get ready for a fun week of jazz and hip-hop dancing, singing, carnival games, crafts and acrobatics!--}}
+{{--                        <br>--}}
+{{--                        Remember to bring a snack and water.--}}
+{{--                        <br><br>--}}
+{{--                        <strong>Ages:</strong> 3-6--}}
+{{--                        <br>--}}
+{{--                        <strong>Time:</strong> 9am-12pm (Arrive 8:45)--}}
+{{--                        <br>--}}
+{{--                        <strong>Cost:</strong> $150.00--}}
+{{--                        <br><br>--}}
+{{--                        <strong>Ages:</strong> 7&^--}}
+{{--                        <br>--}}
+{{--                        <strong>Time:</strong> 1pm-4:00pm (Arrive 12:45)--}}
+{{--                        <br>--}}
+{{--                        <strong>Cost:</strong> $150.00--}}
+{{--                    </p>--}}
+{{--                                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button type="button" class="btn btn-danger text-uppercase">ENROLL NOW</button></a>--}}
 
-                </div>
-                <div class="text-center p-2">
-                    <img src="/images/bringin-the-beat.jpg" alt="summer camp graphic" class="img-fluid" style="max-height: 400px;">
-                    <h3>Summer Dance Camp – Bringin the Beat!</h3>
-                    <p class="lead">July 11th - 14th</p>
-                    <p>
-                        A fun-filled summer dance camp designed for anyone who loves to dance! Explore different styles of dance from
-                        Jazz, Hip Hop, Contemporary, Ballet, Music Theatre, Acro, Tap, Improv and More!!! Remember to Bring Water and Lunch.
-                        <br><br>
-                        <strong>Ages:</strong> 7-12
-                        <br>
-                        <strong>Time:</strong> 10am-3pm
-                        <br>
-                        <strong>Cost:</strong> $300
-                    </p>
-                                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button type="button" class="btn btn-danger text-uppercase">ENROLL NOW</button></a>
+{{--                </div>--}}
+{{--                <div class="text-center p-2">--}}
+{{--                    <img src="/images/bringin-the-beat.jpg" alt="summer camp graphic" class="img-fluid" style="max-height: 400px;">--}}
+{{--                    <h3>Summer Dance Camp – Bringin the Beat!</h3>--}}
+{{--                    <p class="lead">July 11th - 14th</p>--}}
+{{--                    <p>--}}
+{{--                        A fun-filled summer dance camp designed for anyone who loves to dance! Explore different styles of dance from--}}
+{{--                        Jazz, Hip Hop, Contemporary, Ballet, Music Theatre, Acro, Tap, Improv and More!!! Remember to Bring Water and Lunch.--}}
+{{--                        <br><br>--}}
+{{--                        <strong>Ages:</strong> 7-12--}}
+{{--                        <br>--}}
+{{--                        <strong>Time:</strong> 10am-3pm--}}
+{{--                        <br>--}}
+{{--                        <strong>Cost:</strong> $300--}}
+{{--                    </p>--}}
+{{--                                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login" target="_blank"><button type="button" class="btn btn-danger text-uppercase">ENROLL NOW</button></a>--}}
 
-                </div>
+{{--                </div>--}}
                 <div class="text-center p-2">
                     <img src="/images/villain.jpg" alt="summer camp graphic" class="img-fluid" style="max-height: 400px;">
                     <h3>Did you say VILLAIN????</h3>

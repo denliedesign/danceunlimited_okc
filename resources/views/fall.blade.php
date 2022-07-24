@@ -6,6 +6,12 @@
 
     <div class="container pb-5">
         <p class="txt-title text-center pt-5 mb-0">Fall 2022-2023</p>
+        <ul class="my-4"><em>2022/2023 Information</em>
+            <li>Fall dance and acting classes begin on <strong>August 15th!</strong></li>
+            <li>Front Desk Hours are Monday-Thursday 3pm-9pm.</li>
+            <li>Studio Phone Number: 405.242.4612</li>
+            <li>Studio Email: danceunlimitedokc@gmail.com</li>
+        </ul>
         @can('update', \App\Fstyle::class)
             <p class="text-center"><a href="/fstyles/create">New Fall Item</a></p>
         @endcan
