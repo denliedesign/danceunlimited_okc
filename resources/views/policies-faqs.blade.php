@@ -36,8 +36,8 @@
                                 </a>
                             </div>
                             <div class="col-sm">
-                                <a href="/images/spotlight-acting-welcome-22.pdf" target="_blank" style="text-decoration: none;">
-                                    <img src="/images/spotlight-acting-welcome-22.jpg" alt="spotlight acting welcome pack" class="img-fluid">
+                                <a href="/images/welcome-22-23-spotlight.pdf" target="_blank" style="text-decoration: none;">
+                                    <img src="/images/welcome-22-23-spotlight.jpg" alt="spotlight acting welcome pack" class="img-fluid">
                                     <div class="d-flex justify-content-center mt-2">
                                         <p class="btn btn-danger">Spotlight Acting Welcome Pack</p>
                                     </div>

@@ -25,12 +25,12 @@
                 <div class="d-block d-md-none">
                     <div class="d-flex justify-content-center">
                         <h1 class="txt-mobile">
-                            OKC/Edmond Premier Dance & Acting Studio with a variety of classes for all ages
+                            OKC/Edmond Premier Dance & Acting Studio With A Variety of Classes for All Students
                         </h1>
                     </div>
                     <div class="d-flex justify-content-center">
-                        <video id="mobileVideo" controls>
-                            <source src="images/i-will-wait.mp4" type="video/mp4">
+                        <video id="mobileVideo" controls poster="/images/dupac-poster.jpg">
+                            <source src="images/dupac-22.mp4" type="video/mp4">
                         </video>
                     </div>
                 </div>
