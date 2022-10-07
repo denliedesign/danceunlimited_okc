@@ -88,38 +88,38 @@
                     </div>
                 </div>
             </div>
-            <div class="col mb-4">
-                <div class="card faculty-member">
-                    <div type="button" data-toggle="modal" data-target="#ricci" id="faculty-img-btn">
-                        <img src="images/courtney-ricci.jpeg" alt="" class="faculty-img">
-                    </div>
-                    <div class="card-body p-0">
-                        <h5 class="card-title text-center mb-0">Courtney Ricci</h5>
-                        <p class="text-center"><small>Office Manager</small></p>
-                    </div>
-                    <div class="modal fade" id="ricci" tabindex="-1" role="dialog" aria-labelledby="ricci" aria-hidden="true">
-                        <div class="modal-dialog modal-dialog-scrollable" role="document">
-                            <div class="modal-content">
-                                <div class="modal-header">
-                                    <h5 class="modal-title">Courtney Ricci</h5>
-                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                        <span aria-hidden="true">&times;</span>
-                                    </button>
-                                </div>
-                                <div class="modal-body">
-                                    <p class="faculty-bio">
-                                        A lifelong dancer and lover of the arts, Courtney began her dance training in her hometown of Vineland, New Jersey. She spent years studying ballet with Maxine’s Dance Studio and the Vineland Regional Dance Company, which allowed her to perform in several contemporary ballet festivals including Regional Dance America Festivals and the annual Delaware Dance Festival. Courtney has also spent summers studying at Burklyn Ballet Theatre’s summer intensive in Vermont and the Radio City Rockettes Summer Intensive in New York City.
-                                        <br><br>
-                                        Courtney is a graduate of Oklahoma City University’s Ann Lacy School of American Dance and Entertainment, where she received her Bachelor of Science in Dance & Entertainment Management. Studies included advanced training in ballet, tap, jazz, and musical theatre dance, as well as arts administration, technical theater, and business management. There, she trained under many reputable professors and choreographers, including Jo Rowan, Vincent Sandoval, Tiffany van der Merwe, Tiffany Warford, Cassandra Van Houten, Tye Love, Jessica Fay, and Kay Sandel.
-                                        <br><br>
-                                        Beyond dance, she is passionate about serving at her church as a member of the production team. She is also passionate about getting to know people of all backgrounds and hearing their stories. Her favorite thing about Dance Unlimited is being able to work with such an incredible team that is deeply passionate about teaching students. Courtney is so excited for the year ahead at Dance Unlimited and Spotlight!
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+{{--            <div class="col mb-4">--}}
+{{--                <div class="card faculty-member">--}}
+{{--                    <div type="button" data-toggle="modal" data-target="#ricci" id="faculty-img-btn">--}}
+{{--                        <img src="images/courtney-ricci.jpeg" alt="" class="faculty-img">--}}
+{{--                    </div>--}}
+{{--                    <div class="card-body p-0">--}}
+{{--                        <h5 class="card-title text-center mb-0">Courtney Ricci</h5>--}}
+{{--                        <p class="text-center"><small>Office Manager</small></p>--}}
+{{--                    </div>--}}
+{{--                    <div class="modal fade" id="ricci" tabindex="-1" role="dialog" aria-labelledby="ricci" aria-hidden="true">--}}
+{{--                        <div class="modal-dialog modal-dialog-scrollable" role="document">--}}
+{{--                            <div class="modal-content">--}}
+{{--                                <div class="modal-header">--}}
+{{--                                    <h5 class="modal-title">Courtney Ricci</h5>--}}
+{{--                                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">--}}
+{{--                                        <span aria-hidden="true">&times;</span>--}}
+{{--                                    </button>--}}
+{{--                                </div>--}}
+{{--                                <div class="modal-body">--}}
+{{--                                    <p class="faculty-bio">--}}
+{{--                                        A lifelong dancer and lover of the arts, Courtney began her dance training in her hometown of Vineland, New Jersey. She spent years studying ballet with Maxine’s Dance Studio and the Vineland Regional Dance Company, which allowed her to perform in several contemporary ballet festivals including Regional Dance America Festivals and the annual Delaware Dance Festival. Courtney has also spent summers studying at Burklyn Ballet Theatre’s summer intensive in Vermont and the Radio City Rockettes Summer Intensive in New York City.--}}
+{{--                                        <br><br>--}}
+{{--                                        Courtney is a graduate of Oklahoma City University’s Ann Lacy School of American Dance and Entertainment, where she received her Bachelor of Science in Dance & Entertainment Management. Studies included advanced training in ballet, tap, jazz, and musical theatre dance, as well as arts administration, technical theater, and business management. There, she trained under many reputable professors and choreographers, including Jo Rowan, Vincent Sandoval, Tiffany van der Merwe, Tiffany Warford, Cassandra Van Houten, Tye Love, Jessica Fay, and Kay Sandel.--}}
+{{--                                        <br><br>--}}
+{{--                                        Beyond dance, she is passionate about serving at her church as a member of the production team. She is also passionate about getting to know people of all backgrounds and hearing their stories. Her favorite thing about Dance Unlimited is being able to work with such an incredible team that is deeply passionate about teaching students. Courtney is so excited for the year ahead at Dance Unlimited and Spotlight!--}}
+{{--                                    </p>--}}
+{{--                                </div>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
         </div>
 
         <div class="row row-cols-2 row-cols-md-3 row-cols-lg-4">
