@@ -33,19 +33,19 @@ class AppServiceProvider extends ServiceProvider
 //        });
 
 //        View::share('calendars', Calendar::all());
-        View::share('updates', Update::all());
+//        View::share('updates', Update::all());
 
 //        view()->composer('*',function($view) {
 //            $view->with('updates', Update::all());
 //        });
-
-        view()->composer('*',function($view) {
-            $view->with('sstyles', Sstyle::all());
-        });
-
-        view()->composer('*',function($view) {
-            $view->with('fstyles', Fstyle::all());
-        });
+//
+//        view()->composer('*',function($view) {
+//            $view->with('sstyles', Sstyle::all());
+//        });
+//
+//        view()->composer('*',function($view) {
+//            $view->with('fstyles', Fstyle::all());
+//        });
 
 //        view()->composer('*',function($view) {
 //            $view->with('calendar', Calendar::all());
