@@ -32,7 +32,7 @@ class AppServiceProvider extends ServiceProvider
 //            $view->with('calendars', Calendar::all()->sortBy('startday'));
 //        });
 
-        View::share('calendars', Calendar::all());
+//        View::share('calendars', Calendar::all());
         View::share('updates', Update::all());
 
 //        view()->composer('*',function($view) {
