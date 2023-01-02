@@ -50,6 +50,14 @@
         </div>
     @endif
 
+    @php
+        use App\Update;
+        use App\Sstyle;
+        use App\Fstyle;
+        $updates = \App\Update::all();
+        $sstyles = \App\Sstyle::all();
+        $fstyles = \App\Fstyle::all();
+    @endphp
     @foreach($updates as $update)
         <div class="accordion" id="accordionExample">
             <div class="card" style="width: 100%;">
@@ -124,8 +132,3 @@
 </script>
 
 </html>
-
-@php
-    use App\Update;
-    $updates = Update::all();
-@endphp
