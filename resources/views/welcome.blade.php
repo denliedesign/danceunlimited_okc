@@ -106,15 +106,19 @@
                             </div>
             </div>
 
-            <div id="calendar" class="mt-5">
-                <div class="container">
-                    <h1 class="txt-black-title text-center">Calendar</h1>
-                    @can('update', \App\Calendar::class) <p class="text-center"><a href="/calendars/create">New Calendar Item</a></p> @endcan
-                    <div id="calendar">
-                        @include('seasons')
-                    </div>
-                </div>
+            <div class="d-flex justify-content-center mt-5">
+                <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FChicago&src=ZHVjdXN0b21lcmNhcmU5OUBnbWFpbC5jb20&src=YWRkcmVzc2Jvb2sjY29udGFjdHNAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23AD1457&color=%2333B679&color=%230B8043" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
             </div>
+
+{{--            <div id="calendar" class="mt-5">--}}
+{{--                <div class="container">--}}
+{{--                    <h1 class="txt-black-title text-center">Calendar</h1>--}}
+{{--                    @can('update', \App\Calendar::class) <p class="text-center"><a href="/calendars/create">New Calendar Item</a></p> @endcan--}}
+{{--                    <div id="calendar">--}}
+{{--                        @include('seasons')--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
 
             <div class="container d-flex justify-content-center py-5">
 
