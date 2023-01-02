@@ -124,3 +124,8 @@
 </script>
 
 </html>
+
+@php
+    use App\Update;
+    $updates = Update::all();
+@endphp
