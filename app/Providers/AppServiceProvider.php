@@ -6,6 +6,7 @@ use App\Calendar;
 use App\Fstyle;
 use App\Sstyle;
 use App\Update;
+use Illuminate\Support\Facades\View;
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider
@@ -30,6 +31,8 @@ class AppServiceProvider extends ServiceProvider
 //        view()->composer('*',function($view) {
 //            $view->with('calendars', Calendar::all()->sortBy('startday'));
 //        });
+
+        View::share('calendars', Calendar::all());
 
         view()->composer('*',function($view) {
             $view->with('updates', Update::all());

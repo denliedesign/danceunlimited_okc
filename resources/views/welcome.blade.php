@@ -106,15 +106,15 @@
                             </div>
             </div>
 
-{{--            <div id="calendar" class="mt-5">--}}
-{{--                <div class="container">--}}
-{{--                    <h1 class="txt-black-title text-center">Calendar</h1>--}}
-{{--                    @can('update', \App\Calendar::class) <p class="text-center"><a href="/calendars/create">New Calendar Item</a></p> @endcan--}}
-{{--                    <div id="calendar">--}}
-{{--                        @include('seasons')--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--            </div>--}}
+            <div id="calendar" class="mt-5">
+                <div class="container">
+                    <h1 class="txt-black-title text-center">Calendar</h1>
+                    @can('update', \App\Calendar::class) <p class="text-center"><a href="/calendars/create">New Calendar Item</a></p> @endcan
+                    <div id="calendar">
+                        @include('seasons')
+                    </div>
+                </div>
+            </div>
 
             <div class="container d-flex justify-content-center py-5">
 
