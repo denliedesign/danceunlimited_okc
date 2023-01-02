@@ -27,21 +27,21 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-//        view()->composer('*',function($view) {
-//            $view->with('calendars', Calendar::all()->sortBy('startday'));
-//        });
-//
-//        view()->composer('*',function($view) {
-//            $view->with('updates', Update::all());
-//        });
-//
-//        view()->composer('*',function($view) {
-//            $view->with('sstyles', Sstyle::all());
-//        });
-//
-//        view()->composer('*',function($view) {
-//            $view->with('fstyles', Fstyle::all());
-//        });
+        view()->composer('*',function($view) {
+            $view->with('calendars', Calendar::all()->sortBy('startday'));
+        });
+
+        view()->composer('*',function($view) {
+            $view->with('updates', Update::all());
+        });
+
+        view()->composer('*',function($view) {
+            $view->with('sstyles', Sstyle::all());
+        });
+
+        view()->composer('*',function($view) {
+            $view->with('fstyles', Fstyle::all());
+        });
 
 //        view()->composer('*',function($view) {
 //            $view->with('calendar', Calendar::all());
