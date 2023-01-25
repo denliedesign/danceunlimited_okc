@@ -1,0 +1,19 @@
+.bg-snow {
+    color: #B3B3B3;
+    background: linear-gradient(to right, #020303, #2C2C2C);
+}
+
+.bg-white {
+    color: #020303;
+    background: #B3B3B3;
+}
+
+.txt-snow {
+    color: #b3b3b3 !important;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Poiret One', cursive;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}

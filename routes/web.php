@@ -11,6 +11,10 @@
 |
 */
 
+//Route::get('/', function () {
+//    return view('welcome-snow');
+//});
+
 Route::get('/', function () {
     return view('welcome');
 });
@@ -47,9 +51,9 @@ Route::get('spring', function () {
     return view('spring');
 });
 
-Route::get('summer', function () {
-    return view('summer');
-});
+//Route::get('summer', function () {
+//    return view('summer');
+//});
 
 Route::get('fall', function () {
     return view('fall');

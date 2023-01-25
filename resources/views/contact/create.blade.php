@@ -1,4 +1,5 @@
-<p class="nav-title">Message</p>
+{{--<p class="nav-title">Message</p>--}}
+<h4 class="nav-title"><strong>Message</strong></h4>
 <form action="{{ route('contact.store') }}" method="POST">
     <div class="row">
         <div class="col-sm-6">
@@ -23,7 +24,8 @@
                 <div>{{ $errors->first('message') }}</div>
             </div>
             @csrf
-            <button type="submit" class="btn btn-danger mb-3">SUBMIT</button>
+{{--            <button type="submit" class="btn btn-danger mb-3">SUBMIT</button>--}}
+            <button type="submit" class="btn btn-light shadow px-5 mt-1 text-decoration-none text-dark fw-bold" style="border-radius: 20px;">Submit</button>
         </div>
     </div>
 </form>
