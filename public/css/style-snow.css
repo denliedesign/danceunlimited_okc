@@ -17,3 +17,16 @@ h1, h2, h3, h4, h5 {
     text-transform: uppercase;
     letter-spacing: 3px;
 }
+
+.banner-wrap {
+    height: 250px;
+}
+
+.banner {
+    background-image: url("/images-snow/banner-spotlight-sm-crop.jpg");
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100%;
+}

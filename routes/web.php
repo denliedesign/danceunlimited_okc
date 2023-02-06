@@ -11,13 +11,59 @@
 |
 */
 
-//Route::get('/', function () {
-//    return view('welcome-snow');
-//});
-
+Route::get('welcome', function () {
+    return view('welcome-snow');
+});
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::get('calendar', function () {
+    return view('calendar-snow');
+});
+Route::get('fall-schedule', function () {
+    return view('fall-schedule-snow');
+});
+Route::get('fall-tuition', function () {
+    return view('fall-tuition-snow');
+});
+Route::get('summer-schedule', function () {
+    return view('summer-schedule-snow');
+});
+Route::get('summer-camps', function () {
+    return view('summer-camps-snow');
+});
+Route::get('productions-winter', function () {
+    return view('productions-winter-snow');
+});
+Route::get('productions-spring', function () {
+    return view('productions-spring-snow');
+});
+Route::get('spotlight-schedule', function () {
+    return view('spotlight-schedule-snow');
+});
+Route::get('spotlight-tuition', function () {
+    return view('spotlight-tuition-snow');
+});
+Route::get('spotlight-show', function () {
+    return view('spotlight-show-snow');
+});
+Route::get('vibe-audition', function () {
+    return view('vibe-audition-snow');
+});
+Route::get('vibe-policy', function () {
+    return view('vibe-policy-snow');
+});
+Route::get('faq-faculty', function () {
+    return view('faq-faculty-snow');
+});
+Route::get('faq-dress', function () {
+    return view('faq-dress-snow');
+});
+Route::get('faq-studio', function () {
+    return view('faq-studio-snow');
+});
+
 
 Route::get('faculty', function () {
     return view('faculty');

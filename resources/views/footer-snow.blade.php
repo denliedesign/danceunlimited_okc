@@ -1,3 +1,68 @@
+<div class="container pt-4">
+    <div class="area" id="footer">
+        <div class="row p-0 m-0">
+            <div class="col-sm">
+                <div class="row">
+                    <div class="col-sm-2">
+                        <h4 class="nav-title"><strong>Navigation</strong></h4>
+                        <ul class="list-unstyled">
+                            @include('_nav-list')
+                        </ul>
+                    </div>
+                    <div class="col-sm-2">
+                        <h4 class="nav-title"><strong>Hours</strong></h4>
+                        <div class="row">
+                            <div class="col-2">
+                                <ul class="list-unstyled">
+                                    <li>Mon </li>
+                                    <li>Tue </li>
+                                    <li>Wed </li>
+                                    <li>Thr </li>
+                                    <li>Fri </li>
+                                    <li>Sat </li>
+                                    <li>Sun </li>
+                                </ul>
+                            </div>
+                            <div class="col-10">
+                                <ul class="list-unstyled">
+                                    <li> 10am-9pm</li>
+                                    <li> 10am-9pm</li>
+                                    <li> 10am-9pm</li>
+                                    <li> 10am-9pm</li>
+                                    <li> Closed</li>
+                                    <li> Closed</li>
+                                    <li> Closed</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-3">
+                        <h4 class="nav-title"><strong>Contact</strong></h4>
+                        <ul class="list-unstyled">
+                            <li><ion-icon name="call"></ion-icon> 405-242-4612</li>
+                            <li><ion-icon name="mail"></ion-icon> danceunlimitedokc@gmail.com</li>
+                            <li><ion-icon name="mail"></ion-icon> spotlightactingokc@gmail.com</li>
+                            <li><ion-icon name="location"></ion-icon> 1217 E Hefner Road, OKC, OK 73131</li>
+                            <li><ion-icon name="gift"></ion-icon> PO Box 14371 Oklahoma City, OK 73113</li>
+                        </ul>
+                    </div>
+                    <div class="col-sm-5">
+                        @include('contact.create')
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="credit" class="py-1 d-flex justify-content-end">
+    <a class="txt-snow text-decoration-none mx-4" href="https://denliedesign.com" target="_blank"><small>Dance Website Design by Denlie Design</small></a>
+</div>
+
+
+
+
+
+
 {{--<div class="bg-dark text-white pb-5 font-syne">--}}
 {{--    <div class="container" id="footer">--}}
 {{--        <div class="pt-5">--}}
