@@ -15,7 +15,10 @@
             <br><br>
             At Dance Unlimited, we are a premier performing arts studio in Oklahoma City and Edmond that offers a variety of dance and acting classes for all students. In our dance classes, we cover a wide range of styles from ballet and jazz to hip hop and tap, and our experienced and talented instructors will guide you through each class to help you develop your skills and technique in a fun and supportive environment.
         </p>
-        <x-button link="/fall-schedule" text="Classes Offered"/>
+{{--        <x-button link="/fall-schedule" text="Classes Offered"/>--}}
+        <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
+            <a href="/fall-schedule" class="text-decoration-none text-dark fw-bold">Classes Offered</a>
+        </div>
 
         <div class="row pt-5">
             <div class="col-sm">
@@ -55,7 +58,12 @@
             <p>
                 Spotlight Acting Academy provides quality training to students with a range of theatre experience. Production classes offer opportunities for students to explore their interest and passion in not only acting, but musical theatre & performance.
             </p>
-            <x-button-outline link="/spotlight-show" text="Audition Info"/>
+{{--            <x-button-outline link="/spotlight-show" text="Audition Info"/>--}}
+            <div class="btn btn-outline-light shadow px-5" style="border-radius: 20px; border: 3px solid #020303;">
+                <a href="/spotlight-show" class="text-decoration-none text-dark fw-bold">Audition Info</a>
+            </div>
+
+
 
             <div class="row pt-5">
                 <div class="col-sm">

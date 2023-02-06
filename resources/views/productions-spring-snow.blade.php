@@ -22,6 +22,27 @@
 
     <div class="bg-white py-5">
         <div class="container">
+            <div class="row">
+                <div class="col-sm"><a href="/images-snow/recital-pure-imagination-parents.pdf" target="_blank"><img src="/images-snow/recital-pure-imagination-parents-1.jpg" alt="pure imagination recital" class="img-fluid"></a></div>
+                <div class="col-sm"><a href="/images-snow/recital-pure-imagination-parents.pdf" target="_blank"><img src="/images-snow/recital-pure-imagination-parents-2.jpg" alt="pure imagination recital" class="img-fluid"></a></div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-sm-2"></div>
+                <div class="col-sm"><a href="/images-snow/recital-pure-imagination.pdf" target="_blank"><img src="/images-snow/recital-pure-imagination-1.jpg" alt="pure imagination recital" class="img-fluid"></a></div>
+                <div class="col-sm-2"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container py-5">
+        <h2 class="text-center"><strong>Recital Pictures</strong></h2>
+        <p class="text-center">
+            Every year we have a special Recital Picture Day where dancers can have their portraits taken professionally at the studio with Spotlight Dance Photography. Always amazing photos! Dancers are not required to purchase photos, but they are a wonderful keepsake for dancers and families for years to come.
+        </p>
+    </div>
+
+    <div class="bg-white py-5">
+        <div class="container">
             <h2 class="text-center"><strong>Performance Expenses</strong></h2>
             <div>
                 <p class="px-4 text-center">
@@ -89,13 +110,6 @@
                 </p>
             </div>
         </div>
-    </div>
-
-    <div class="container py-5">
-        <h2 class="text-center"><strong>Recital Pictures</strong></h2>
-        <p class="text-center">
-            Every year we have a special Recital Picture Day where dancers can have their portraits taken professionally at the studio with Spotlight Dance Photography. Always amazing photos! Dancers are not required to purchase photos, but they are a wonderful keepsake for dancers and families for years to come.
-        </p>
     </div>
 
 @endsection
