@@ -13,6 +13,10 @@
     </ul>
 </li>
 
+<li class="nav-item my-2">
+    <a class="nav-link txt-snow" href="/du-pop-ups">DU Pop Ups</a>
+</li>
+
 <li class="nav-item dropdown my-2">
     <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">DU Summer</a>
     <ul class="dropdown-menu">

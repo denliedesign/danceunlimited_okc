@@ -18,6 +18,9 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('du-pop-ups', function () {
+    return view('du-pop-ups');
+});
 Route::get('calendar', function () {
     return view('calendar-snow');
 });
