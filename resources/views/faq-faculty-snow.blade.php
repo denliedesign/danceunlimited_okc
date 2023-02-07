@@ -197,7 +197,7 @@
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
                         <div type="button" data-bs-toggle="modal" data-bs-target="#keynaModal">
-                            <img src="/images-snow/keyna-allen-vibe-admin-director-dance-instructor.jpg" alt="headshot" class="shadow rounded"
+                            <img src="/images-snow/keyna-allen-vibe-admin-director-dance-instructor.JPG" alt="headshot" class="shadow rounded"
                                  style="height: 350px; width: 100%; object-fit: cover;">
                         </div>
                     </div>
@@ -239,7 +239,7 @@
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
                         <div type="button" data-bs-toggle="modal" data-bs-target="#makenzieModal">
-                            <img src="/images/makenzie.jpg" alt="headshot" class="shadow rounded"
+                            <img src="/images/MAKENZIE.jpg" alt="headshot" class="shadow rounded"
                                  style="height: 350px; width: 100%; object-fit: cover;">
                         </div>
                     </div>
@@ -267,7 +267,7 @@
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
                         <div type="button" data-bs-toggle="modal" data-bs-target="#michelleModal">
-                            <img src="/images/michelle.jpg" alt="headshot" class="shadow rounded"
+                            <img src="/images/MICHELLE.jpg" alt="headshot" class="shadow rounded"
                                  style="height: 350px; width: 100%; object-fit: cover;">
                         </div>
                     </div>
