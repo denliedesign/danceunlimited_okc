@@ -35,15 +35,15 @@
     </div>
 
     <div class="container py-5">
-        <h2><strong>JUNIOR THEATRE FESTIVAL - ATLANTA 2023</strong></h2>
+        <h2><strong>JUNIOR THEATRE FESTIVAL - ATLANTA 2024</strong></h2>
         <p>
-            Dance Unlimited and Spotlight are excited to be attending <strong>Junior Theatre Festival Atlanta - January 13-15, 2023!</strong>
+            Dance Unlimited and Spotlight are excited to be attending <strong>Junior Theatre Festival Atlanta - January 12-15, 2024!</strong>
         </p>
 {{--        <div>--}}
 {{--            <x-button link="/images/junior-theatre-festival.pdf" text="Details"/>--}}
 {{--        </div>--}}
         <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
-            <a href="/images/junior-theatre-festival.pdf" class="text-decoration-none text-dark fw-bold" target="_blank">Details</a>
+            <a href="/images-snow/junior-theatre-festival-24.pdf" class="text-decoration-none text-dark fw-bold" target="_blank">Details</a>
         </div>
 
         <hr class="my-4">
