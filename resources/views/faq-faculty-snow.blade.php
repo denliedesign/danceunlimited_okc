@@ -80,36 +80,6 @@
     <div class="bg-white py-5">
         <div class="container">
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
-
-
-                <div class="col-sm">
-                    <div class="d-flex justify-content-center">
-                        <div type="button" data-bs-toggle="modal" data-bs-target="#brookeModal">
-                            <img src="/images-snow/brooke-gebb-dance-instructor.JPG" alt="headshot" class="shadow rounded"
-                                 style="height: 350px; width: 100%; object-fit: cover;">
-                        </div>
-                    </div>
-                    <div class="text-center mt-2">
-                        <h2><strong>brooke gebb</strong></h2>
-                        <p>
-                            Dance Instructor
-                        </p>
-                    </div>
-                </div>
-                <div class="col-sm">
-                    <div class="d-flex justify-content-center">
-                        <div type="button" data-bs-toggle="modal" data-bs-target="#cerenaModal">
-                            <img src="/images/CERENA.jpg" alt="headshot" class="shadow rounded"
-                                 style="height: 350px; width: 100%; object-fit: cover;">
-                        </div>
-                    </div>
-                    <div class="text-center mt-2">
-                        <h2><strong>cerena chaney</strong></h2>
-                        <p>
-                            Dance Instructor
-                        </p>
-                    </div>
-                </div>
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
                         <div type="button" data-bs-toggle="modal" data-bs-target="#chelseaModal">
@@ -126,71 +96,15 @@
                 </div>
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
-                        <div type="button" data-bs-toggle="modal" data-bs-target="#claireModal">
-                            <img src="/images-snow/claire-argo-customer-care.jpeg" alt="headshot" class="shadow rounded"
+                        <div type="button" data-bs-toggle="modal" data-bs-target="#makenzieModal">
+                            <img src="/images/MAKENZIE.jpg" alt="headshot" class="shadow rounded"
                                  style="height: 350px; width: 100%; object-fit: cover;">
                         </div>
                     </div>
                     <div class="text-center mt-2">
-                        <h2><strong>claire argo</strong></h2>
+                        <h2><strong>makenzie boatright</strong></h2>
                         <p>
-                            Customer Care
-                        </p>
-                    </div>
-                </div>
-                <div class="col-sm">
-                    <div class="d-flex justify-content-center">
-                        <div type="button" data-bs-toggle="modal" data-bs-target="#darnellModal">
-                            <img src="/images-snow/darnell-reedom-customer-care.jpg" alt="headshot" class="shadow rounded"
-                                 style="height: 350px; width: 100%; object-fit: cover;">
-                        </div>
-                    </div>
-                    <div class="text-center mt-2">
-                        <h2><strong>darnell reedom</strong></h2>
-                        <p>
-                            Customer Care
-                        </p>
-                    </div>
-                </div>
-                <div class="col-sm">
-                    <div class="d-flex justify-content-center">
-                        <div type="button" data-bs-toggle="modal" data-bs-target="#emilyModal">
-                            <img src="/images/EMILY.jpg" alt="headshot" class="shadow rounded"
-                                 style="height: 350px; width: 100%; object-fit: cover;">
-                        </div>
-                    </div>
-                    <div class="text-center mt-2">
-                        <h2><strong>emily ham</strong></h2>
-                        <p>
-                            Vibe Dance Co. Director/ Dance Instructor
-                        </p>
-                    </div>
-                </div>
-                <div class="col-sm">
-                    <div class="d-flex justify-content-center">
-                        <div type="button" data-bs-toggle="modal" data-bs-target="#wyattModal">
-                            <img src="/images-snow/emily-wyatt-teaching-assistant.jpg" alt="headshot" class="shadow rounded"
-                                 style="height: 350px; width: 100%; object-fit: cover;">
-                        </div>
-                    </div>
-                    <div class="text-center mt-2">
-                        <h2><strong>emily wyatt</strong></h2>
-                        <p>
-                            Teaching Assistant
-                        </p>
-                    </div>
-                </div>
-                <div class="col-sm">
-                    <div class="d-flex justify-content-center">
-                        <div type="button" data-bs-toggle="modal" data-bs-target="#jessicaModal">
-                            <img src="/images/jessica.jpg" alt="headshot" class="shadow rounded"
-                                 style="height: 350px; width: 100%; object-fit: cover;">
-                        </div>
-                    </div>
-                    <div class="text-center mt-2">
-                        <h2><strong>jessica cajina</strong></h2>
-                        <p>
-                            Dance Instructor
+                            Spotlight Associate Director/ Voice/ Instructor
                         </p>
                     </div>
                 </div>
@@ -224,13 +138,27 @@
                 </div>
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
-                        <div type="button" data-bs-toggle="modal" data-bs-target="#lillianModal">
-                            <img src="/images-snow/lillian-ball-dance-instructor.JPG" alt="headshot" class="shadow rounded"
+                        <div type="button" data-bs-toggle="modal" data-bs-target="#emilyModal">
+                            <img src="/images/EMILY.jpg" alt="headshot" class="shadow rounded"
                                  style="height: 350px; width: 100%; object-fit: cover;">
                         </div>
                     </div>
                     <div class="text-center mt-2">
-                        <h2><strong>lillian ball</strong></h2>
+                        <h2><strong>emily ham</strong></h2>
+                        <p>
+                            Vibe Dance Co. Director/ Dance Instructor
+                        </p>
+                    </div>
+                </div>
+                <div class="col-sm">
+                    <div class="d-flex justify-content-center">
+                        <div type="button" data-bs-toggle="modal" data-bs-target="#cerenaModal">
+                            <img src="/images/CERENA.jpg" alt="headshot" class="shadow rounded"
+                                 style="height: 350px; width: 100%; object-fit: cover;">
+                        </div>
+                    </div>
+                    <div class="text-center mt-2">
+                        <h2><strong>cerena chaney</strong></h2>
                         <p>
                             Dance Instructor
                         </p>
@@ -238,15 +166,29 @@
                 </div>
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
-                        <div type="button" data-bs-toggle="modal" data-bs-target="#makenzieModal">
-                            <img src="/images/MAKENZIE.jpg" alt="headshot" class="shadow rounded"
+                        <div type="button" data-bs-toggle="modal" data-bs-target="#michelleModal">
+                            <img src="/images/MICHELLE.jpg" alt="headshot" class="shadow rounded"
                                  style="height: 350px; width: 100%; object-fit: cover;">
                         </div>
                     </div>
                     <div class="text-center mt-2">
-                        <h2><strong>makenzie boatright</strong></h2>
+                        <h2><strong>michelle rambo</strong></h2>
                         <p>
-                            Spotlight Associate Director/ Voice/ Instructor
+                            Dance Instructor
+                        </p>
+                    </div>
+                </div>
+                <div class="col-sm">
+                    <div class="d-flex justify-content-center">
+                        <div type="button" data-bs-toggle="modal" data-bs-target="#jessicaModal">
+                            <img src="/images/jessica.jpg" alt="headshot" class="shadow rounded"
+                                 style="height: 350px; width: 100%; object-fit: cover;">
+                        </div>
+                    </div>
+                    <div class="text-center mt-2">
+                        <h2><strong>jessica cajina</strong></h2>
+                        <p>
+                            Dance Instructor
                         </p>
                     </div>
                 </div>
@@ -266,15 +208,71 @@
                 </div>
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
-                        <div type="button" data-bs-toggle="modal" data-bs-target="#michelleModal">
-                            <img src="/images/MICHELLE.jpg" alt="headshot" class="shadow rounded"
+                        <div type="button" data-bs-toggle="modal" data-bs-target="#lillianModal">
+                            <img src="/images-snow/lillian-ball-dance-instructor.JPG" alt="headshot" class="shadow rounded"
                                  style="height: 350px; width: 100%; object-fit: cover;">
                         </div>
                     </div>
                     <div class="text-center mt-2">
-                        <h2><strong>michelle rambo</strong></h2>
+                        <h2><strong>lillian ball</strong></h2>
                         <p>
                             Dance Instructor
+                        </p>
+                    </div>
+                </div>
+                <div class="col-sm">
+                    <div class="d-flex justify-content-center">
+                        <div type="button" data-bs-toggle="modal" data-bs-target="#brookeModal">
+                            <img src="/images-snow/brooke-gebb-dance-instructor.JPG" alt="headshot" class="shadow rounded"
+                                 style="height: 350px; width: 100%; object-fit: cover;">
+                        </div>
+                    </div>
+                    <div class="text-center mt-2">
+                        <h2><strong>brooke gebb</strong></h2>
+                        <p>
+                            Dance Instructor
+                        </p>
+                    </div>
+                </div>
+                <div class="col-sm">
+                    <div class="d-flex justify-content-center">
+                        <div type="button" data-bs-toggle="modal" data-bs-target="#darnellModal">
+                            <img src="/images-snow/darnell-reedom-customer-care.jpg" alt="headshot" class="shadow rounded"
+                                 style="height: 350px; width: 100%; object-fit: cover;">
+                        </div>
+                    </div>
+                    <div class="text-center mt-2">
+                        <h2><strong>darnell reedom</strong></h2>
+                        <p>
+                            Customer Care
+                        </p>
+                    </div>
+                </div>
+                <div class="col-sm">
+                    <div class="d-flex justify-content-center">
+                        <div type="button" data-bs-toggle="modal" data-bs-target="#claireModal">
+                            <img src="/images-snow/claire-argo-customer-care.jpeg" alt="headshot" class="shadow rounded"
+                                 style="height: 350px; width: 100%; object-fit: cover;">
+                        </div>
+                    </div>
+                    <div class="text-center mt-2">
+                        <h2><strong>claire argo</strong></h2>
+                        <p>
+                            Customer Care
+                        </p>
+                    </div>
+                </div>
+                <div class="col-sm">
+                    <div class="d-flex justify-content-center">
+                        <div type="button" data-bs-toggle="modal" data-bs-target="#wyattModal">
+                            <img src="/images-snow/emily-wyatt-teaching-assistant.jpg" alt="headshot" class="shadow rounded"
+                                 style="height: 350px; width: 100%; object-fit: cover;">
+                        </div>
+                    </div>
+                    <div class="text-center mt-2">
+                        <h2><strong>emily wyatt</strong></h2>
+                        <p>
+                            Teaching Assistant
                         </p>
                     </div>
                 </div>
