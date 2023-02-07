@@ -20,37 +20,44 @@
 
     <div class="bg-white py-5">
         <div class="container">
-            <h2><strong>Students</strong></h2>
-            <p>
-                Spotlight Acting Academy faculty encourage all students to progress at their own rate within a nurturing and supportive class environment. The director will notify a parent if their child is ready to move to the next level. We appreciate your respect and cooperation in this matter. We love to give students the chance to play roles and ensemble. Getting kids out of their comfort zone with confidence is our speciality!
-                <br><br>
-                Spotlight Acting Academy is a professional organization and acting education center. Jonathan reserves the right to re-direct placement of any student while attending any class and/or workshops.
-            </p>
-            <hr class="my-4">
-            <h2><strong>Parents</strong></h2>
-            <p>
-                We hope that by enrolling your child at Spotlight Acting academy you intend to take an active part in helping your actor by taking a genuine, enthusiastic interest in not only your child’s progression but also in the art of theatre itself. You must also trust that we will make decisions in your child’s best interests. His/her welfare is first and foremost. We hope to make a memorable and meaningful experience. You will at times possibly need to help your actor memorize lines for their scenes and shows.
-            </p>
+            @include('_spotlight-productions')
         </div>
     </div>
 
     <div class="container py-5">
-        <h2><strong>JUNIOR THEATRE FESTIVAL - ATLANTA 2024</strong></h2>
+        <h2><strong>Students</strong></h2>
         <p>
-            Dance Unlimited and Spotlight are excited to be attending <strong>Junior Theatre Festival Atlanta - January 12-15, 2024!</strong>
+            Spotlight Acting Academy faculty encourage all students to progress at their own rate within a nurturing and supportive class environment. The director will notify a parent if their child is ready to move to the next level. We appreciate your respect and cooperation in this matter. We love to give students the chance to play roles and ensemble. Getting kids out of their comfort zone with confidence is our speciality!
+            <br><br>
+            Spotlight Acting Academy is a professional organization and acting education center. Jonathan reserves the right to re-direct placement of any student while attending any class and/or workshops.
         </p>
-{{--        <div>--}}
-{{--            <x-button link="/images/junior-theatre-festival.pdf" text="Details"/>--}}
-{{--        </div>--}}
-        <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
-            <a href="/images-snow/junior-theatre-festival-24.pdf" class="text-decoration-none text-dark fw-bold" target="_blank">Details</a>
-        </div>
-
         <hr class="my-4">
-        <h2><strong>VOICE & PIANO LESSONS</strong></h2>
+        <h2><strong>Parents</strong></h2>
         <p>
-            Interested in studying voice or piano through private lessons? Our instructors have a passion for teaching and are available for lessons for students ages 3-18. Fill out the interest form labeled "MESSAGE" below for information! Please indicate the student’s name, age, and desired area of study (voice/piano).
+            We hope that by enrolling your child at Spotlight Acting academy you intend to take an active part in helping your actor by taking a genuine, enthusiastic interest in not only your child’s progression but also in the art of theatre itself. You must also trust that we will make decisions in your child’s best interests. His/her welfare is first and foremost. We hope to make a memorable and meaningful experience. You will at times possibly need to help your actor memorize lines for their scenes and shows.
         </p>
+    </div>
+
+    <div class="bg-white py-5">
+        <div class="container">
+            <h2><strong>JUNIOR THEATRE FESTIVAL - ATLANTA 2024</strong></h2>
+            <p>
+                Dance Unlimited and Spotlight are excited to be attending <strong>Junior Theatre Festival Atlanta - January 12-15, 2024!</strong>
+            </p>
+            {{--        <div>--}}
+            {{--            <x-button link="/images/junior-theatre-festival.pdf" text="Details"/>--}}
+            {{--        </div>--}}
+            <div class="btn btn-outline-light shadow px-5" style="border-radius: 20px; border: 3px solid #020303;">
+                <a href="/images-snow/junior-theatre-festival-24.pdf" target="_blank" class="text-decoration-none text-dark fw-bold">Details</a>
+            </div>
+
+
+            <hr class="my-4">
+            <h2><strong>VOICE & PIANO LESSONS</strong></h2>
+            <p>
+                Interested in studying voice or piano through private lessons? Our instructors have a passion for teaching and are available for lessons for students ages 3-18. Fill out the interest form labeled "MESSAGE" below for information! Please indicate the student’s name, age, and desired area of study (voice/piano).
+            </p>
+        </div>
     </div>
 
 @endsection

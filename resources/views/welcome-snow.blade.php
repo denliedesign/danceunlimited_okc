@@ -63,30 +63,7 @@
                 <a href="/spotlight-show" class="text-decoration-none text-dark fw-bold">Audition Info</a>
             </div>
 
-
-
-            <div class="row pt-5">
-                <div class="col-sm">
-                    <img src="/images-snow/poster-1.jpg" class="rounded" style="border: 3px solid #020303; height: 350px; width: 100%; object-fit: cover; object-position: top;" alt="">
-                    <h4 class="my-1"><strong>mary poppins</strong></h4>
-{{--                    <p>Ballet & Tap class for 3-4 year olds.</p>--}}
-                </div>
-                <div class="col-sm">
-                    <img src="/images-snow/poster-2.png" class="rounded" style="border: 3px solid #020303; height: 350px; width: 100%; object-fit: cover; object-position: top;" alt="">
-                    <h4 class="my-1"><strong>heathers</strong></h4>
-{{--                    <p>Ballet/Tap and Jazz/Hip Hop classes for 5-7 year olds.</p>--}}
-                </div>
-                <div class="col-sm">
-                    <img src="/images-snow/poster-3.jpg" class="rounded" style="border: 3px solid #020303; height: 350px; width: 100%; object-fit: cover; object-position: top;" alt="">
-                    <h4 class="my-1"><strong>spongebob</strong></h4>
-{{--                    <p>Ballet, Tap, Jazz, & Hip Hop classes for ages 8-12.</p>--}}
-                </div>
-                <div class="col-sm">
-                    <img src="/images-snow/poster-4.png" class="rounded" style="border: 3px solid #020303; height: 350px; width: 100%; object-fit: cover; object-position: top;" alt="">
-                    <h4 class="my-1"><strong>wizard of oz</strong></h4>
-{{--                    <p>Ballet, Tap, Jazz, & Hip Hop classes for ages 13-18.</p>--}}
-                </div>
-            </div>
+            @include("_spotlight-productions")
         </div>
     </div>
 </div>
