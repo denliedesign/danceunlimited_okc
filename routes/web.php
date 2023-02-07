@@ -21,6 +21,9 @@ Route::get('/', function () {
 Route::get('du-pop-ups', function () {
     return view('du-pop-ups');
 });
+Route::get('trash-week', function () {
+    return view('trash-week-snow');
+});
 Route::get('calendar', function () {
     return view('calendar-snow');
 });

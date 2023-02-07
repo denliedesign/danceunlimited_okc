@@ -66,43 +66,39 @@
     <div class="container py-5">
         <h2><strong>Junior Classes – Ages 8-11</strong></h2>
         <div class="row">
-            <p>
-                <strong>Jr One Ballet</strong> - Any Shade of Purple or Black Leotard, Black, Chiffon Wrap Skirt (Tie or Elastic).
+            <div class="col-sm"><p class="lead text-center">Jr One Ballet</p>Any Shade of Purple or Black Leotard, Black, Chiffon Wrap Skirt (Tie or Elastic).
                 <br><br>
                 Tights: Pink footed or convertible tights. Shoes: Split Sole, Capezio or Bloch Pink Ballet shoes, must be leather. Cut drawstrings about half inch, make a bow, THEN tuck inside of ballet shoe.
                 <br><br>
-                Dance tights serve as your child’s “under garment” Dancers Hair should be in a bun; even short hair will need to be secured out of face
+                Dance tights serve as your child’s “under garment” Dancers Hair should be in a bun; even short hair will need to be secured out of face</div>
+            <div class="col-sm"><p class="lead text-center">Jr One Jazz/Tap</p>Any Shade of Purple or Black Leotard, Black tights or leggings, No Shorts.
                 <br><br>
-                <strong>Jr One Jazz/Tap</strong> - Any Shade of Purple or Black Leotard, Black tights or leggings, No Shorts.
-                <br><br>
-                Jazz Shoes: Black Bloch 401L slip-on split sole Tap Shoes: BLACK CAPEZIO or BLOCH leather style shoe. Must have Tele Tone Taps on bottom.
-
-            <hr class="my-4">
-                <strong>Jr Two Ballet</strong> - Any Shade of Red or Black Leotard, Black, Chiffon Wrap Skirt (Tie or Elastic)
+                Jazz Shoes: Black Bloch 401L slip-on split sole Tap Shoes: BLACK CAPEZIO or BLOCH leather style shoe. Must have Tele Tone Taps on bottom.</div>
+        </div>
+        <hr class="my-4">
+        <div class="row">
+            <div class="col-sm"><p class="lead text-center">Jr Two Ballet</p>Any Shade of Red or Black Leotard, Black, Chiffon Wrap Skirt (Tie or Elastic)
                 <br><br>
                 Tights: Pink footed or convertible tights. Shoes: Split Sole, Capezio or Bloch Pink Ballet shoes, must be leather. Cut drawstrings about half inch, make a bow, THEN tuck inside of ballet shoe. Dance tights serve as your child’s “under garment”
                 <br><br>
-                Dancers Hair should be in a bun; even short hair will need to be secured out of face.
-
-            <hr class="my-4">
-                <strong>Jr Two Jazz/Tap</strong> - Any Shade of Red or Black Leotard, Black tights or leggings, No Shorts.
+                Dancers Hair should be in a bun; even short hair will need to be secured out of face.</div>
+            <div class="col-sm"><p class="lead text-center">Jr Two Jazz/Tap</p>Any Shade of Red or Black Leotard, Black tights or leggings, No Shorts.
                 <br><br>
                 Jazz Shoes: Black Bloch 401L slip-on split sole
                 <br><br>
-                Tap Shoes: BLACK CAPEZIO or BLOCH leather style shoe. Must have Tele Tone Taps on bottom.
-
-            <hr class="my-4">
-                <strong>Jr Three Ballet</strong> - Any Shade of Green or Black Leotard, Black, Chiffon Wrap Skirt (Tie or Elastic)
+                Tap Shoes: BLACK CAPEZIO or BLOCH leather style shoe. Must have Tele Tone Taps on bottom.</div>
+        </div>
+        <hr class="my-4">
+        <div class="row">
+            <div class="col-sm"><p class="lead text-center">Jr Three Ballet</p>Any Shade of Green or Black Leotard, Black, Chiffon Wrap Skirt (Tie or Elastic)
                 <br><br>
                 Tights: Pink footed or convertible tights. - Shoes: Split Sole, Capezio or Bloch Pink Ballet shoes, must be leather. Cut drawstrings about half inch, make a bow, THEN tuck inside of ballet shoe. NO PANTIES, dance tights serve as your child’s “undergarment”. Dancers Hair should be in a bun; even short hair will need to be secured out of face
-
-            <hr class="my-4">
-                <strong>Jr Three Jazz/Tap</strong> - Any Shade of Green or Black Leotard, Black Tights or Black leggings, No Shorts.
+            </div>
+            <div class="col-sm"><p class="lead text-center">Jr Three Jazz/Tap</p>Any Shade of Green or Black Leotard, Black Tights or Black leggings, No Shorts.
                 <br><br>
                 Jazz Shoes: Black Bloch 401L slip-on split sole.
                 <br><br>
-                Tap Shoes: BLACK CAPEZIO or BLOCH leather style shoe. Must have Tele Tone Taps on bottom.
-            </p>
+                Tap Shoes: BLACK CAPEZIO or BLOCH leather style shoe. Must have Tele Tone Taps on bottom.</div>
         </div>
     </div>
 
@@ -110,32 +106,45 @@
         <div class="container">
             <h2><strong>Teen Classes - Ages 12 and Up</strong></h2>
             <div class="row">
-                <p>
-                    <strong>Teen Two Ballet</strong> - Any Shade of Maroon or Black Leotard, Black, Chiffon Wrap Skirt (Tie or Elastic) Tights: Pink footed or convertible tights. Shoes: Split Sole, Capezio or Bloch Pink Ballet shoes, must be leather. Dancers Hair should be in a bun; even short hair will need to be secured out of face
-                <hr class="my-4">
-                    <strong>Teen Two Jazz</strong> - Any Shade of Maroon or Black Leotard/Tank, Black Tights or Black leggings, No Shorts. Jazz Shoes: Black Bloch 401L slip-on split sole
-                <hr class="my-4">
-                    <strong>Teen Two Tap</strong> - Any Shade of Maroon or Black Leotard, Black Tights or Black leggings, No Shorts. Tap Shoes: BLACK CAPEZIO or BLOCH leather style shoe. Must have Tele Tone Taps on bottom. All upper-level tap dancers are strongly encouraged to wear Jason Samuels, K360, or Miller and Ben Style shoes.
-                <hr class="my-4">
-                    <strong>Teen Three Ballet</strong> - Any Shade of Purple or Black Leotard, Black, Chiffon Wrap Skirt (Tie or Elastic) Tights: Pink footed or convertible tights. Shoes: Split Sole, Capezio or Bloch Pink Ballet shoes, must be leather. Dancers Hair should be in a bun; even short hair will need to be secured out of face
-                <hr class="my-4">
-                    <strong>Teen Three Jazz</strong> - Any Shade of Purple or Black Leotard/Tank (if tight fitting), Black Tights or Black leggings, No Shorts. Jazz Shoes: Black Bloch 401L slip-on split sole
-                <hr class="my-4">
-                    <strong>Teen Three Tap</strong> - Any Shade of Purple or Black Leotard/Tank (if tight fitting), Black tights or Black leggings, No Shorts. Tap Shoes: Jason Samuels, K360, or Miller and Ben Style shoes.
-                <hr class="my-4">
-                    <strong>Teen Four Ballet</strong> - Any Shade of Blue or Black Leotard, Black, Chiffon Wrap Skirt (Tie or Elastic) Tights: Pink footed or convertible tights. Shoes: Split Sole, Capezio or Bloch Pink Ballet shoes, must be leather. Dancers Hair should be in a bun for all of class.
-                <hr class="my-4">
-                    <strong>Teen Four Jazz</strong> - Any Color Leotard/Tank (if tight fitting) and Tights or leggings, NO Shorts allowed Jazz Shoes: Tan and Black Bloch 401L slip-on split sole
-                <hr class="my-4">
-                    <strong>Teen Four Tap</strong> - Any Color Leotard/Tank (if tight fitting) and Tights or leggings, NO Shorts allowed. Tap Shoes: Jason Samuels, K360, or Miller and Ben Style shoes.
-                <hr class="my-4">
-                    <strong>Teen Five Ballet</strong> - Any Color Solid Leotard, Black, Chiffon Wrap Skirt (Tie or Elastic) Tights: Pink footed or convertible tights. Shoes: Split Sole, Capezio or Bloch Pink Ballet shoes, must be leather. Dancers Hair should be in a bun.
-                <hr class="my-4">
-                    <strong>Teen Five Jazz</strong> - Any Color Leotard/Tank (if tight fitting) and Tights or leggings, NO Shorts allowed Jazz Shoes: Tan and Black Bloch 401L slip-on split sole
-                <hr class="my-4">
-                    <strong>Teen Five Tap</strong> - Tights: Black tights or Black leggings, No Shorts. Tap Shoes: Jason Samuels, K360, or Miller and Ben Style shoes.
-                </p>
+                <div class="col-sm">                    <p class="lead text-center">Teen Two Ballet</p> Any Shade of Maroon or Black Leotard, Black, Chiffon Wrap Skirt (Tie or Elastic) Tights: Pink footed or convertible tights. Shoes: Split Sole, Capezio or Bloch Pink Ballet shoes, must be leather. Dancers Hair should be in a bun; even short hair will need to be secured out of face
+                </div>
+                <div class="col-sm">                    <p class="lead text-center">Teen Two Jazz</p> Any Shade of Maroon or Black Leotard/Tank, Black Tights or Black leggings, No Shorts. Jazz Shoes: Black Bloch 401L slip-on split sole
+                </div>
+                <div class="col-sm">                    <p class="lead text-center">Teen Two Tap</p> Any Shade of Maroon or Black Leotard, Black Tights or Black leggings, No Shorts. Tap Shoes: BLACK CAPEZIO or BLOCH leather style shoe. Must have Tele Tone Taps on bottom. All upper-level tap dancers are strongly encouraged to wear Jason Samuels, K360, or Miller and Ben Style shoes.
+                </div>
             </div>
+                <hr class="my-4">
+
+            <div class="row">
+                <div class="col-sm">                    <p class="lead text-center">Teen Three Ballet</p>Any Shade of Purple or Black Leotard, Black, Chiffon Wrap Skirt (Tie or Elastic) Tights: Pink footed or convertible tights. Shoes: Split Sole, Capezio or Bloch Pink Ballet shoes, must be leather. Dancers Hair should be in a bun; even short hair will need to be secured out of face
+                </div>
+                <div class="col-sm">                    <p class="lead text-center">Teen Three Jazz</p>Any Shade of Purple or Black Leotard/Tank (if tight fitting), Black Tights or Black leggings, No Shorts. Jazz Shoes: Black Bloch 401L slip-on split sole
+                </div>
+                <div class="col-sm">                    <p class="lead text-center">Teen Three Tap</p>Any Shade of Purple or Black Leotard/Tank (if tight fitting), Black tights or Black leggings, No Shorts. Tap Shoes: Jason Samuels, K360, or Miller and Ben Style shoes.
+                </div>
+            </div>
+                <hr class="my-4">
+
+            <div class="row">
+                <div class="col-sm">                    <p class="lead text-center">Teen Four Ballet</p>Any Shade of Blue or Black Leotard, Black, Chiffon Wrap Skirt (Tie or Elastic) Tights: Pink footed or convertible tights. Shoes: Split Sole, Capezio or Bloch Pink Ballet shoes, must be leather. Dancers Hair should be in a bun for all of class.
+                </div>
+                <div class="col-sm">                    <p class="lead text-center">Teen Four Jazz</p>Any Color Leotard/Tank (if tight fitting) and Tights or leggings, NO Shorts allowed Jazz Shoes: Tan and Black Bloch 401L slip-on split sole
+                </div>
+                <div class="col-sm">                    <p class="lead text-center">Teen Four Tap</p>Any Color Leotard/Tank (if tight fitting) and Tights or leggings, NO Shorts allowed. Tap Shoes: Jason Samuels, K360, or Miller and Ben Style shoes.
+                </div>
+            </div>
+
+                <hr class="my-4">
+
+            <div class="row">
+                <div class="col-sm">                    <p class="lead text-center">Teen Five Ballet</p>Any Color Solid Leotard, Black, Chiffon Wrap Skirt (Tie or Elastic) Tights: Pink footed or convertible tights. Shoes: Split Sole, Capezio or Bloch Pink Ballet shoes, must be leather. Dancers Hair should be in a bun.
+                </div>
+                <div class="col-sm">                    <p class="lead text-center">Teen Five Jazz</p>Any Color Leotard/Tank (if tight fitting) and Tights or leggings, NO Shorts allowed Jazz Shoes: Tan and Black Bloch 401L slip-on split sole
+                </div>
+                <div class="col-sm">                    <p class="lead text-center">Teen Five Tap</p>Tights: Black tights or Black leggings, No Shorts. Tap Shoes: Jason Samuels, K360, or Miller and Ben Style shoes.
+                </div>
+            </div>
+
         </div>
     </div>
 
@@ -174,19 +183,19 @@
         </div>
     </div>
 
-    <div class="container py-5">
-        <h2><strong>Trash Week</strong></h2>
-        <div class="row">
-            <div class="col-sm">
-                <p>
-                    “Trash Week” is the first FULL week of each month when your child may wear any color leotard and tights to class. They may also wear ballet skirts, leggings, shorts, etc. during trash week.
-                    <br><br>
-                    Viewing windows will be open during “Trash Week” and will continue to be open all month as long as the “window” is not causing too much distraction for dancers. Standing at the outside windows and waving or tapping on our inside window distracts the entire class and disrupts the classroom setting.
-                    <br><br>
-                    Please save costumes for Halloween week, as these can be very distracting to their learning.
-                </p>
-            </div>
-        </div>
-    </div>
+{{--    <div class="container py-5">--}}
+{{--        <h2><strong>Trash Week</strong></h2>--}}
+{{--        <div class="row">--}}
+{{--            <div class="col-sm">--}}
+{{--                <p>--}}
+{{--                    “Trash Week” is the first FULL week of each month when your child may wear any color leotard and tights to class. They may also wear ballet skirts, leggings, shorts, etc. during trash week.--}}
+{{--                    <br><br>--}}
+{{--                    Viewing windows will be open during “Trash Week” and will continue to be open all month as long as the “window” is not causing too much distraction for dancers. Standing at the outside windows and waving or tapping on our inside window distracts the entire class and disrupts the classroom setting.--}}
+{{--                    <br><br>--}}
+{{--                    Please save costumes for Halloween week, as these can be very distracting to their learning.--}}
+{{--                </p>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
 @endsection

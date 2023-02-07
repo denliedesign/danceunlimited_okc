@@ -55,6 +55,7 @@
     <ul class="dropdown-menu">
         <li><a class="dropdown-item" href="/faq-faculty">About our Faculty</a></li>
         <li><a class="dropdown-item" href="/faq-dress">Dress Code</a></li>
+        <li><a class="dropdown-item" href="/trash-week">Trash Week</a></li>
         <li><a class="dropdown-item" href="/faq-studio">Studio</a></li>
     </ul>
 </li>
