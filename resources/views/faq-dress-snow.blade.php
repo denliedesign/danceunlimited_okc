@@ -25,7 +25,7 @@
             <h2><strong>Starlette classes – ages 3-7</strong></h2>
             <p><strong>General Guidelines</strong><br>
                 -No skirts attached to leos or that tie on. These can become the full attention during class time and we like to only have skirts during
-                "Trash Week"!
+                "<a href="/trash-week">Trash Week</a>"!
                 <br>-Jewelry and watches must be removed before entering the dance class. These can become objects that may accidentally break or scratch another student, so we like to leave them outside the classroom.
                 <br>-Dance bag should be packed with dance shoes, outside shoes, and Kleenex. No food or water.
                 <br>-Names should be written inside of ALL dance shoes prior to first dance class.
