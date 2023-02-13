@@ -19,9 +19,22 @@
             Look in cubbies for left items. Those items, including dance shoes, not picked up will be donated to a local charity.
         </p>
 
-        <div class="d-flex justify-content-center my-5">
-            <img src="images/faq-facility.png" alt="inside the studio" class="img-fluid shadow rounded">
+        <div class="row row-cols-2 row-cols-sm-2 row-cols-md-4 row-cols-lg-4">
+            <div class="col-sm my-3"><img src="/images-snow/studio-p1.jpg" class="img-fluid shadow rounded" alt="studio picture"></div>
+            <div class="col-sm my-3"><img src="/images-snow/studio-p2.jpg" class="img-fluid shadow rounded" alt="studio picture"></div>
+            <div class="col-sm my-3"><img src="/images-snow/studio-p3.jpg" class="img-fluid shadow rounded" alt="studio picture"></div>
+            <div class="col-sm my-3"><img src="/images-snow/studio-p4.jpg" class="img-fluid shadow rounded" alt="studio picture"></div>
         </div>
+        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
+            <div class="col-sm my-3"><img src="/images-snow/studio-l1.jpg" class="img-fluid shadow rounded" alt="studio picture"></div>
+            <div class="col-sm my-3"><img src="/images-snow/studio-l2.jpg" class="img-fluid shadow rounded" alt="studio picture"></div>
+            <div class="col-sm my-3"><img src="/images-snow/studio-l3.jpg" class="img-fluid shadow rounded" alt="studio picture"></div>
+            <div class="col-sm my-3"><img src="/images-snow/studio-l4.jpg" class="img-fluid shadow rounded" alt="studio picture"></div>
+        </div>
+
+{{--        <div class="d-flex justify-content-center my-5">--}}
+{{--            <img src="images/faq-facility.png" alt="inside the studio" class="img-fluid shadow rounded">--}}
+{{--        </div>--}}
     </div>
 
 @endsection

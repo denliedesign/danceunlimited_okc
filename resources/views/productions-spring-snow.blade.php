@@ -39,6 +39,12 @@
         <p class="text-center">
             Every year we have a special Recital Picture Day where dancers can have their portraits taken professionally at the studio with Spotlight Dance Photography. Always amazing photos! Dancers are not required to purchase photos, but they are a wonderful keepsake for dancers and families for years to come.
         </p>
+        <div class="d-flex justify-content-center">
+            <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
+                <a href="/images-snow/recital-pure-imagination-picture-schedule.pdf" target="_blank" class="text-decoration-none text-dark fw-bold">Picture Schedule</a>
+            </div>
+        </div>
+
     </div>
 
     <div class="bg-white py-5">

@@ -32,12 +32,12 @@
                 <p>Ballet/Tap and Jazz/Hip Hop classes for 5-7 year olds.</p>
             </div>
             <div class="col-sm">
-                <img src="/images-snow/age-group-3.jpg" class="img-fluid rounded" alt="">
+                <img src="/images-snow/junior-dancers.jpg" class="img-fluid rounded" alt="">
                 <h4 class="my-1"><strong>Junior Level</strong></h4>
                 <p>Ballet, Tap, Jazz, & Hip Hop classes for ages 8-12.</p>
             </div>
             <div class="col-sm">
-                <img src="/images-snow/age-group-4.jpg" class="img-fluid rounded" alt="">
+                <img src="/images-snow/teen-dancers.JPG" class="img-fluid rounded" alt="">
                 <h4 class="my-1"><strong>Teen Level</strong></h4>
                 <p>Ballet, Tap, Jazz, & Hip Hop classes for ages 13-18.</p>
             </div>

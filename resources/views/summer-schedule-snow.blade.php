@@ -9,9 +9,9 @@
     <div class="container py-5">
         <h1 class="text-center"><strong>DU Summer Class Schedule</strong></h1>
 
-        <p class="text-center">
-            content
-        </p>
+        <div class="d-flex justify-content-center pt-5">
+            <img src="/images-snow/23-summer-schedule.jpg" class="img-fluid shadow rounded" alt="summer schedule info">
+        </div>
     </div>
 
 @endsection
