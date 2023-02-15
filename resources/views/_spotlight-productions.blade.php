@@ -10,12 +10,28 @@
     </div>
     <div class="col-sm"></div>
 </div>
+
 <div class="row">
     <h1><strong>summer musicals</strong></h1>
-    <div class="col-sm">
-        <img src="/images-snow/prod-summer-musicals.png" class="rounded img-fluid" style="border: 3px solid #020303;" alt="">
-        <p class="my-1 text-center"><strong>Finding Nemo & Mean Girls</strong></p>
-    </div>
-    <div class="col-sm"></div>
-    <div class="col-sm"></div>
+        <div class="col-sm">
+            <img src="/images-snow/summer-nemo-new.jpg" alt="summer camp info" class="img-fluid shadow rounded">
+            <div class="d-flex justify-content-center my-1">
+                <div class="btn btn-outline-light shadow px-5" style="border-radius: 20px; border: 3px solid #020303;">
+                    <a href="http://www.heritagehall.com/summeratthehall/findingnemojr" target="_blank" class="text-decoration-none text-dark fw-bold">Enroll Now</a>
+                </div>
+            </div>
+
+        </div>
+        <div class="col-sm">
+            <img src="/images-snow/summer-mean-girls-new.jpg" alt="summer camp info" class="img-fluid shadow rounded">
+            <div class="d-flex justify-content-center my-1">
+                <div class="btn btn-outline-light shadow px-5" style="border-radius: 20px; border: 3px solid #020303;">
+                    <a href="http://www.heritagehall.com/summeratthehall/meangirls" target="_blank" class="text-decoration-none text-dark fw-bold">Enroll Now</a>
+                </div>
+            </div>
+
+        </div>
+        <div class="col-sm-2"></div>
+        <div class="col-sm-2"></div>
+
 </div>

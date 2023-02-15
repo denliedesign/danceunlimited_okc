@@ -10,7 +10,7 @@
         <h1 class="text-center"><strong>DU Summer Class Schedule</strong></h1>
 
         <div class="d-flex justify-content-center pt-5">
-            <img src="/images-snow/23-summer-schedule.jpg" class="img-fluid shadow rounded" alt="summer schedule info">
+            <img src="/images-snow/summer-schedule-new.jpg" class="img-fluid shadow rounded" alt="summer schedule info">
         </div>
     </div>
 

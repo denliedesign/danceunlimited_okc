@@ -9,15 +9,18 @@
     <div class="container py-5">
         <h1 class="text-center"><strong>DU Productions Spring Show</strong></h1>
 
-        <p class="text-center mt-5">
-            Dance Unlimited will be presenting 2 productions for the 2022-23 season: The DU Winter Showcase in December and an amazing year-end production in May.
-            <br><br>
-            There will be multiple shows presented. Students who do not wish to participate in the productions must let the front desk know BEFORE the required deadlines to avoid being charged. Each class will have to be uniform in their tights, shoes, and hair for production; this may involve buying new tights and painting shoes! All dress rehearsals for productions are mandatory and you will not be allowed to participate in the performances if you do not attend required dress rehearsals.
-            <br><br>
-            DU does charge for admission to the productions. Ticket costs are decided by the facility rented and can be purchased through their box offices. Production t-shirts/souvenirs and video recordings are included in the “Winter Bundle” and “Recital Bundle” for each family! <strong><em>All fees are subject to change based on the prices determined by the theatre rental and vendors.</em></strong>
-            <br><br>
-            We offer the chance for you to advertise your business in our programs, which reach over 1,000 audience members each year. Personal ads for your dancer are also welcome.
+        <p class="text-center">
+            Dance Unlimited will present PURE IMAGINATION, May 13, 2023, at Hudiburg Performing Arts Center.
         </p>
+{{--        <p class="text-center mt-5">--}}
+{{--            Dance Unlimited will be presenting 2 productions for the 2022-23 season: The DU Winter Showcase in December and an amazing year-end production in May.--}}
+{{--            <br><br>--}}
+{{--            There will be multiple shows presented. Students who do not wish to participate in the productions must let the front desk know BEFORE the required deadlines to avoid being charged. Each class will have to be uniform in their tights, shoes, and hair for production; this may involve buying new tights and painting shoes! All dress rehearsals for productions are mandatory and you will not be allowed to participate in the performances if you do not attend required dress rehearsals.--}}
+{{--            <br><br>--}}
+{{--            DU does charge for admission to the productions. Ticket costs are decided by the facility rented and can be purchased through their box offices. Production t-shirts/souvenirs and video recordings are included in the “Winter Bundle” and “Recital Bundle” for each family! <strong><em>All fees are subject to change based on the prices determined by the theatre rental and vendors.</em></strong>--}}
+{{--            <br><br>--}}
+{{--            We offer the chance for you to advertise your business in our programs, which reach over 1,000 audience members each year. Personal ads for your dancer are also welcome.--}}
+{{--        </p>--}}
     </div>
 
     <div class="bg-white py-5">
@@ -26,11 +29,11 @@
                 <div class="col-sm"><a href="/images-snow/recital-pure-imagination-parents.pdf" target="_blank"><img src="/images-snow/recital-pure-imagination-parents-1.jpg" alt="pure imagination recital" class="img-fluid"></a></div>
                 <div class="col-sm"><a href="/images-snow/recital-pure-imagination-parents.pdf" target="_blank"><img src="/images-snow/recital-pure-imagination-parents-2.jpg" alt="pure imagination recital" class="img-fluid"></a></div>
             </div>
-            <div class="row mt-3">
-                <div class="col-sm-2"></div>
-                <div class="col-sm"><a href="/images-snow/recital-pure-imagination.pdf" target="_blank"><img src="/images-snow/recital-pure-imagination-1.jpg" alt="pure imagination recital" class="img-fluid"></a></div>
-                <div class="col-sm-2"></div>
-            </div>
+{{--            <div class="row mt-3">--}}
+{{--                <div class="col-sm-2"></div>--}}
+{{--                <div class="col-sm"><a href="/images-snow/recital-pure-imagination.pdf" target="_blank"><img src="/images-snow/recital-pure-imagination-1.jpg" alt="pure imagination recital" class="img-fluid"></a></div>--}}
+{{--                <div class="col-sm-2"></div>--}}
+{{--            </div>--}}
         </div>
     </div>
 

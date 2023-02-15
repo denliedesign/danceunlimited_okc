@@ -21,20 +21,6 @@
                 <a href="/images-snow/23-24-vibe-audition-form.pdf" target="_blank" class="text-decoration-none text-dark fw-bold">2023-24 Vibe Audition Form</a>
             </div>
         </div>
-        <hr class="my-4">
-        <h2 class="text-center"><strong>Vibe Mission and Goals</strong></h2>
-        <ol>
-            <li>Bring technique and performance to next level.</li>
-            <li>Explore creative side, Encourage Artistry.</li>
-            <li>Inspire confidence.</li>
-            <li>Foster the whole dancer, encouraging each dancer to live a healthy and balanced life.</li>
-            <li>Recognize the trophy is only a part of what we do.</li>
-            <li>Dancers will; demonstrate respect for their training, their teachers and their fellow team members.</li>
-            <li>Dancers work toward a common goal, learning valuable lessons along the way.</li>
-            <li>Instructors will provide dancers with direct and honest feedback while honoring each dancer individually and honoring their unique learning style and personality.</li>
-            <li>We will Challenge and Push each dancer to their full potential </li>
-            <li>Emphasize the JOY of dance, the POWER of commitment and value of TEAM work!</li>
-        </ol>
     </div>
 
     <div class="bg-white">
@@ -62,71 +48,126 @@
         </div>
     </div>
 
-    <div id="vibeSlide" class="carousel slide" data-bs-ride="carousel">
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img src="images-snow/vibe-8.JPG" class="d-block w-100" alt="">
-            </div>
-            <div class="carousel-item">
-                <img src="images-snow/vibe-7.JPG" class="d-block w-100" alt="">
-            </div>
-            <div class="carousel-item">
-                <img src="images-snow/vibe-6.jpg" class="d-block w-100" alt="">
-            </div>
-            <div class="carousel-item">
-                <img src="images-snow/vibe-5.jpg" class="d-block w-100" alt="">
-            </div>
-            <div class="carousel-item">
-                <img src="images-snow/vibe-4.jpg" class="d-block w-100" alt="">
-            </div>
-            <div class="carousel-item">
-                <img src="images-snow/vibe-3.jpg" class="d-block w-100" alt="">
-            </div>
-            <div class="carousel-item">
-                <img src="images-snow/vibe-2.jpg" class="d-block w-100" alt="">
-            </div>
-            <div class="carousel-item">
-                <img src="images-snow/vibe-1.jpg" class="d-block w-100" alt="">
-            </div>
-            <div class="carousel-item">
-                <img src="images-snow/vibe-9.jpg" class="d-block w-100" alt="">
-            </div>
-            <div class="carousel-item">
-                <img src="images/vibe-8.jpg" class="d-block w-100" alt="">
-            </div>
-            <div class="carousel-item">
-                <img src="images/vibe-7.jpg" class="d-block w-100" alt="">
-            </div>
-            <div class="carousel-item">
-                <img src="images/vibe-6.jpg" class="d-block w-100" alt="">
-            </div>
-            <div class="carousel-item">
-                <img src="images/vibe-5.jpg" class="d-block w-100" alt="">
-            </div>
-            <div class="carousel-item">
-                <img src="images/vibe-4.jpg" class="d-block w-100" alt="">
-            </div>
-            <div class="carousel-item">
-                <img src="images/vibe-3.jpg" class="d-block w-100" alt="">
-            </div>
-            <div class="carousel-item">
-                <img src="images/vibe-2.jpg" class="d-block w-100" alt="">
-            </div>
-            <div class="carousel-item">
-                <img src="images/vibe-1.jpg" class="d-block w-100" alt="">
-            </div>
-            <div class="carousel-item">
-                <img src="images/vibe-9.jpg" class="d-block w-100" alt="">
-            </div>
-        </div>
-        <a class="carousel-control-prev" href="#vibeSlide" role="button" data-bs-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#vibeSlide" role="button" data-bs-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
+    <div class="container py-5">
+        <h2 class="text-center"><strong>Vibe Mission and Goals</strong></h2>
+        <ol>
+            <li>Bring technique and performance to next level.</li>
+            <li>Explore creative side, Encourage Artistry.</li>
+            <li>Inspire confidence.</li>
+            <li>Foster the whole dancer, encouraging each dancer to live a healthy and balanced life.</li>
+            <li>Recognize the trophy is only a part of what we do.</li>
+            <li>Dancers will; demonstrate respect for their training, their teachers and their fellow team members.</li>
+            <li>Dancers work toward a common goal, learning valuable lessons along the way.</li>
+            <li>Instructors will provide dancers with direct and honest feedback while honoring each dancer individually and honoring their unique learning style and personality.</li>
+            <li>We will Challenge and Push each dancer to their full potential </li>
+            <li>Emphasize the JOY of dance, the POWER of commitment and value of TEAM work!</li>
+        </ol>
     </div>
+
+    <div class="container py-5">
+
+                <div id="vibeSlide" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                            <div class="d-flex justify-content-center">
+                                <img src="images-snow/vibe-8.JPG" class="d-block" style="max-height: 90vh; width: auto;" alt="">
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="d-flex justify-content-center">
+                                <img src="images-snow/vibe-7.JPG" class="d-block" style="max-height: 90vh; width: auto;" alt="">
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <div class="d-flex justify-content-center">
+                            <img src="images-snow/vibe-6.jpg" class="d-block" style="max-height: 90vh; width: auto;" alt="">
+                            </div>
+                            </div>
+                        <div class="carousel-item">
+                            <div class="d-flex justify-content-center">
+                            <img src="images-snow/vibe-5.jpg" class="d-block" style="max-height: 90vh; width: auto;" alt="">
+                            </div>
+                            </div>
+                        <div class="carousel-item">
+                            <div class="d-flex justify-content-center">
+                            <img src="images-snow/vibe-4.jpg" class="d-block" style="max-height: 90vh; width: auto;" alt="">
+                            </div>
+                            </div>
+                        <div class="carousel-item">
+                            <div class="d-flex justify-content-center">
+                            <img src="images-snow/vibe-3.jpg" class="d-block" style="max-height: 90vh; width: auto;" alt="">
+                            </div>
+                            </div>
+                        <div class="carousel-item">
+                            <div class="d-flex justify-content-center">
+                            <img src="images-snow/vibe-2.jpg" class="d-block" style="max-height: 90vh; width: auto;" alt="">
+                            </div>
+                            </div>
+                        <div class="carousel-item">
+                            <div class="d-flex justify-content-center">
+                            <img src="images-snow/vibe-1.jpg" class="d-block" style="max-height: 90vh; width: auto;" alt="">
+                            </div>
+                            </div>
+                        <div class="carousel-item">
+                            <div class="d-flex justify-content-center">
+                            <img src="images-snow/vibe-9.jpg" class="d-block" style="max-height: 90vh; width: auto;" alt="">
+                            </div>
+                            </div>
+                        <div class="carousel-item">
+                            <div class="d-flex justify-content-center">
+                            <img src="images/vibe-8.jpg" class="d-block" style="max-height: 90vh; width: auto;" alt="">
+                            </div>
+                            </div>
+                        <div class="carousel-item">
+                            <div class="d-flex justify-content-center">
+                            <img src="images/vibe-7.jpg" class="d-block" style="max-height: 90vh; width: auto;" alt="">
+                            </div>
+                            </div>
+                        <div class="carousel-item">
+                            <div class="d-flex justify-content-center">
+                            <img src="images/vibe-6.jpg" class="d-block" style="max-height: 90vh; width: auto;" alt="">
+                            </div>
+                            </div>
+                        <div class="carousel-item">
+                            <div class="d-flex justify-content-center">
+                            <img src="images/vibe-5.jpg" class="d-block" style="max-height: 90vh; width: auto;" alt="">
+                            </div>
+                            </div>
+                        <div class="carousel-item">
+                            <div class="d-flex justify-content-center">
+                            <img src="images/vibe-4.jpg" class="d-block" style="max-height: 90vh; width: auto;" alt="">
+                            </div>
+                            </div>
+                        <div class="carousel-item">
+                            <div class="d-flex justify-content-center">
+                            <img src="images/vibe-3.jpg" class="d-block" style="max-height: 90vh; width: auto;" alt="">
+                            </div>
+                            </div>
+                        <div class="carousel-item">
+                            <div class="d-flex justify-content-center">
+                            <img src="images/vibe-2.jpg" class="d-block" style="max-height: 90vh; width: auto;" alt="">
+                            </div>
+                            </div>
+                        <div class="carousel-item">
+                            <div class="d-flex justify-content-center">
+                            <img src="images/vibe-1.jpg" class="d-block" style="max-height: 90vh; width: auto;" alt="">
+                            </div>
+                            </div>
+                        <div class="carousel-item">
+                            <div class="d-flex justify-content-center">
+                            <img src="images/vibe-9.jpg" class="d-block" style="max-height: 90vh; width: auto;" alt="">
+                            </div>
+                            </div>
+                    </div>
+                    <a class="carousel-control-prev" href="#vibeSlide" role="button" data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#vibeSlide" role="button" data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
 
 @endsection
