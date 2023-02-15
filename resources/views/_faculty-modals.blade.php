@@ -158,14 +158,14 @@
     </div>
 </div>
 <!-- Modal -->
-<div class="modal fade" id="persona-Modal" tabindex="-1" aria-labelledby="persona-ModalLabel" aria-hidden="true">
+<div class="modal fade" id="cameelahModal" tabindex="-1" aria-labelledby="cameelahModalLabel" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
             <div class="modal-header" style="border: none; padding: 10px 10px 0 0;">
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body text-dark">
-
+                                                        Cameelah Pennington Cook is a native of Oklahoma City, Oklahoma. She received her bachelors in Fine Arts in Modern Dance Performance from the University of Oklahoma. Cameelah has been a member of several professional dance companies such as Dayton Contemporary Dance Company, Hartel Dance Group, and RACE Dance Company. During the day her time is spent teaching full time as the Director of Dance at Capitol Hill High School. In her rare spare time, Cameelah loves baking and crafting. Most of all, Cameelah loves sharing her love of dance with her students all over the city. She is really thankful to be spending her fourth year at DU.                                    </p>
             </div>
         </div>
     </div>

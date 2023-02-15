@@ -55,7 +55,7 @@
             <hr class="my-4">
             <h2><strong>VOICE & PIANO LESSONS</strong></h2>
             <p>
-                Interested in studying voice or piano through private lessons? Our instructors have a passion for teaching and are available for lessons for students ages 3-18. Fill out the interest form labeled "MESSAGE" below for information! Please indicate the student’s name, age, and desired area of study (voice/piano).
+                Interested in studying voice or piano through private lessons? Our instructors have a passion for teaching and are available for lessons for students ages 5-18. Fill out the interest form labeled "MESSAGE" below for information! Please indicate the student’s name, age, and desired area of study (voice/piano).
             </p>
         </div>
     </div>

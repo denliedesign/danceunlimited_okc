@@ -47,75 +47,75 @@
 
     </div>
 
-    <div class="bg-white py-5">
-        <div class="container">
-            <h2 class="text-center"><strong>Performance Expenses</strong></h2>
-            <div>
-                <p class="px-4 text-center">
-                    All expenses for the year-end recital are divided into two payments:
-                    <br><strong>First Payment Due Date:</strong> November 15th, 2022
-                    <br><strong>Second Payment Due Date:</strong> December 15th, 2022
-                </p>
-                <p class="px-4">
-                    <u>Starlette Dancers</u>
-                    <br>(Creative Combo/Children 1/Children 2)
-                    <br>
-                    Recital Bundle: <strong>$200.00</strong>
-                </p>
-                <ul>Includes:
-                    <li>1 Costume</li>
-                    <li>1 Production fee: <strong>$50 per show</strong></li>
-                    <li>1 Digital download of the performances</li>
-                    <li>1 Production t-shirt</li>
-                    <li>Tights</li>
-                    <li>Nanny fee</li>
-                </ul>
-                <p class="px-4">
-                    Additional costumes: <strong>+$70 per class</strong>
-                </p>
-                <hr class="my-4">
-                <p class="px-4">
-                    <u>Junior Dancers</u>
-                    <br>(Junior 1/2/3)
-                    <br>
-                    Recital Bundle: <strong>$215.00</strong>
-                </p>
-                <ul>Includes:
-                    <li>1 Costume</li>
-                    <li>1 Production fee: <strong>$50 per show</strong></li>
-                    <li>1 Digital download of the performances</li>
-                    <li>1 Production t-shirt</li>
-                    <li>Tights</li>
-                    <li>Nanny fee</li>
-                </ul>
-                <p class="px-4">
-                    Additional costumes: <strong>+$80 per class</strong>
-                </p>
-                <hr class="my-4">
-                <p class="px-4">
-                    <u>Teen Dancers</u>
-                    <br>(Teen 2/3/4/5)
-                    <br>
-                    Recital Bundle: <strong>$230.00</strong>
-                </p>
-                <ul>Includes:
-                    <li>1 Costume</li>
-                    <li>1 Production fee: <strong>$50 per show</strong></li>
-                    <li>1 Digital download of the performances</li>
-                    <li>1 Production t-shirt</li>
-                </ul>
-                <p class="px-4">
-                    Additional costumes: <strong>+$100 per class</strong>
-                    <br>
-                    *Teen dancers are responsible for purchasing appropriate tights for their dances.
-                </p>
-                <hr class="my-4">
-                <p class="px-4 fw-bold text-center">
-                    Those that have performances in both the year-end Recital and the year-end Aftershow will be charged an additional $30.
-                    <br><br>Once you have paid for your Recital Bundle, it is NON-REFUNDABLE and NON-TRANSFERABLE even if you paid before the deadline. So be 100% SURE that your child wants to be in the recital!
-                </p>
-            </div>
-        </div>
-    </div>
+{{--    <div class="bg-white py-5">--}}
+{{--        <div class="container">--}}
+{{--            <h2 class="text-center"><strong>Performance Expenses</strong></h2>--}}
+{{--            <div>--}}
+{{--                <p class="px-4 text-center">--}}
+{{--                    All expenses for the year-end recital are divided into two payments:--}}
+{{--                    <br><strong>First Payment Due Date:</strong> November 15th, 2022--}}
+{{--                    <br><strong>Second Payment Due Date:</strong> December 15th, 2022--}}
+{{--                </p>--}}
+{{--                <p class="px-4">--}}
+{{--                    <u>Starlette Dancers</u>--}}
+{{--                    <br>(Creative Combo/Children 1/Children 2)--}}
+{{--                    <br>--}}
+{{--                    Recital Bundle: <strong>$200.00</strong>--}}
+{{--                </p>--}}
+{{--                <ul>Includes:--}}
+{{--                    <li>1 Costume</li>--}}
+{{--                    <li>1 Production fee: <strong>$50 per show</strong></li>--}}
+{{--                    <li>1 Digital download of the performances</li>--}}
+{{--                    <li>1 Production t-shirt</li>--}}
+{{--                    <li>Tights</li>--}}
+{{--                    <li>Nanny fee</li>--}}
+{{--                </ul>--}}
+{{--                <p class="px-4">--}}
+{{--                    Additional costumes: <strong>+$70 per class</strong>--}}
+{{--                </p>--}}
+{{--                <hr class="my-4">--}}
+{{--                <p class="px-4">--}}
+{{--                    <u>Junior Dancers</u>--}}
+{{--                    <br>(Junior 1/2/3)--}}
+{{--                    <br>--}}
+{{--                    Recital Bundle: <strong>$215.00</strong>--}}
+{{--                </p>--}}
+{{--                <ul>Includes:--}}
+{{--                    <li>1 Costume</li>--}}
+{{--                    <li>1 Production fee: <strong>$50 per show</strong></li>--}}
+{{--                    <li>1 Digital download of the performances</li>--}}
+{{--                    <li>1 Production t-shirt</li>--}}
+{{--                    <li>Tights</li>--}}
+{{--                    <li>Nanny fee</li>--}}
+{{--                </ul>--}}
+{{--                <p class="px-4">--}}
+{{--                    Additional costumes: <strong>+$80 per class</strong>--}}
+{{--                </p>--}}
+{{--                <hr class="my-4">--}}
+{{--                <p class="px-4">--}}
+{{--                    <u>Teen Dancers</u>--}}
+{{--                    <br>(Teen 2/3/4/5)--}}
+{{--                    <br>--}}
+{{--                    Recital Bundle: <strong>$230.00</strong>--}}
+{{--                </p>--}}
+{{--                <ul>Includes:--}}
+{{--                    <li>1 Costume</li>--}}
+{{--                    <li>1 Production fee: <strong>$50 per show</strong></li>--}}
+{{--                    <li>1 Digital download of the performances</li>--}}
+{{--                    <li>1 Production t-shirt</li>--}}
+{{--                </ul>--}}
+{{--                <p class="px-4">--}}
+{{--                    Additional costumes: <strong>+$100 per class</strong>--}}
+{{--                    <br>--}}
+{{--                    *Teen dancers are responsible for purchasing appropriate tights for their dances.--}}
+{{--                </p>--}}
+{{--                <hr class="my-4">--}}
+{{--                <p class="px-4 fw-bold text-center">--}}
+{{--                    Those that have performances in both the year-end Recital and the year-end Aftershow will be charged an additional $30.--}}
+{{--                    <br><br>Once you have paid for your Recital Bundle, it is NON-REFUNDABLE and NON-TRANSFERABLE even if you paid before the deadline. So be 100% SURE that your child wants to be in the recital!--}}
+{{--                </p>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
 @endsection

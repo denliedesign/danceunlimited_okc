@@ -222,6 +222,20 @@
                 </div>
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
+                        <div type="button" data-bs-toggle="modal" data-bs-target="#cameelahModal">
+                            <img src="/images/CAMEELAH.jpg" alt="headshot" class="shadow rounded"
+                                 style="height: 350px; width: 100%; object-fit: cover;">
+                        </div>
+                    </div>
+                    <div class="text-center mt-2">
+                        <h2><strong>Cameelah Pennington Cook</strong></h2>
+                        <p>
+                            Dance Instructor
+                        </p>
+                    </div>
+                </div>
+                <div class="col-sm">
+                    <div class="d-flex justify-content-center">
                         <div type="button" data-bs-toggle="modal" data-bs-target="#brookeModal">
                             <img src="/images-snow/brooke-gebb-dance-instructor.JPG" alt="headshot" class="shadow rounded"
                                  style="height: 350px; width: 100%; object-fit: cover;">

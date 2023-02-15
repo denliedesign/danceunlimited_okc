@@ -20,54 +20,54 @@
         </p>
     </div>
 
-    <div class="bg-white py-5">
-        <div class="container">
-            <h2 class="text-center"><strong>Performance Expenses</strong></h2>
-            <div>
-                <p class="px-4 text-center">
-                    All expenses for the winter showcase are divided into two payments.
-                    <br><strong>First Payment Due Date:</strong> October 11th, 2022
-                    <br><strong>Second Payment Due Date:</strong> November 3rd, 2022
-                </p>
-                <p class="px-4">
-                    <u>Starlette Dancers</u>
-                    <br>(Creative Combo/Children 1/Children 2)
-                    <br>
-                    Winter Bundle: <strong>$140.00</strong>
-                </p>
-                <ul>Includes:
-                    <li>1 Costume/Headpiece</li>
-                    <li>Participation fee</li>
-                    <li>Digital download of the performance</li>
-                    <li>Holiday souvenir</li>
-                </ul>
-                <p class="px-4">
-                    Additional costumes: <strong>+$50 per class</strong>
-                </p>
-                <hr class="my-4">
-                <p class="px-4">
-                    <u>Junior & Teen Dancers</u>
-                    <br>(Junior 1/2/3, Teen 2/3/4/5)
-                    <br>
-                    Winter Bundle: <strong>$150.00</strong>
-                </p>
-                <ul>Includes:
-                    <li>1 Costume/Headpiece</li>
-                    <li>Participation fee</li>
-                    <li>Digital download of the performance</li>
-                    <li>Holiday souvenir</li>
-                </ul>
-                <p class="px-4">
-                    1 additional ballet costume: <strong>+$50</strong>
-                    <br>1 additional jazz costume: <strong>+$50</strong>
-                    <br>1 additional hip hop costume (holiday t-shirt): <strong>+$40</strong>
-                </p>
-                <hr class="my-4">
-                <p class="px-4 text-center fw-bold">
-                    Once you have paid for your Winter Bundle, it is NON-REFUNDABLE and NON-TRANSFERABLE even if you paid before the deadline. So be 100% SURE that your child wants to be in the winter showcase!
-                </p>
-            </div>
-        </div>
-    </div>
+{{--    <div class="bg-white py-5">--}}
+{{--        <div class="container">--}}
+{{--            <h2 class="text-center"><strong>Performance Expenses</strong></h2>--}}
+{{--            <div>--}}
+{{--                <p class="px-4 text-center">--}}
+{{--                    All expenses for the winter showcase are divided into two payments.--}}
+{{--                    <br><strong>First Payment Due Date:</strong> October 11th, 2022--}}
+{{--                    <br><strong>Second Payment Due Date:</strong> November 3rd, 2022--}}
+{{--                </p>--}}
+{{--                <p class="px-4">--}}
+{{--                    <u>Starlette Dancers</u>--}}
+{{--                    <br>(Creative Combo/Children 1/Children 2)--}}
+{{--                    <br>--}}
+{{--                    Winter Bundle: <strong>$140.00</strong>--}}
+{{--                </p>--}}
+{{--                <ul>Includes:--}}
+{{--                    <li>1 Costume/Headpiece</li>--}}
+{{--                    <li>Participation fee</li>--}}
+{{--                    <li>Digital download of the performance</li>--}}
+{{--                    <li>Holiday souvenir</li>--}}
+{{--                </ul>--}}
+{{--                <p class="px-4">--}}
+{{--                    Additional costumes: <strong>+$50 per class</strong>--}}
+{{--                </p>--}}
+{{--                <hr class="my-4">--}}
+{{--                <p class="px-4">--}}
+{{--                    <u>Junior & Teen Dancers</u>--}}
+{{--                    <br>(Junior 1/2/3, Teen 2/3/4/5)--}}
+{{--                    <br>--}}
+{{--                    Winter Bundle: <strong>$150.00</strong>--}}
+{{--                </p>--}}
+{{--                <ul>Includes:--}}
+{{--                    <li>1 Costume/Headpiece</li>--}}
+{{--                    <li>Participation fee</li>--}}
+{{--                    <li>Digital download of the performance</li>--}}
+{{--                    <li>Holiday souvenir</li>--}}
+{{--                </ul>--}}
+{{--                <p class="px-4">--}}
+{{--                    1 additional ballet costume: <strong>+$50</strong>--}}
+{{--                    <br>1 additional jazz costume: <strong>+$50</strong>--}}
+{{--                    <br>1 additional hip hop costume (holiday t-shirt): <strong>+$40</strong>--}}
+{{--                </p>--}}
+{{--                <hr class="my-4">--}}
+{{--                <p class="px-4 text-center fw-bold">--}}
+{{--                    Once you have paid for your Winter Bundle, it is NON-REFUNDABLE and NON-TRANSFERABLE even if you paid before the deadline. So be 100% SURE that your child wants to be in the winter showcase!--}}
+{{--                </p>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
 @endsection
