@@ -13,6 +13,8 @@
         </div>
         <p class="text-center">
             The Vibe Dance Company was designed for dancers to have extra stage time and work with guest artists from all over the U.S. When we are looking for VIBE dancers we are looking for dancers with a true love and passion for dance and who enjoy working to acquire advanced level dancing skills. We love dancers who think dancing is FUN! Competition dancers are expected to work to be well rounded, resilient and enthusiastic! We compete Ballet, Tap, Jazz, Contemporary, Hip Hop, Music Theatre and Open.
+            <br>
+            If you have any questions please contact us at <a href="mailto:vibedanceokc@gmail.com" class="text-white">vibedanceokc@gmail.com</a>
         </p>
         <div class="d-flex justify-content-center">
             <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
@@ -20,7 +22,7 @@
             </div>
         </div>
         <hr class="my-4">
-        <h2 class="text-center">Vibe Mission and Goals</h2>
+        <h2 class="text-center"><strong>Vibe Mission and Goals</strong></h2>
         <ol>
             <li>Bring technique and performance to next level.</li>
             <li>Explore creative side, Encourage Artistry.</li>
@@ -33,6 +35,31 @@
             <li>We will Challenge and Push each dancer to their full potential </li>
             <li>Emphasize the JOY of dance, the POWER of commitment and value of TEAM work!</li>
         </ol>
+    </div>
+
+    <div class="bg-white">
+        <div class="container py-5">
+            <h2 class="text-center">
+                <strong>VIBE AUDITION INFO</strong>
+            </h2>
+            <p>
+                <strong>Wednesday, May 17th</strong>
+                <br>
+                Mini Vibe Auditions 4:30-6:30
+                <br>
+                <br>
+                <strong>Thursday, May 18th</strong>
+                <br>
+                Senior Vibe Auditions 6:30-9:30
+                <br>
+                <br>
+                <strong>Friday, May 19th</strong>
+                <br>
+                Teen Vibe Auditions 4:30-6:30
+                <br>
+                Junior Vibe Auditions 6:45-8:30
+            </p>
+        </div>
     </div>
 
     <div id="vibeSlide" class="carousel slide" data-bs-ride="carousel">

@@ -13,6 +13,11 @@
             <ion-icon name="call"></ion-icon>
             405.242.4612
         </div>
+        <div class="mx-3">
+            <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
+                <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd" target="_blank" class="text-decoration-none text-dark fw-bold">Enroll Here</a>
+            </div>
+        </div>
     </div>
 </div>
 
@@ -29,7 +34,7 @@
                     <div>
                         <div class="d-flex justify-content-center">
                             <a href="/">
-                                <img src="/images-snow/logo-new-du.png" alt="dance unlimited logo" style="height: 115px; width: auto;" class="m-2">
+                                <img src="/images-snow/logo-new-du.png" alt="dance unlimited logo" style="height: 150px; width: auto;" class="m-2">
                             </a>
                         </div>
                         <ul class="text-center px-0 pb-3" style="list-style: none;">
@@ -45,7 +50,7 @@
 <div class="d-none d-md-block">
     <div class="d-flex align-items-center justify-content-center">
         <a href="/">
-            <img src="/images-snow/logo-new-du.png" alt="dance unlimited logo" style="height: 115px; width: auto;" class="m-2">
+            <img src="/images-snow/logo-new-du.png" alt="dance unlimited logo" style="height: 150px; width: auto;" class="m-2">
         </a>
         <ul class="nav text-center px-0 pb-3 justify-content-center">
             @include("_nav-list")

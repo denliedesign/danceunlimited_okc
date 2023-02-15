@@ -28,7 +28,7 @@
                                     <li> 10am-9pm</li>
                                     <li> 10am-9pm</li>
                                     <li> 10am-9pm</li>
-                                    <li> 10am-9pm</li>
+                                    <li> 3pm-9pm</li>
                                     <li> Closed</li>
                                     <li> Closed</li>
                                     <li> Closed</li>
@@ -40,8 +40,10 @@
                         <h4 class="nav-title"><strong>Contact</strong></h4>
                         <ul class="list-unstyled">
                             <li><ion-icon name="call"></ion-icon> 405-242-4612</li>
+                            <li><ion-icon name="mail"></ion-icon>  ducustomercare99@gmail.com</li>
                             <li><ion-icon name="mail"></ion-icon> danceunlimitedokc@gmail.com</li>
                             <li><ion-icon name="mail"></ion-icon> spotlightactingokc@gmail.com</li>
+                            <li><ion-icon name="mail"></ion-icon> vibedanceokc@gmail.com</li>
                             <li><ion-icon name="location"></ion-icon> 1217 E Hefner Road, OKC, OK 73131</li>
                             <li><ion-icon name="gift"></ion-icon> PO Box 14371 Oklahoma City, OK 73113</li>
                         </ul>

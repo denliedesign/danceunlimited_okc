@@ -16,6 +16,9 @@
             <br><br>
             All classes perform two productions each year - one in the fall and one in the spring. Productions are composed of songs, dances, and lines that must be memorized by the show.
         </p>
+        <hr class="my-4">
+        <h2 class="text-center"><strong>Spotlight Audition Info</strong></h2>
+        <p class="text-center">Auditions have been concluded for this semester. Please check back for up-coming summer productions</p>
     </div>
 
     <div class="bg-white py-5">

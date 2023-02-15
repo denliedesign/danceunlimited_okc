@@ -54,8 +54,14 @@ Route::get('spotlight-tuition', function () {
 Route::get('spotlight-show', function () {
     return view('spotlight-show-snow');
 });
+Route::get('spotlight-past-productions', function () {
+    return view('spotlight-past-productions-snow');
+});
 Route::get('vibe-audition', function () {
     return view('vibe-audition-snow');
+});
+Route::get('vibe-days-gone-by', function () {
+    return view('vibe-days-gone-by-snow');
 });
 Route::get('vibe-policy', function () {
     return view('vibe-policy-snow');
@@ -68,6 +74,9 @@ Route::get('faq-dress', function () {
 });
 Route::get('faq-studio', function () {
     return view('faq-studio-snow');
+});
+Route::get('good-times', function () {
+    return view('good-times-snow');
 });
 
 

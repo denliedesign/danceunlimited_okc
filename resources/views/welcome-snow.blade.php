@@ -60,10 +60,46 @@
             </p>
 {{--            <x-button-outline link="/spotlight-show" text="Audition Info"/>--}}
             <div class="btn btn-outline-light shadow px-5" style="border-radius: 20px; border: 3px solid #020303;">
-                <a href="/spotlight-show" class="text-decoration-none text-dark fw-bold">Audition Info</a>
+                <a href="/spotlight-schedule" class="text-decoration-none text-dark fw-bold">Classes Offered</a>
             </div>
 
-            @include("_spotlight-productions")
+            <div class="row pt-5">
+                <div class="col-sm">
+                    <img src="/images/spot-razzle-dazzle.jpg" class="img-fluid rounded" style="height: 225px; width: 100%; object-fit: cover; object-position: top;"  alt="">
+                    <h4 class="my-1"><strong>Razzle Dazzle</strong></h4>
+                    <p>                        This class is a Beginner Level class for ages 4 and up that requires no previous experience and is an introduction into the musical theatre world. All are welcome!
+                    </p>
+                </div>
+                <div class="col-sm">
+                    <img src="/images/spot-broadway-bound.jpg" class="img-fluid rounded" style="height: 225px; width: 100%; object-fit: cover; object-position: center;"  alt="">
+                    <h4 class="my-1"><strong>Broadway Bound</strong></h4>
+                    <p>                        This class is a Beginner/Intermediate Level class for ages 8 and up that requires some previous experience but is still an introduction into the musical theatre world. All are welcome!
+                    </p>
+                </div>
+                <div class="col-sm">
+                    <img src="/images/spot-totally-drama.jpg" class="img-fluid rounded" style="height: 225px; width: 100%; object-fit: cover; object-position: center;"  alt="">
+                    <h4 class="my-1"><strong>Totally Drama</strong></h4>
+                    <p>
+                        This class is a class for ages 10 and up years old.
+
+                    </p>
+                </div>
+                <div class="col-sm">
+                    <img src="/images/spot-curtain-call.jpg" class="img-fluid rounded" style="height: 225px; width: 100%; object-fit: cover; object-position: top;"  alt="">
+                    <h4 class="my-1"><strong>Curtain Call</strong></h4>
+                    <p>
+                        This class is a production class for ages 13+ that requires permission to enroll.
+
+                    </p>
+                </div>
+                <div class="col-sm">
+                    <img src="/images/spot-take-stage.jpg" class="img-fluid rounded" style="height: 225px; width: 100%; object-fit: cover; object-position: center;"  alt="">
+                    <h4 class="my-1"><strong>Take Stage</strong></h4>
+                    <p>
+                        This class is an Advanced Level Class for ages 14 and up that does require previous experience.
+                    </p>
+                </div>
+            </div>
         </div>
     </div>
 </div>
