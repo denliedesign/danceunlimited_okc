@@ -40,6 +40,7 @@
         <li><a class="dropdown-item" href="/spotlight-tuition">Fees & Tuition</a></li>
         <li><a class="dropdown-item" href="/spotlight-show">Show Info</a></li>
         <li><a class="dropdown-item" href="/spotlight-past-productions">Past Productions</a></li>
+        <li><a class="dropdown-item" href="/spotlight-voice">Voice</a></li>
     </ul>
 </li>
 

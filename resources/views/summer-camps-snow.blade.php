@@ -13,43 +13,86 @@
             <div class="col-sm-2"></div>
             <div class="col-sm my-3">
                 <img src="/images-snow/summer-nemo-new.jpg" alt="summer camp info" class="img-fluid shadow rounded">
-            <div class="d-flex justify-content-center mt-1">
-                <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
-                    <a href="http://www.heritagehall.com/summeratthehall/findingnemojr" target="_blank" class="text-decoration-none text-dark fw-bold">Enroll Now</a>
+                <div class="d-flex justify-content-center mt-1">
+                    <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
+                        <a href="http://www.heritagehall.com/summeratthehall/findingnemojr" target="_blank"
+                           class="text-decoration-none text-dark fw-bold">Enroll Now</a>
+                    </div>
                 </div>
-            </div>
 
             </div>
             <div class="col-sm my-3">
-                <img src="/images-snow/summer-mean-girls-new.jpg" alt="summer camp info" class="img-fluid shadow rounded">
-            <div class="d-flex justify-content-center mt-1">
-                <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
-                    <a href="http://www.heritagehall.com/summeratthehall/meangirls" target="_blank" class="text-decoration-none text-dark fw-bold">Enroll Now</a>
+                <img src="/images-snow/summer-mean-girls-new.jpg" alt="summer camp info"
+                     class="img-fluid shadow rounded">
+                <div class="d-flex justify-content-center mt-1">
+                    <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
+                        <a href="http://www.heritagehall.com/summeratthehall/meangirls" target="_blank"
+                           class="text-decoration-none text-dark fw-bold">Enroll Now</a>
+                    </div>
                 </div>
-            </div>
 
             </div>
             <div class="col-sm-2"></div>
         </div>
         <div class="row my-2">
             <div class="col-sm-2"></div>
-            <div class="col-sm my-3"><img src="/images-snow/camps-0.jpg" alt="summer camp info" class="img-fluid shadow rounded"></div>
-            <div class="col-sm my-3"><img src="/images-snow/camps-2.jpg" alt="summer camp info" class="img-fluid shadow rounded"></div>
+            <div class="col-sm my-3"><img src="/images-snow/camps-0.jpg" alt="summer camp info"
+                                          class="img-fluid shadow rounded">
+                <div class="d-flex justify-content-center mt-1">
+                    <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
+                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd" target="_blank"
+                           class="text-decoration-none text-dark fw-bold">Enroll Now</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm my-3"><img src="/images-snow/camps-2.jpg" alt="summer camp info"
+                                          class="img-fluid shadow rounded">
+                <div class="d-flex justify-content-center mt-1">
+                    <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
+                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd" target="_blank"
+                           class="text-decoration-none text-dark fw-bold">Enroll Now</a>
+                    </div>
+                </div>
+            </div>
             <div class="col-sm-2"></div>
         </div>
         <div class="row my-2">
             <div class="col-sm-2"></div>
-            <div class="col-sm my-3"><img src="/images-snow/camps-4.jpg" alt="summer camp info" class="img-fluid shadow rounded"></div>
-            <div class="col-sm my-3"><img src="/images-snow/camps-5.jpg" alt="summer camp info" class="img-fluid shadow rounded"></div>
+            <div class="col-sm my-3"><img src="/images-snow/camps-4.jpg" alt="summer camp info"
+                                          class="img-fluid shadow rounded">
+                <div class="d-flex justify-content-center mt-1">
+                    <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
+                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd" target="_blank"
+                           class="text-decoration-none text-dark fw-bold">Enroll Now</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm my-3"><img src="/images-snow/camps-5.jpg" alt="summer camp info"
+                                          class="img-fluid shadow rounded">
+                <div class="d-flex justify-content-center mt-1">
+                    <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
+                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd" target="_blank"
+                           class="text-decoration-none text-dark fw-bold">Enroll Now</a>
+                    </div>
+                </div>
+            </div>
             <div class="col-sm-2"></div>
-{{--            <div class="col-sm my-3"><img src="/images-snow/spotlight-summer-musicals-1.jpg" alt="summer camp info" class="img-fluid shadow rounded"></div>--}}
-{{--            <div class="col-sm my-3"><img src="/images-snow/spotlight-summer-musicals-2.jpg" alt="summer camp info" class="img-fluid shadow rounded"></div>--}}
-{{--            <div class="col-sm my-3"><img src="/images-snow/spotlight-summer-musicals-3.jpg" alt="summer camp info" class="img-fluid shadow rounded"></div>--}}
-{{--            <div class="col-sm my-3"><img src="/images-snow/summer-camps.jpg" alt="summer camp info" class="img-fluid shadow rounded"></div>--}}
+            {{--            <div class="col-sm my-3"><img src="/images-snow/spotlight-summer-musicals-1.jpg" alt="summer camp info" class="img-fluid shadow rounded"></div>--}}
+            {{--            <div class="col-sm my-3"><img src="/images-snow/spotlight-summer-musicals-2.jpg" alt="summer camp info" class="img-fluid shadow rounded"></div>--}}
+            {{--            <div class="col-sm my-3"><img src="/images-snow/spotlight-summer-musicals-3.jpg" alt="summer camp info" class="img-fluid shadow rounded"></div>--}}
+            {{--            <div class="col-sm my-3"><img src="/images-snow/summer-camps.jpg" alt="summer camp info" class="img-fluid shadow rounded"></div>--}}
         </div>
         <div class="row my-2">
             <div class="col-sm-2"></div>
-            <div class="col-sm my-3"><img src="/images-snow/camps-7.jpeg" alt="summer camp info" class="img-fluid shadow rounded"></div>
+            <div class="col-sm my-3"><img src="/images-snow/camps-7.jpeg" alt="summer camp info"
+                                          class="img-fluid shadow rounded">
+                <div class="d-flex justify-content-center mt-1">
+                    <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
+                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd" target="_blank"
+                           class="text-decoration-none text-dark fw-bold">Enroll Now</a>
+                    </div>
+                </div>
+            </div>
             <div class="col-sm-2"></div>
         </div>
     </div>

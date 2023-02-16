@@ -57,6 +57,9 @@ Route::get('spotlight-show', function () {
 Route::get('spotlight-past-productions', function () {
     return view('spotlight-past-productions-snow');
 });
+Route::get('spotlight-voice', function () {
+    return view('spotlight-voice-snow');
+});
 Route::get('vibe-audition', function () {
     return view('vibe-audition-snow');
 });
