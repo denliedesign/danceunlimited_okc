@@ -10,7 +10,7 @@
         <h1 class="text-center"><strong>Spotlight Acting Fees & Tuition</strong></h1>
 
         <p class="text-center">
-            Information coming soon
+            Information coming soon.
         </p>
     </div>
 

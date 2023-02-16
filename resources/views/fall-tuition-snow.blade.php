@@ -10,7 +10,7 @@
         <h1 class="text-center"><strong>DU Fall Fees & Tuition</strong></h1>
 
         <p class="text-center">
-            content
+            Information coming soon.
         </p>
     </div>
 
