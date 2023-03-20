@@ -248,20 +248,20 @@
                         </p>
                     </div>
                 </div>
-                <div class="col-sm">
-                    <div class="d-flex justify-content-center">
-                        <div type="button" data-bs-toggle="modal" data-bs-target="#darnellModal">
-                            <img src="/images-snow/darnell-reedom-customer-care.jpg" alt="headshot" class="shadow rounded"
-                                 style="height: 350px; width: 100%; object-fit: cover;">
-                        </div>
-                    </div>
-                    <div class="text-center mt-2">
-                        <h2><strong>darnell reedom</strong></h2>
-                        <p>
-                            Customer Care
-                        </p>
-                    </div>
-                </div>
+{{--                <div class="col-sm">--}}
+{{--                    <div class="d-flex justify-content-center">--}}
+{{--                        <div type="button" data-bs-toggle="modal" data-bs-target="#darnellModal">--}}
+{{--                            <img src="/images-snow/darnell-reedom-customer-care.jpg" alt="headshot" class="shadow rounded"--}}
+{{--                                 style="height: 350px; width: 100%; object-fit: cover;">--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="text-center mt-2">--}}
+{{--                        <h2><strong>darnell reedom</strong></h2>--}}
+{{--                        <p>--}}
+{{--                            Customer Care--}}
+{{--                        </p>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
                         <div type="button" data-bs-toggle="modal" data-bs-target="#claireModal">
