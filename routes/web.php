@@ -30,9 +30,9 @@ Route::get('calendar', function () {
 Route::get('fall-schedule', function () {
     return view('fall-schedule-snow');
 });
-Route::get('fall-tuition', function () {
-    return view('fall-tuition-snow');
-});
+//Route::get('fall-tuition', function () {
+//    return view('fall-tuition-snow');
+//});
 Route::get('summer-schedule', function () {
     return view('summer-schedule-snow');
 });
@@ -48,9 +48,9 @@ Route::get('productions-spring', function () {
 Route::get('spotlight-schedule', function () {
     return view('spotlight-schedule-snow');
 });
-Route::get('spotlight-tuition', function () {
-    return view('spotlight-tuition-snow');
-});
+//Route::get('spotlight-tuition', function () {
+//    return view('spotlight-tuition-snow');
+//});
 Route::get('spotlight-show', function () {
     return view('spotlight-show-snow');
 });
