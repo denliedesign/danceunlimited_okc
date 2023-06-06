@@ -22,7 +22,7 @@
             <div class="mx-3 d-block d-sm-block d-md-inline d-lg-inline">
                 <div class="btn btn-outline-flip shadow px-5" style="border-radius: 20px; border: 3px solid white;">
                     {{--                <small class="text-center text-light">Existing Clients</small><br>--}}
-                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd" class="text-decoration-none text-light fw-bold">Login Here</a>
+                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd" target="_blank" class="text-decoration-none text-light fw-bold">Login Here</a>
                 </div>
             </div>
         </div>
