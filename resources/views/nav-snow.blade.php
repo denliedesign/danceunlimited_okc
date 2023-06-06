@@ -13,9 +13,17 @@
             <ion-icon name="call"></ion-icon>
             405.242.4612
         </div>
-        <div class="mx-3">
-            <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
-                <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd" target="_blank" class="text-decoration-none text-dark fw-bold">Enroll Here</a>
+        <div class="">
+            <div class="mx-3 d-block d-sm-block d-md-inline d-lg-inline">
+                <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
+                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd" target="_blank" class="text-decoration-none text-dark fw-bold">Enroll Here</a>
+                </div>
+            </div>
+            <div class="mx-3 d-block d-sm-block d-md-inline d-lg-inline">
+                <div class="btn btn-outline-flip shadow px-5" style="border-radius: 20px; border: 3px solid white;">
+                    {{--                <small class="text-center text-light">Existing Clients</small><br>--}}
+                    <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd" class="text-decoration-none text-light fw-bold">Login Here</a>
+                </div>
             </div>
         </div>
     </div>
