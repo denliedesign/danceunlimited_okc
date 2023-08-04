@@ -58,7 +58,7 @@
     <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">FAQs</a>
     <ul class="dropdown-menu">
         <li><a class="dropdown-item" href="/faq-faculty">About our Faculty</a></li>
-        <li><a class="dropdown-item" href="/faq-dress">Dress Code</a></li>
+        <li><a class="dropdown-item" href="/faq-dress">Studio Handbooks</a></li>
         <li><a class="dropdown-item" href="/trash-week">Trash Week</a></li>
         <li><a class="dropdown-item" href="/faq-studio">Studio</a></li>
         <li><a class="dropdown-item" href="/good-times">Good Times</a></li>

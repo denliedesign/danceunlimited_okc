@@ -1,5 +1,5 @@
 @extends('layouts.app-snow')
-@section('title', 'Dress Code | Dance Unlimited')
+@section('title', 'Studio Handbooks | Dance Unlimited')
 @section('content')
 
     <div class="banner-wrap">
@@ -7,7 +7,7 @@
     </div>
 
     <div class="container py-5">
-        <h1 class="text-center"><strong>Dress Code</strong></h1>
+        <h1 class="text-center"><strong>Studio Handbooks</strong></h1>
 
         <p class="text-center mt-5">
             <strong>WHERE To Buy Dance Wear</strong>
