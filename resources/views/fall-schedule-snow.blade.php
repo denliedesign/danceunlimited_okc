@@ -14,7 +14,7 @@
 {{--            <div class="col-sm my-2"><img src="/images/23-fall-schedule_page-0002.jpg" alt="fall schedule" class="img-fluid shadow rounded"></div>--}}
 {{--            <div class="col-sm my-2"><img src="/images/23-fall-schedule_page-0003.jpg" alt="fall schedule" class="img-fluid shadow rounded"></div>--}}
 {{--            <div class="col-sm my-2"><img src="/images/23-fall-schedule_page-0004.jpg" alt="fall schedule" class="img-fluid shadow rounded"></div>--}}
-            <div class="col-sm my-2"><img src="/images/23-du-fall.jpg" alt="fall schedule" class="img-fluid shadow rounded"></div>
+            <div class="col-sm my-2"><img src="/images/23-du-fall-b.jpg" alt="fall schedule" class="img-fluid shadow rounded"></div>
         </div>
     </div>
 

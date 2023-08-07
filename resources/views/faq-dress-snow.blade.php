@@ -23,6 +23,10 @@
     <div class="bg-white py-5">
         <div class="container">
             <h2><strong>Starlette classes – ages 3-7</strong></h2>
+            <a href="/images/23-starlettes.pdf"
+               target="_blank">
+                <button class="btn btn-danger btn-sm mr-3">23-24 Starlette Handbook</button>
+            </a>
             <p><strong>General Guidelines</strong><br>
                 -No skirts attached to leos or that tie on. These can become the full attention during class time and we like to only have skirts during
                 "<a href="/trash-week">Trash Week</a>"!
@@ -65,6 +69,10 @@
 
     <div class="container py-5">
         <h2><strong>Junior Classes – Ages 8-11</strong></h2>
+        <a href="/images/23-du-welcome.pdf"
+           target="_blank">
+            <button class="btn btn-danger btn-sm mr-3">23-24 DU Handbook</button>
+        </a>
         <div class="row">
             <div class="col-sm"><p class="lead text-center">Jr One Ballet</p>Any Shade of Purple or Black Leotard, Black, Chiffon Wrap Skirt (Tie or Elastic).
                 <br><br>
@@ -105,6 +113,10 @@
     <div class="bg-white py-5">
         <div class="container">
             <h2><strong>Teen Classes - Ages 12 and Up</strong></h2>
+            <a href="/images/23-du-welcome.pdf"
+               target="_blank">
+                <button class="btn btn-danger btn-sm mr-3">23-24 DU Handbook</button>
+            </a>
             <div class="row">
                 <div class="col-sm">                    <p class="lead text-center">Teen Two Ballet</p> Any Shade of Maroon or Black Leotard, Black, Chiffon Wrap Skirt (Tie or Elastic) Tights: Pink footed or convertible tights. Shoes: Split Sole, Capezio or Bloch Pink Ballet shoes, must be leather. Dancers Hair should be in a bun; even short hair will need to be secured out of face
                 </div>
@@ -150,6 +162,10 @@
 
     <div class="container py-5">
         <h2><strong>Hip Hop & Acro - All Levels</strong></h2>
+        <a href="/images/23-du-welcome.pdf"
+           target="_blank">
+            <button class="btn btn-danger btn-sm mr-3">23-24 DU Handbook</button>
+        </a>
         <div class="row">
             <div class="col-sm">
                 <p class="lead text-center">Hip Hop</p>
@@ -169,6 +185,10 @@
     <div class="bg-white py-5">
         <div class="container">
             <h2><strong>Spotlight Acting Academy</strong></h2>
+            <a href="/images/23-spotlight-handbook.pdf"
+               target="_blank">
+                <button class="btn btn-danger btn-sm mr-3">23-24 Spotlight Handbook</button>
+            </a>
             <div class="row">
                 <div class="col-sm">
                     <ul>
