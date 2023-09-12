@@ -114,20 +114,7 @@
         </div>
     </div>
 </div>
-<!-- Modal -->
-<div class="modal fade" id="chelseaModal" tabindex="-1" aria-labelledby="chelseaModalLabel" aria-hidden="true">
-    <div class="modal-dialog">
-        <div class="modal-content">
-            <div class="modal-header" style="border: none; padding: 10px 10px 0 0;">
-                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-            </div>
-            <div class="modal-body text-dark">
-                Chelsea Jones is a graduate from Oklahoma University with a BFA in Musical Theatre. While performing was fun for Chelsea, she felt more fulfilled teaching. She has been teaching consistently with Dance Unlimited for almost 9 years now and enjoys all disciplines! Chelsea is the head of the dance department at Heritage Hall, and works consistently with the DU Starlette program at DU. Teaching is Chelsea’s passion but when she’s not teaching, she is being a mom to Jentry (6) and Janson (3) and eating as many sour patch kids as she can!
 
-            </div>
-        </div>
-    </div>
-</div>
 <!-- Modal -->
 <div class="modal fade" id="melissaModal" tabindex="-1" aria-labelledby="melissaModalLabel" aria-hidden="true">
     <div class="modal-dialog">
