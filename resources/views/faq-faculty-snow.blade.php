@@ -93,7 +93,7 @@
                 <x-instructor modal="cameelah" image="staff-cameelah.jpg" name="Cameelah Pennington Cook" title="Dance Instructor" bio=""/>
                 <x-instructor modal="brooke" image="staff-brooke.jpg" name="brooke gebb" title="Dance Instructor" bio=""/>
                 {{-- new 2023-2024 --}}
-                <x-instructor modal="alyssa" image="staff-alyssa.jpg" name="Alyssa Killingsworth" title="Acting Instructor" bio="Bio coming soon!"/>
+                <x-instructor modal="alyssa" image="staff-alyssa-2.jpg" name="Alyssa Killingsworth" title="Acting Instructor" bio="Bio coming soon!"/>
                 <x-instructor modal="ana" image="staff-ana.jpg" name="Ana Bernardi" title="Dance Instructor" bio="Bio coming soon!"/>
                 <x-instructor modal="sophia" image="staff-sophia.jpg" name="Sophia Dollenmeyer" title="Dance Instructor" bio="Bio coming soon!"/>
                 <x-instructor modal="hannah" image="staff-hannah.jpg" name="hannah malinoski" title="Dance Instructor" bio="Bio coming soon!"/>
