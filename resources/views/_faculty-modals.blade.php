@@ -76,7 +76,7 @@
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body text-dark">
-                Makenzie Boatright is from Edmond, Oklahoma. She has a Bachelor of Music in Musical Theatre Performance from the University of Central Oklahoma (UCO). Makenzie has had 13 years of vocal training and 9 years of dance. Along with years of performance experience, Makenzie also has experience in choreographing, music directing, and teaching private lessons. She has also been the Director and Assistant Director of many shows here at Spotlight! Makenzie is active in performing in the community and leading worship at her church. In July 2020, Makenzie married her husband Dustin, and they live in Edmond with their dog Piper! Makenzie is so glad that Dance Unlimited and Spotlight have given her the opportunity to teach and share her passion with others!
+                Makenzie Ford is from Edmond, Oklahoma. She has a Bachelor of Music in Musical Theatre Performance from the University of Central Oklahoma (UCO). Makenzie has had 13 years of vocal training and 9 years of dance. Along with years of performance experience, Makenzie also has experience in choreographing, music directing, and teaching private lessons. She has also been the Director and Assistant Director of many shows here at Spotlight! Makenzie is active in performing in the community and leading worship at her church. In July 2020, Makenzie married her husband Dustin, and they live in Edmond with their dog Piper! Makenzie is so glad that Dance Unlimited and Spotlight have given her the opportunity to teach and share her passion with others!
 
             </div>
         </div>
