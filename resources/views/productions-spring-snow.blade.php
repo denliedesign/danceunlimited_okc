@@ -10,7 +10,8 @@
         <h1 class="text-center"><strong>DU Productions Spring Show</strong></h1>
 
         <p class="text-center">
-            Dance Unlimited will present PURE IMAGINATION, May 13, 2023, at Hudiburg Performing Arts Center.
+{{--            Dance Unlimited will present PURE IMAGINATION, May 13, 2023, at Hudiburg Performing Arts Center.--}}
+            Check back soon for details on our next amazing year-end production.
         </p>
 {{--        <p class="text-center mt-5">--}}
 {{--            Dance Unlimited will be presenting 2 productions for the 2022-23 season: The DU Winter Showcase in December and an amazing year-end production in May.--}}
@@ -23,31 +24,27 @@
 {{--        </p>--}}
     </div>
 
+{{--    <div class="bg-white py-5">--}}
+{{--        <div class="container">--}}
+{{--            <div class="row">--}}
+{{--                <div class="col-sm"><a href="/images-snow/recital-pure-imagination-parents.pdf" target="_blank"><img src="/images-snow/recital-pure-imagination-parents-1.jpg" alt="pure imagination recital" class="img-fluid"></a></div>--}}
+{{--                <div class="col-sm"><a href="/images-snow/recital-pure-imagination-parents.pdf" target="_blank"><img src="/images-snow/recital-pure-imagination-parents-2.jpg" alt="pure imagination recital" class="img-fluid"></a></div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
+
     <div class="bg-white py-5">
         <div class="container">
-            <div class="row">
-                <div class="col-sm"><a href="/images-snow/recital-pure-imagination-parents.pdf" target="_blank"><img src="/images-snow/recital-pure-imagination-parents-1.jpg" alt="pure imagination recital" class="img-fluid"></a></div>
-                <div class="col-sm"><a href="/images-snow/recital-pure-imagination-parents.pdf" target="_blank"><img src="/images-snow/recital-pure-imagination-parents-2.jpg" alt="pure imagination recital" class="img-fluid"></a></div>
-            </div>
-{{--            <div class="row mt-3">--}}
-{{--                <div class="col-sm-2"></div>--}}
-{{--                <div class="col-sm"><a href="/images-snow/recital-pure-imagination.pdf" target="_blank"><img src="/images-snow/recital-pure-imagination-1.jpg" alt="pure imagination recital" class="img-fluid"></a></div>--}}
-{{--                <div class="col-sm-2"></div>--}}
+            <h2 class="text-center"><strong>Recital Pictures</strong></h2>
+            <p class="text-center">
+                Every year we have a special Recital Picture Day where dancers can have their portraits taken professionally at the studio with Spotlight Dance Photography. Always amazing photos! Dancers are not required to purchase photos, but they are a wonderful keepsake for dancers and families for years to come.
+            </p>
+{{--            <div class="d-flex justify-content-center">--}}
+{{--                <div class="btn btn-light shadow px-5" style="border-radius: 20px;">--}}
+{{--                    <a href="/images-snow/recital-pure-imagination-picture-schedule.pdf" target="_blank" class="text-decoration-none text-dark fw-bold">Picture Schedule</a>--}}
+{{--                </div>--}}
 {{--            </div>--}}
         </div>
-    </div>
-
-    <div class="container py-5">
-        <h2 class="text-center"><strong>Recital Pictures</strong></h2>
-        <p class="text-center">
-            Every year we have a special Recital Picture Day where dancers can have their portraits taken professionally at the studio with Spotlight Dance Photography. Always amazing photos! Dancers are not required to purchase photos, but they are a wonderful keepsake for dancers and families for years to come.
-        </p>
-        <div class="d-flex justify-content-center">
-            <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
-                <a href="/images-snow/recital-pure-imagination-picture-schedule.pdf" target="_blank" class="text-decoration-none text-dark fw-bold">Picture Schedule</a>
-            </div>
-        </div>
-
     </div>
 
 {{--    <div class="bg-white py-5">--}}
