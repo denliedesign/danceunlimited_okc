@@ -8,91 +8,20 @@
 
     <div class="container py-5">
         <h1 class="text-center"><strong>Spotlight Acting Class Schedule</strong></h1>
-{{--        <p class="text-center">Spotlight Fall 2023 schedule coming soon</p>--}}
-        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
-{{--            <div class="col-sm my-2"><img src="/images/23-fall-schedule_page-0001.jpg" alt="fall schedule" class="img-fluid shadow rounded"></div>--}}
-{{--            <div class="col-sm my-2"><img src="/images/23-fall-schedule_page-0002.jpg" alt="fall schedule" class="img-fluid shadow rounded"></div>--}}
-{{--            <div class="col-sm my-2"><img src="/images/23-fall-schedule_page-0003.jpg" alt="fall schedule" class="img-fluid shadow rounded"></div>--}}
-{{--            <div class="col-sm my-2"><img src="/images/23-fall-schedule_page-0004.jpg" alt="fall schedule" class="img-fluid shadow rounded"></div>--}}
-            <div class="col-sm my-2"><img src="/images/23-spotlight-fall-c.jpg" alt="fall schedule" class="img-fluid shadow rounded"></div>
+        <p class="text-center">
+            Summer Info coming end of Jan 2024
+            <br><br>
+            <a href="https://docs.google.com/document/d/1nT3Ge3RMpVZPeYLu3CjsZirPcCsffg_ryB70dAg-i-M/edit" target="_blank">Acting Spring 2024 Schedule</a>
+            <br><br>
+        </p>
+        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
+            <div class="col-sm d-flex align-items-center"><img src="/images/spot-1.jpg" alt="actors" class="img-fluid shadow rounded"></div>
+            <div class="col-sm d-flex align-items-center"><img src="/images/spot-2.jpg" alt="actors" class="img-fluid shadow rounded"></div>
+            <div class="col-sm d-flex align-items-center"><img src="/images/spot-3.jpg" alt="actors" class="img-fluid shadow rounded"></div>
         </div>
-    </div>
-
-{{--        <div class="container py-5">--}}
-{{--            <table class="table text-white">--}}
-{{--                <thead>--}}
-{{--                <tr>--}}
-{{--                    <th scope="col">Class</th>--}}
-{{--                    <th scope="col">Age</th>--}}
-{{--                    <th scope="col">Day</th>--}}
-{{--                    <th scope="col">Time</th>--}}
-{{--                    <th scope="col">Enroll</th>--}}
-{{--                </tr>--}}
-{{--                </thead>--}}
-{{--                <tbody>--}}
-{{--                <tr>--}}
-{{--                    <td>Razzle Dazzle</td>--}}
-{{--                    <td>4-7</td>--}}
-{{--                    <td>Monday</td>--}}
-{{--                    <td>5:30-6:30</td>--}}
-{{--                    <td>--}}
-{{--                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login"--}}
-{{--                           target="_blank">--}}
-{{--                            <button class="btn btn-danger btn-sm mr-3">ENROLL</button>--}}
-{{--                        </a>--}}
-{{--                    </td>--}}
-{{--                </tr>--}}
-{{--                <tr>--}}
-{{--                    <td>Broadway Bound</td>--}}
-{{--                    <td>8&^</td>--}}
-{{--                    <td>Monday</td>--}}
-{{--                    <td>6:30-7:30</td>--}}
-{{--                    <td>--}}
-{{--                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login"--}}
-{{--                           target="_blank">--}}
-{{--                            <button class="btn btn-danger btn-sm mr-3">ENROLL</button>--}}
-{{--                        </a>--}}
-{{--                    </td>--}}
-{{--                </tr>--}}
-{{--                <tr>--}}
-{{--                    <td>Totally Drama</td>--}}
-{{--                    <td>10&^</td>--}}
-{{--                    <td>Monday</td>--}}
-{{--                    <td>4:30-5:30</td>--}}
-{{--                    <td>--}}
-{{--                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login"--}}
-{{--                           target="_blank">--}}
-{{--                            <button class="btn btn-danger btn-sm mr-3">ENROLL</button>--}}
-{{--                        </a>--}}
-{{--                    </td>--}}
-{{--                </tr>--}}
-{{--                <tr>--}}
-{{--                    <td>Curtain Call</td>--}}
-{{--                    <td>13&^</td>--}}
-{{--                    <td>Thursday</td>--}}
-{{--                    <td>4:30-6:30</td>--}}
-{{--                    <td>--}}
-{{--                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login"--}}
-{{--                           target="_blank">--}}
-{{--                            <button class="btn btn-danger btn-sm mr-3">ENROLL</button>--}}
-{{--                        </a>--}}
-{{--                    </td>--}}
-{{--                </tr>--}}
-{{--                <tr>--}}
-{{--                    <td>Take Stage</td>--}}
-{{--                    <td>14&^</td>--}}
-{{--                    <td>Tuesday</td>--}}
-{{--                    <td>4:30-6:30</td>--}}
-{{--                    <td>--}}
-{{--                        <a href="https://app.thestudiodirector.com/danceunlimitedpac/portal.sd?page=Login"--}}
-{{--                           target="_blank">--}}
-{{--                            <button class="btn btn-danger btn-sm mr-3">ENROLL</button>--}}
-{{--                        </a>--}}
-{{--                    </td>--}}
-{{--                </tr>--}}
-{{--                </tbody>--}}
-{{--            </table>--}}
+{{--        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">--}}
+{{--            <div class="col-sm my-2"><img src="/images/23-spotlight-fall-c.jpg" alt="fall schedule" class="img-fluid shadow rounded"></div>--}}
 {{--        </div>--}}
-{{--    </div>--}}
+    </div>
 
 @endsection

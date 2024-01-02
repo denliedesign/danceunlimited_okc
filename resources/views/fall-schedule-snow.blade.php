@@ -8,13 +8,13 @@
 
     <div class="container py-5">
         <h1 class="text-center"><strong>DU Fall Class Schedule</strong></h1>
-        <p class="text-center">Open House Saturday August 19th, Fall Classes start Monday August 21st</p>
+        <p class="text-center">Fall semester has come and gone. Check back end of March for Fall 2024 Schedule.</p>
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
 {{--            <div class="col-sm my-2"><img src="/images/23-fall-schedule_page-0001.jpg" alt="fall schedule" class="img-fluid shadow rounded"></div>--}}
 {{--            <div class="col-sm my-2"><img src="/images/23-fall-schedule_page-0002.jpg" alt="fall schedule" class="img-fluid shadow rounded"></div>--}}
 {{--            <div class="col-sm my-2"><img src="/images/23-fall-schedule_page-0003.jpg" alt="fall schedule" class="img-fluid shadow rounded"></div>--}}
 {{--            <div class="col-sm my-2"><img src="/images/23-fall-schedule_page-0004.jpg" alt="fall schedule" class="img-fluid shadow rounded"></div>--}}
-            <div class="col-sm my-2"><img src="/images/23-du-fall-c.jpg" alt="fall schedule" class="img-fluid shadow rounded"></div>
+            <div class="col-sm my-2"><img src="/images/fall-2023.jpg" alt="group of dancer girls pose for picture" class="img-fluid shadow rounded"></div>
         </div>
     </div>
 

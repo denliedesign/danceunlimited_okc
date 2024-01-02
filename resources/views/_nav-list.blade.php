@@ -6,9 +6,10 @@
 </li>
 
 <li class="nav-item dropdown my-2">
-    <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">DU Fall</a>
+    <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Dance Class Schedule</a>
     <ul class="dropdown-menu">
-        <li><a class="dropdown-item" href="/fall-schedule">Class Schedule</a></li>
+{{--        <li><a class="dropdown-item" href="/fall-schedule">Fall</a></li>--}}
+        <li><a class="dropdown-item" href="/spring-schedule">Spring</a></li>
 {{--        <li><a class="dropdown-item" href="/fall-tuition">Fees & Tuition</a></li>--}}
     </ul>
 </li>

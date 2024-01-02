@@ -8,7 +8,7 @@
 
     <div class="container py-5">
         <h1 class="text-center"><strong>DU Pop Ups</strong></h1>
-        <p class="text-center">Check back in Aug 2023</p>
+        <p class="text-center">Coming Jan 15th</p>
 
 {{--        <div class="row mt-5">--}}
 {{--            <div class="col-sm-1"></div>--}}

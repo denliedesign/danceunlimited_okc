@@ -2,9 +2,11 @@
 @section('title', 'About our Faculty | Dance Unlimited')
 @section('content')
 
-    <div class="banner-wrap">
-        <div class="banner"></div>
-    </div>
+{{--    <div class="banner-wrap">--}}
+{{--        <div class="banner"></div>--}}
+{{--    </div>--}}
+
+<img src="/images/du-faculty.jpg" alt="faculty" class="img-fluid" style="width: 100%;">
 
         @include("_faculty-modals")
 
@@ -13,7 +15,7 @@
         <div class="row">
             <div class="col-sm-3 my-3">
                 <div class="d-flex justify-content-center">
-                    <img src="/images/staff-amy.jpg" alt="headshot" class="shadow rounded" style="height: 350px; width: 100%; object-fit: cover;">
+                    <img src="/images/staff-amy.jpg" alt="headshot" class="shadow rounded" style="height: 300px; width: 100%; object-fit: contain;">
                 </div>
                 <div class="text-center mt-2">
                     <h2><strong>AMY REYNOLDS-REED</strong></h2>
@@ -48,7 +50,7 @@
         <div class="row">
             <div class="col-sm-3 my-3">
                 <div class="d-flex justify-content-center">
-                    <img src="/images/staff-jonathan.jpg" alt="headshot" class="shadow rounded" style="height: 350px; width: 100%; object-fit: cover;">
+                    <img src="/images/staff-jonathan.jpg" alt="headshot" class="shadow rounded" style="height: 300px; width: 100%; object-fit: contain;">
                 </div>
                 <div class="text-center mt-2">
                     <h2><strong>JONATHAN BECK REED</strong></h2>
@@ -98,7 +100,7 @@
                 <x-instructor modal="sophia" image="staff-sophia.jpg" name="Sophia Dollenmeyer" title="Dance Instructor" bio="Bio coming soon!"/>
                 <x-instructor modal="hannah" image="staff-hannah.jpg" name="hannah malinoski" title="Dance Instructor" bio="Bio coming soon!"/>
                 <x-instructor modal="emilee" image="staff-emilee.jpg" name="Emilee Stubbs" title="Customer Care" bio="Bio coming soon!"/>
-                <x-instructor modal="noele" image="staff-noele.jpg" name="noele eccellente" title="Customer Care" bio="Bio coming soon!"/>
+{{--                <x-instructor modal="noele" image="staff-noele.jpg" name="noele eccellente" title="Customer Care" bio="Bio coming soon!"/>--}}
                 <x-instructor modal="nicole" image="staff-nicole.jpg" name="nicole vaughn" title="Customer Care" bio="Bio coming soon!"/>
 
 

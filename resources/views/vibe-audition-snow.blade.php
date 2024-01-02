@@ -28,23 +28,28 @@
             <h2 class="text-center">
                 <strong>VIBE AUDITION INFO</strong>
             </h2>
-            <p>
-                <strong>Wednesday, May 17th</strong>
+            <p class="text-center">
+                Auditions have passed for the 2023-2024 Competition Team.
                 <br>
-                Mini Vibe Auditions 4:30-6:30
-                <br>
-                <br>
-                <strong>Thursday, May 18th</strong>
-                <br>
-                Senior Vibe Auditions 6:30-9:30
-                <br>
-                <br>
-                <strong>Friday, May 19th</strong>
-                <br>
-                Teen Vibe Auditions 4:30-6:30
-                <br>
-                Junior Vibe Auditions 6:45-8:30
+                Audition information for the 2024-2025 season will be posted in March.  Auditions will be in late May.
             </p>
+{{--            <p>--}}
+{{--                <strong>Wednesday, May 17th</strong>--}}
+{{--                <br>--}}
+{{--                Mini Vibe Auditions 4:30-6:30--}}
+{{--                <br>--}}
+{{--                <br>--}}
+{{--                <strong>Thursday, May 18th</strong>--}}
+{{--                <br>--}}
+{{--                Senior Vibe Auditions 6:30-9:30--}}
+{{--                <br>--}}
+{{--                <br>--}}
+{{--                <strong>Friday, May 19th</strong>--}}
+{{--                <br>--}}
+{{--                Teen Vibe Auditions 4:30-6:30--}}
+{{--                <br>--}}
+{{--                Junior Vibe Auditions 6:45-8:30--}}
+{{--            </p>--}}
         </div>
     </div>
 

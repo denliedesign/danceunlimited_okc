@@ -8,7 +8,14 @@
 
     <div class="container py-5">
         <h1 class="text-center"><strong>DU Productions Winter Show</strong></h1>
-<p class="text-center">Production Info coming soon</p>
+<p class="text-center">Our Winter Spectacular has come and gone!  Check back here Sept 2024 for NEW info!</p>
+        <div class="row row-cols-1-row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
+            <div class="col"></div>
+            <div class="col">
+                <img src="/images/logo-winter.jpg" alt="winter logo" class="img-fluid shadow rounded">
+            </div>
+            <div class="col"></div>
+        </div>
 
 {{--        <p class="text-center mt-5">--}}
 {{--            Dance Unlimited will be presenting 2 productions for the 2022-23 season: The DU Winter Showcase in December and an amazing year-end production in May.--}}
