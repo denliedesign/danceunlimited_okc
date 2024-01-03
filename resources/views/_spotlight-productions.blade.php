@@ -1,6 +1,10 @@
 <div class="row py-5">
-    <h1><strong>coming up</strong></h1>
-    <p>Check back soon for details!</p>
+    <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
+        <img src="/images/shrek-1.jpg" alt="shrek show" class="img-fluid">
+        <img src="/images/shrek-2.jpg" alt="shrek show" class="img-fluid">
+    </div>
+{{--    <h1><strong>coming up</strong></h1>--}}
+{{--    <p>Check back soon for details!</p>--}}
 {{--    <div class="col-sm">--}}
 {{--        <img src="/images-snow/prod-junie.png" class="rounded img-fluid" style="border: 3px solid #020303;">--}}
 {{--        <p class="my-1 text-center"><strong>Junie B. Jones</strong></p>--}}

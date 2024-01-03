@@ -8,10 +8,13 @@
 
     <div class="container py-5">
         <h1 class="text-center"><strong>DU Productions Spring Show</strong></h1>
-
+        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
+            <img src="/images/encanto-1.jpg" alt="encanto recital" class="img-fluid">
+            <img src="/images/encanto-2.jpg" alt="encanto recital" class="img-fluid">
+        </div>
         <p class="text-center">
 {{--            Dance Unlimited will present PURE IMAGINATION, May 13, 2023, at Hudiburg Performing Arts Center.--}}
-            Check back soon for details on our next amazing year-end production.
+{{--            Check back soon for details on our next amazing year-end production.--}}
         </p>
 {{--        <p class="text-center mt-5">--}}
 {{--            Dance Unlimited will be presenting 2 productions for the 2022-23 season: The DU Winter Showcase in December and an amazing year-end production in May.--}}
@@ -38,6 +41,8 @@
             <h2 class="text-center"><strong>Recital Pictures</strong></h2>
             <p class="text-center">
                 Every year we have a special Recital Picture Day where dancers can have their portraits taken professionally at the studio with Spotlight Dance Photography. Always amazing photos! Dancers are not required to purchase photos, but they are a wonderful keepsake for dancers and families for years to come.
+                <br><br>
+                <a href="/images/encanto-picture.pdf" target="_blank">Encanto/Aftershow Picture Schedule</a>
             </p>
 {{--            <div class="d-flex justify-content-center">--}}
 {{--                <div class="btn btn-light shadow px-5" style="border-radius: 20px;">--}}
