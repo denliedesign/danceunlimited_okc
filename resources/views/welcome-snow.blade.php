@@ -76,7 +76,7 @@
                     <img src="/images/act-totally-drama.jpg" class="img-fluid rounded" style="height: 225px; width: 100%; object-fit: cover; object-position: center;"  alt="">
                     <h4 class="my-1"><strong>Totally Drama 7&^</strong></h4>
                     <p>
-                        This class is a class for ages 7 and up.
+                        This class is a Beginner Level class for ages 7 and up that requires no previous experience and is an introduction into the musical theatre world. All are welcome!
 
                     </p>
                 </div>
@@ -84,13 +84,14 @@
                     <img src="/images/act-take-stage.jpg" class="img-fluid rounded" style="height: 225px; width: 100%; object-fit: cover; object-position: center;"  alt="">
                     <h4 class="my-1"><strong>Take Stage 10&^</strong></h4>
                     <p>
-                        This class is an Advanced Level Class for ages 10 and up that does require previous experience.
+                        This class is an Intermediate Level Class for ages 10 and up that requires some previous experience!
                     </p>
                 </div>
                 <div class="col-sm">
                     <img src="/images/act-broadway-bound.jpg" class="img-fluid rounded" style="height: 225px; width: 100%; object-fit: cover; object-position: center;"  alt="">
                     <h4 class="my-1"><strong>Broadway Bound 12&^</strong></h4>
-                    <p>                        This class is a class for ages 12 and up that requires some previous experience but is still an introduction into the musical theatre world. All are welcome!
+                    <p>
+                        This is an Advanced Level class for ages 12 and up that requires previous experience!
                     </p>
                 </div>
 
