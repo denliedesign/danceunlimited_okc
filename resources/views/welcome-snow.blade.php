@@ -18,7 +18,7 @@
         </p>
 {{--        <x-button link="/fall-schedule" text="Classes Offered"/>--}}
         <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
-            <a href="/fall-schedule" class="text-decoration-none text-dark fw-bold">Classes Offered</a>
+            <a href="/spring-schedule" class="text-decoration-none text-dark fw-bold">Classes Offered</a>
         </div>
 
         <div class="row pt-5">
