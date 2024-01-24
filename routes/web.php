@@ -84,6 +84,9 @@ Route::get('faq-studio', function () {
 Route::get('good-times', function () {
     return view('good-times-snow');
 });
+Route::get('class-offerings', function () {
+    return view('class-offerings');
+});
 
 //
 //Route::get('faculty', function () {

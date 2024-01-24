@@ -10,6 +10,7 @@
     <ul class="dropdown-menu">
 {{--        <li><a class="dropdown-item" href="/fall-schedule">Fall</a></li>--}}
         <li><a class="dropdown-item" href="/spring-schedule">Spring</a></li>
+        <li><a class="dropdown-item" href="/class-offerings">Class Offerings</a></li>
 {{--        <li><a class="dropdown-item" href="/fall-tuition">Fees & Tuition</a></li>--}}
     </ul>
 </li>
