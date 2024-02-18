@@ -109,6 +109,14 @@
     </div>
 </div>
 
+<div class="py-5">
+    <div class="container">
+        <h2 class="text-center"><strong>DOWNLOAD OUR APP</strong></h2>
+        <div class="d-flex justify-content-center">
+            <img src="/images/DUPAC.png" alt="qr code for app" class="img-fluid" style="max-width: 250px; height: auto;">
+        </div>
+    </div>
+</div>
 
 {{--<div class="bg-white py-5">--}}
 {{--    <div class="container px-4">--}}

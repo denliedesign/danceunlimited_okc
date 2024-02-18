@@ -8,7 +8,7 @@
 
     <div class="container py-5">
         <h1 class="text-center"><strong>DU Summer Class Schedule</strong></h1>
-        <p class="text-center">Announcement coming Feb 1st 2024</p>
+        <p class="text-center">Announcement coming Feb 19th 2024</p>
         <div class="d-flex justify-content-center">
             <img src="/images/summer-class.jpg" alt="contemporary dancer reaching" class="img-fluid rounded shadow">
         </div>

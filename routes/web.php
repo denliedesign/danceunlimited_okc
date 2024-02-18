@@ -87,7 +87,9 @@ Route::get('good-times', function () {
 Route::get('class-offerings', function () {
     return view('class-offerings');
 });
-
+Route::get('spotlight-summer-camps', function () {
+    return view('spotlight-summer-camps');
+});
 //
 //Route::get('faculty', function () {
 //    return view('faculty');
