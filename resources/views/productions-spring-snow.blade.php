@@ -8,10 +8,14 @@
 
     <div class="container py-5">
         <h1 class="text-center"><strong>DU Productions Spring Show</strong></h1>
-{{--        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">--}}
-{{--            <img src="/images/encanto-1.jpg" alt="encanto recital" class="img-fluid">--}}
-{{--            <img src="/images/encanto-2.jpg" alt="encanto recital" class="img-fluid">--}}
-{{--        </div>--}}
+        <div class="d-flex justify-content-center my-3">
+            <div class="btn btn-light px-5" style="border-radius: 20px; border: 2px solid black;">
+                <a href="/images/encanto-show.pdf" class="text-decoration-none text-dark fw-bold" target="_blank">View PDF</a>
+            </div>
+        </div>
+        <div class="d-flex justify-content-center">
+            <img src="/images/encanto-show.jpg" alt="encanto recital" class="img-fluid">
+        </div>
     </div>
 
     <div class="bg-white py-5">
@@ -24,6 +28,17 @@
 {{--                <br><br>--}}
 {{--                <a href="/images/2024-class-characters.pdf" target="_blank">Class Characters</a>--}}
             </p>
+            <div class="d-flex justify-content-center my-2">
+                <div class="btn btn-light px-5" style="border-radius: 20px; border: 2px solid black;">
+                    <a href="/images/encanto-picture-24.pdf" class="text-decoration-none text-dark fw-bold" target="_blank">View PDF</a>
+                </div>
+            </div>
+            <div class="row row-cols-2">
+                <div class="col"><img src="/images/encanto-picture-1.jpg" class="img-fluid" alt=""></div>
+                <div class="col"><img src="/images/encanto-picture-2.jpg" class="img-fluid" alt=""></div>
+                <div class="col"><img src="/images/encanto-picture-3.jpg" class="img-fluid" alt=""></div>
+                <div class="col"><img src="/images/encanto-picture-4.jpg" class="img-fluid" alt=""></div>
+            </div>
         </div>
     </div>
 

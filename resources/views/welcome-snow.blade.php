@@ -66,12 +66,12 @@
             </div>
 
             <div class="row pt-5">
-                <div class="col-sm">
-                    <img src="/images/act-razzle-dazzle.jpg" class="img-fluid rounded" style="height: 225px; width: 100%; object-fit: cover; object-position: top;"  alt="">
-                    <h4 class="my-1"><strong>Razzle Dazzle 5&^</strong></h4>
-                    <p>                        This class is a Beginner Level class for ages 5 and up that requires no previous experience and is an introduction into the musical theatre world. All are welcome!
-                    </p>
-                </div>
+{{--                <div class="col-sm">--}}
+{{--                    <img src="/images/act-razzle-dazzle.jpg" class="img-fluid rounded" style="height: 225px; width: 100%; object-fit: cover; object-position: top;"  alt="">--}}
+{{--                    <h4 class="my-1"><strong>Razzle Dazzle 5&^</strong></h4>--}}
+{{--                    <p>                        This class is a Beginner Level class for ages 5 and up that requires no previous experience and is an introduction into the musical theatre world. All are welcome!--}}
+{{--                    </p>--}}
+{{--                </div>--}}
                 <div class="col-sm">
                     <img src="/images/act-totally-drama.jpg" class="img-fluid rounded" style="height: 225px; width: 100%; object-fit: cover; object-position: center;"  alt="">
                     <h4 class="my-1"><strong>Totally Drama 7&^</strong></h4>

@@ -18,55 +18,40 @@
         </p>
         <div class="d-flex justify-content-center">
             <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
-                <a href="/images-snow/23-24-vibe-audition-form.pdf" target="_blank" class="text-decoration-none text-dark fw-bold">2023-24 Vibe Audition Form</a>
+                <a href="https://forms.gle/fTHwV6AqG3dk35dA7" target="_blank" class="text-decoration-none text-dark fw-bold">2024-25 Vibe Audition Form</a>
             </div>
         </div>
     </div>
 
+{{--    <div class="bg-white">--}}
+{{--        <div class="container py-5">--}}
+{{--            <h2 class="text-center">--}}
+{{--                <strong>VIBE AUDITION INFO</strong>--}}
+{{--            </h2>--}}
+{{--            <p class="text-center">--}}
+{{--                Auditions have passed for the 2023-2024 Competition Team.--}}
+{{--                <br>--}}
+{{--                Audition information for the 2024-2025 season will be posted in March.  Auditions will be in late May.--}}
+{{--            </p>--}}
+{{--        </div>--}}
+{{--    </div>--}}
+
     <div class="bg-white">
         <div class="container py-5">
-            <h2 class="text-center">
-                <strong>VIBE AUDITION INFO</strong>
-            </h2>
-            <p class="text-center">
-                Auditions have passed for the 2023-2024 Competition Team.
-                <br>
-                Audition information for the 2024-2025 season will be posted in March.  Auditions will be in late May.
-            </p>
-{{--            <p>--}}
-{{--                <strong>Wednesday, May 17th</strong>--}}
-{{--                <br>--}}
-{{--                Mini Vibe Auditions 4:30-6:30--}}
-{{--                <br>--}}
-{{--                <br>--}}
-{{--                <strong>Thursday, May 18th</strong>--}}
-{{--                <br>--}}
-{{--                Senior Vibe Auditions 6:30-9:30--}}
-{{--                <br>--}}
-{{--                <br>--}}
-{{--                <strong>Friday, May 19th</strong>--}}
-{{--                <br>--}}
-{{--                Teen Vibe Auditions 4:30-6:30--}}
-{{--                <br>--}}
-{{--                Junior Vibe Auditions 6:45-8:30--}}
-{{--            </p>--}}
+            <h2 class="text-center"><strong>Vibe Mission and Goals</strong></h2>
+            <ol>
+                <li>Bring technique and performance to next level.</li>
+                <li>Explore creative side, Encourage Artistry.</li>
+                <li>Inspire confidence.</li>
+                <li>Foster the whole dancer, encouraging each dancer to live a healthy and balanced life.</li>
+                <li>Recognize the trophy is only a part of what we do.</li>
+                <li>Dancers will; demonstrate respect for their training, their teachers and their fellow team members.</li>
+                <li>Dancers work toward a common goal, learning valuable lessons along the way.</li>
+                <li>Instructors will provide dancers with direct and honest feedback while honoring each dancer individually and honoring their unique learning style and personality.</li>
+                <li>We will Challenge and Push each dancer to their full potential </li>
+                <li>Emphasize the JOY of dance, the POWER of commitment and value of TEAM work!</li>
+            </ol>
         </div>
-    </div>
-
-    <div class="container py-5">
-        <h2 class="text-center"><strong>Vibe Mission and Goals</strong></h2>
-        <ol>
-            <li>Bring technique and performance to next level.</li>
-            <li>Explore creative side, Encourage Artistry.</li>
-            <li>Inspire confidence.</li>
-            <li>Foster the whole dancer, encouraging each dancer to live a healthy and balanced life.</li>
-            <li>Recognize the trophy is only a part of what we do.</li>
-            <li>Dancers will; demonstrate respect for their training, their teachers and their fellow team members.</li>
-            <li>Dancers work toward a common goal, learning valuable lessons along the way.</li>
-            <li>Instructors will provide dancers with direct and honest feedback while honoring each dancer individually and honoring their unique learning style and personality.</li>
-            <li>We will Challenge and Push each dancer to their full potential </li>
-            <li>Emphasize the JOY of dance, the POWER of commitment and value of TEAM work!</li>
-        </ol>
     </div>
 
     <div class="container py-5">
