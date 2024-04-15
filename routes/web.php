@@ -27,12 +27,12 @@ Route::get('trash-week', function () {
 Route::get('calendar', function () {
     return view('calendar-snow');
 });
-//Route::get('fall-schedule', function () {
-//    return view('fall-schedule-snow');
-//});
-Route::get('spring-schedule', function () {
-    return view('spring-schedule');
+Route::get('fall-schedule', function () {
+    return view('fall-schedule-snow');
 });
+//Route::get('spring-schedule', function () {
+//    return view('spring-schedule');
+//});
 //Route::get('fall-tuition', function () {
 //    return view('fall-tuition-snow');
 //});

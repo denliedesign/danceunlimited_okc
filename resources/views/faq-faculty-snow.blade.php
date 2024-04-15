@@ -82,24 +82,24 @@
     <div class="bg-white py-5">
         <div class="container">
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
-                <x-instructor modal="chelsea" image="staff-chelsea.jpg" name="chelsea jones" title="Lead Instructor/ Social Media Director" bio="Chelsea Jones is a graduate from Oklahoma University with a BFA in Musical Theatre. While performing was fun for Chelsea, she felt more fulfilled teaching. She has been teaching consistently with Dance Unlimited for almost 9 years now and enjoys all disciplines! Chelsea is the head of the dance department at Heritage Hall, and works consistently with the DU Starlette program at DU. Teaching is Chelsea’s passion but when she’s not teaching, she is being a mom to Jentry (6) and Janson (3) and eating as many sour patch kids as she can!"/>
+                <x-instructor modal="chelsea" image="staff-chelsea.jpg" name="chelsea jones" title="Faculty Management/ Lead instructor" bio="Chelsea Jones is a graduate from Oklahoma University with a BFA in Musical Theatre. While performing was fun for Chelsea, she felt more fulfilled teaching. She has been teaching consistently with Dance Unlimited for almost 9 years now and enjoys all disciplines! Chelsea is the head of the dance department at Heritage Hall, and works consistently with the DU Starlette program at DU. Teaching is Chelsea’s passion but when she’s not teaching, she is being a mom to Jentry (6) and Janson (3) and eating as many sour patch kids as she can!"/>
                 <x-instructor modal="makenzie" image="staff-makenzie.jpg" name="makenzie ford" title="Spotlight Associate Director/ Voice/ Instructor" bio=""/>
                 <x-instructor modal="keyna" image="staff-keyna.jpg" name="keyna allen" title="Vibe Admin Director/ Dance Instructor" bio=""/>
                 <x-instructor modal="lesa" image="staff-lesa.jpg" name="lesa determan" title="Vibe Associate/ Lead Instructor" bio=""/>
-                <x-instructor modal="emily" image="staff-emily.jpg" name="emily ham" title="Vibe Dance Co. Director/ Dance Instructor" bio=""/>
-                <x-instructor modal="cerena" image="staff-cerena.jpg" name="cerena chaney" title="Dance Instructor" bio=""/>
+                <x-instructor modal="emily" image="staff-emily.jpg" name="emily ham" title="Lead Instructor" bio=""/>
+{{--                <x-instructor modal="cerena" image="staff-cerena.jpg" name="cerena chaney" title="Dance Instructor" bio=""/>--}}
                 <x-instructor modal="michelle" image="staff-michelle.jpg" name="michelle rambo" title="Dance Instructor" bio=""/>
                 <x-instructor modal="jessica" image="staff-jessica.jpg" name="jessica cajina" title="Dance Instructor" bio=""/>
-                <x-instructor modal="melissa" image="melissa-blake.jpg" name="melissa blake" title="Dance Instructor" bio=""/>
-                <x-instructor modal="lillian" image="staff-lillian.jpg" name="lillian ball" title="Dance Instructor" bio=""/>
+{{--                <x-instructor modal="melissa" image="melissa-blake.jpg" name="melissa blake" title="Dance Instructor" bio=""/>--}}
+                <x-instructor modal="lillian" image="staff-lillian.jpg" name="lillian ball" title="Vibe Director" bio=""/>
                 <x-instructor modal="cameelah" image="staff-cameelah.jpg" name="Cameelah Pennington Cook" title="Dance Instructor" bio=""/>
                 <x-instructor modal="brooke" image="staff-brooke.jpg" name="brooke gebb" title="Dance Instructor" bio=""/>
                 {{-- new 2023-2024 --}}
                 <x-instructor modal="alyssa" image="staff-alyssa-2.jpg" name="Alyssa Killingsworth" title="Acting Instructor" bio="Bio coming soon!"/>
-                <x-instructor modal="ana" image="staff-ana.jpg" name="Ana Bernardi" title="Dance Instructor" bio="Bio coming soon!"/>
+{{--                <x-instructor modal="ana" image="staff-ana.jpg" name="Ana Bernardi" title="Dance Instructor" bio="Bio coming soon!"/>--}}
                 <x-instructor modal="sophia" image="staff-sophia.jpg" name="Sophia Dollenmeyer" title="Dance Instructor" bio="Bio coming soon!"/>
                 <x-instructor modal="hannah" image="staff-hannah.jpg" name="hannah malinoski" title="Dance Instructor" bio="Bio coming soon!"/>
-                <x-instructor modal="emilee" image="staff-emilee.jpg" name="Emilee Stubbs" title="Customer Care" bio="Bio coming soon!"/>
+{{--                <x-instructor modal="emilee" image="staff-emilee.jpg" name="Emilee Stubbs" title="Customer Care" bio="Bio coming soon!"/>--}}
 {{--                <x-instructor modal="noele" image="staff-noele.jpg" name="noele eccellente" title="Customer Care" bio="Bio coming soon!"/>--}}
                 <x-instructor modal="nicole" image="staff-nicole.jpg" name="nicole vaughn" title="Customer Care" bio="Bio coming soon!"/>
 
