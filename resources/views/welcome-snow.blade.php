@@ -73,34 +73,33 @@
 {{--                    </p>--}}
 {{--                </div>--}}
                 <div class="col-sm">
-                    <img src="/images/act-totally-drama.jpg" class="img-fluid rounded" style="height: 225px; width: 100%; object-fit: cover; object-position: center;"  alt="">
-                    <h4 class="my-1"><strong>Totally Drama 7&^</strong></h4>
+                    <img src="/images/act-razzle-dazzle.jpg" class="img-fluid rounded" style="height: 225px; width: 100%; object-fit: cover; object-position: center;"  alt="">
+                    <h4 class="my-1"><strong>Totally Drama 4-6</strong></h4>
                     <p>
-                        This class is a Beginner Level class for ages 7 and up that requires no previous experience and is an introduction into the musical theatre world. All are welcome!
+                        This class is a Beginner Level class for ages 4-6 and up that requires no previous experience and is an introduction into the musical theatre world. All are welcome!
 
                     </p>
                 </div>
                 <div class="col-sm">
-                    <img src="/images/act-take-stage.jpg" class="img-fluid rounded" style="height: 225px; width: 100%; object-fit: cover; object-position: center;"  alt="">
-                    <h4 class="my-1"><strong>Take Stage 10&^</strong></h4>
+                    <img src="/images/act-totally-drama.jpg" class="img-fluid rounded" style="height: 225px; width: 100%; object-fit: cover; object-position: center;"  alt="">
+                    <h4 class="my-1"><strong>Take Stage 7-9</strong></h4>
                     <p>
-                        This class is an Intermediate Level Class for ages 10 and up that requires some previous experience!
+                        This class is an Intermediate Level Class for ages 7-9 and up that requires some previous experience!
                     </p>
                 </div>
                 <div class="col-sm">
-                    <img src="/images/act-broadway-bound.jpg" class="img-fluid rounded" style="height: 225px; width: 100%; object-fit: cover; object-position: center;"  alt="">
-                    <h4 class="my-1"><strong>Broadway Bound 12&^</strong></h4>
+                    <img src="/images/act-take-stage.jpg" class="img-fluid rounded" style="height: 225px; width: 100%; object-fit: cover; object-position: center;"  alt="">
+                    <h4 class="my-1"><strong>Curtain Call 10-13</strong></h4>
                     <p>
-                        This is an Advanced Level class for ages 12 and up that requires previous experience!
+                        This is an Advanced Level class for ages 10-13 and up that requires previous experience!
                     </p>
                 </div>
 
                 <div class="col-sm">
                     <img src="/images/act-curtain-call.jpg" class="img-fluid rounded" style="height: 225px; width: 100%; object-fit: cover; object-position: top;"  alt="">
-                    <h4 class="my-1"><strong>Curtain Call 14&^</strong></h4>
+                    <h4 class="my-1"><strong>Broadway Bound 14&^</strong></h4>
                     <p>
                         This class is a production class for ages 14+ that requires permission to enroll.
-
                     </p>
                 </div>
 
