@@ -52,7 +52,7 @@
     <ul class="dropdown-menu">
         <li><a class="dropdown-item" href="/vibe-audition">Audition Info</a></li>
         <li><a class="dropdown-item" href="/images/24-vibe-policy.pdf" target="_blank">Policy Book</a></li>
-        <li><a class="dropdown-item" href="/images-snow/23-24-vibe-contract.pdf" target="_blank">Contract</a></li>
+{{--        <li><a class="dropdown-item" href="/images-snow/23-24-vibe-contract.pdf" target="_blank">Contract</a></li>--}}
         <li><a class="dropdown-item" href="/vibe-days-gone-by">Days Gone By</a></li>
     </ul>
 </li>
