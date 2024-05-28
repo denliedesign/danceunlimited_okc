@@ -11,8 +11,8 @@
 {{--        <p class="text-center">Fall semester has come and gone. Check back end of March for Fall 2024 Schedule.</p>--}}
         <div class="d-flex justify-content-center my-4">
             <div>
-                <img src="/images/24-fall-juniors.png" alt="" class="img-fluid">
-                <img src="/images/24-fall-teens.png" alt="" class="img-fluid">
+                <img src="/images/schedule-24-25.jpg" alt="" class="img-fluid">
+                <img src="/images/schedule-24-25b.jpg" alt="" class="img-fluid">
             </div>
         </div>
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
