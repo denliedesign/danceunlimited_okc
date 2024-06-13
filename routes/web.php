@@ -36,9 +36,9 @@ Route::get('fall-schedule', function () {
 //Route::get('fall-tuition', function () {
 //    return view('fall-tuition-snow');
 //});
-Route::get('summer-schedule', function () {
-    return view('summer-schedule-snow');
-});
+//Route::get('summer-schedule', function () {
+//    return view('summer-schedule-snow');
+//});
 Route::get('summer-camps', function () {
     return view('summer-camps-snow');
 });

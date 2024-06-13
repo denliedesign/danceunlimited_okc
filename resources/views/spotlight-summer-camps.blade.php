@@ -15,8 +15,8 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-sm"><img src="/images/spot-summer-1.jpg" alt="summer camp" class="img-fluid"></div>
-            <div class="col-sm"><img src="/images/spot-summer-2.jpg" alt="summer camp" class="img-fluid"></div>
+{{--            <div class="col-sm"><img src="/images/spot-summer-1.jpg" alt="summer camp" class="img-fluid"></div>--}}
+            <div class="col-sm mx-5 px-5"><img src="/images/spot-summer-2.jpg" alt="summer camp" class="img-fluid"></div>
         </div>
                         <div class="d-flex justify-content-center my-3">
                             <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
