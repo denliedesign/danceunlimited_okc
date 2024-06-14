@@ -21,11 +21,11 @@
         <p class="text-center">Auditions have been concluded for this semester. Please check back for up-coming summer productions</p>
     </div>
 
-    <div class="bg-white py-5">
-        <div class="container">
-            @include('_spotlight-productions')
-        </div>
-    </div>
+{{--    <div class="bg-white py-5">--}}
+{{--        <div class="container">--}}
+{{--            @include('_spotlight-productions')--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
     <div class="container py-5">
         <h2><strong>Students</strong></h2>
@@ -43,9 +43,9 @@
 
     <div class="bg-white py-5">
         <div class="container">
-            <h2><strong>JUNIOR THEATRE FESTIVAL - ATLANTA 2024</strong></h2>
+            <h2><strong>JUNIOR THEATRE FESTIVAL - ATLANTA 2025</strong></h2>
             <p>
-                Dance Unlimited and Spotlight are excited to be attending <strong>Junior Theatre Festival Atlanta - January 12-15, 2024!</strong>
+                Info coming soon!
             </p>
             {{--        <div>--}}
             {{--            <x-button link="/images/junior-theatre-festival.pdf" text="Details"/>--}}

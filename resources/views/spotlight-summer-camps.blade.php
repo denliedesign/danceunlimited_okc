@@ -9,20 +9,20 @@
     <div class="container py-5">
         <h1 class="text-center"><strong>Spotlight Acting Summer Camps</strong></h1>
         <div class="d-flex justify-content-center my-3">
-            <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
-                <a href="http://www.heritagehall.com/summer" target="_blank"
-                   class="text-decoration-none text-dark fw-bold">Enroll Now</a>
-            </div>
+{{--            <div class="btn btn-light shadow px-5" style="border-radius: 20px;">--}}
+{{--                <a href="http://www.heritagehall.com/summer" target="_blank"--}}
+{{--                   class="text-decoration-none text-dark fw-bold">Enroll Now</a>--}}
+{{--            </div>--}}
         </div>
         <div class="row">
 {{--            <div class="col-sm"><img src="/images/spot-summer-1.jpg" alt="summer camp" class="img-fluid"></div>--}}
-            <div class="col-sm mx-5 px-5"><img src="/images/spot-summer-2.jpg" alt="summer camp" class="img-fluid"></div>
+{{--            <div class="col-sm mx-5 px-5"><img src="/images/spot-summer-2.jpg" alt="summer camp" class="img-fluid"></div>--}}
         </div>
                         <div class="d-flex justify-content-center my-3">
-                            <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
-                                <a href="http://www.heritagehall.com/summer" target="_blank"
-                                   class="text-decoration-none text-dark fw-bold">Enroll Now</a>
-                            </div>
+{{--                            <div class="btn btn-light shadow px-5" style="border-radius: 20px;">--}}
+{{--                                <a href="http://www.heritagehall.com/summer" target="_blank"--}}
+{{--                                   class="text-decoration-none text-dark fw-bold">Enroll Now</a>--}}
+{{--                            </div>--}}
                         </div>
         {{--        <div class="row my-2">--}}
         {{--            <div class="col-sm-2"></div>--}}
