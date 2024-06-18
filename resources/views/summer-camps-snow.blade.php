@@ -8,11 +8,11 @@
 
     <div class="container py-5">
         <h1 class="text-center"><strong>DU Summer Camps</strong></h1>
-        <div class="text-center"><a class="text-white" href="/images/24-summer.pdf" target="_blank">Download PDF</a></div>
+{{--        <div class="text-center"><a class="text-white" href="/images/24-summer.pdf" target="_blank">Download PDF</a></div>--}}
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">
-            <img src="/images/24-summer-1.jpg" alt="summer camps" class="img-fluid rounded shadow my-3">
-            <img src="/images/24-summer-2.jpg" alt="summer camps" class="img-fluid rounded shadow my-3">
-            <img src="/images/24-summer-3.jpg" alt="summer camps" class="img-fluid rounded shadow my-3">
+{{--            <img src="/images/24-summer-1.jpg" alt="summer camps" class="img-fluid rounded shadow my-3">--}}
+{{--            <img src="/images/24-summer-2.jpg" alt="summer camps" class="img-fluid rounded shadow my-3">--}}
+{{--            <img src="/images/24-summer-3.jpg" alt="summer camps" class="img-fluid rounded shadow my-3">--}}
 {{--            <img src="/images/summer-camp.jpg" alt="contemporary dancer reaching" class="img-fluid rounded shadow">--}}
         </div>
 {{--        <div class="row my-2">--}}
