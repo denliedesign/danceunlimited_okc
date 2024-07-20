@@ -52,7 +52,7 @@
     <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Vibe Competition Team</a>
     <ul class="dropdown-menu">
         <li><a class="dropdown-item" href="/vibe-audition">Audition Info</a></li>
-        <li><a class="dropdown-item" href="/images/24-vibe-policy.pdf" target="_blank">Policy Book</a></li>
+{{--        <li><a class="dropdown-item" href="/images/24-vibe-policy.pdf" target="_blank">Policy Book</a></li>--}}
 {{--        <li><a class="dropdown-item" href="/images-snow/23-24-vibe-contract.pdf" target="_blank">Contract</a></li>--}}
         <li><a class="dropdown-item" href="/vibe-days-gone-by">Days Gone By</a></li>
     </ul>
@@ -62,7 +62,7 @@
     <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">FAQs</a>
     <ul class="dropdown-menu">
         <li><a class="dropdown-item" href="/faq-faculty">About our Faculty</a></li>
-        <li><a class="dropdown-item" href="/faq-dress">Studio Handbooks</a></li>
+{{--        <li><a class="dropdown-item" href="/faq-dress">Studio Handbooks</a></li>--}}
         <li><a class="dropdown-item" href="/trash-week">Trash Week</a></li>
         <li><a class="dropdown-item" href="/faq-studio">Studio</a></li>
         <li><a class="dropdown-item" href="/good-times">Good Times</a></li>

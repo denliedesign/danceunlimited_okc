@@ -17,9 +17,9 @@
             If you have any questions please contact us at <a href="mailto:vibedanceokc@gmail.com" class="text-white">vibedanceokc@gmail.com</a>
         </p>
         <div class="d-flex justify-content-center">
-            <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
-                <a href="https://forms.gle/fTHwV6AqG3dk35dA7" target="_blank" class="text-decoration-none text-dark fw-bold">2024-25 Vibe Audition Form</a>
-            </div>
+{{--            <div class="btn btn-light shadow px-5" style="border-radius: 20px;">--}}
+{{--                <a href="https://forms.gle/fTHwV6AqG3dk35dA7" target="_blank" class="text-decoration-none text-dark fw-bold">2024-25 Vibe Audition Form</a>--}}
+{{--            </div>--}}
         </div>
     </div>
 

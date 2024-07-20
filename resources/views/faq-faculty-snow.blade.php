@@ -93,7 +93,7 @@
 {{--                <x-instructor modal="melissa" image="melissa-blake.jpg" name="melissa blake" title="Dance Instructor" bio=""/>--}}
                 <x-instructor modal="lillian" image="staff-lillian.jpg" name="lillian ball" title="Vibe Director" bio=""/>
                 <x-instructor modal="cameelah" image="staff-cameelah.jpg" name="Cameelah Pennington Cook" title="Dance Instructor" bio=""/>
-                <x-instructor modal="brooke" image="staff-brooke.jpg" name="brooke gebb" title="Dance Instructor" bio=""/>
+{{--                <x-instructor modal="brooke" image="staff-brooke.jpg" name="brooke gebb" title="Dance Instructor" bio=""/>--}}
                 {{-- new 2023-2024 --}}
                 <x-instructor modal="alyssa" image="staff-alyssa-2.jpg" name="Alyssa Killingsworth" title="Acting Instructor" bio="Bio coming soon!"/>
 {{--                <x-instructor modal="ana" image="staff-ana.jpg" name="Ana Bernardi" title="Dance Instructor" bio="Bio coming soon!"/>--}}
