@@ -8,6 +8,9 @@
 
     <div class="container py-5">
         <h1 class="text-center"><strong>DU Productions Spring Show</strong></h1>
+        <p class="text-center">
+            Spring production date is week of May 5th - 11th
+        </p>
 {{--        <div class="d-flex justify-content-center my-3">--}}
 {{--            <div class="btn btn-light px-5" style="border-radius: 20px; border: 2px solid black;">--}}
 {{--                <a href="/images/encanto-show.pdf" class="text-decoration-none text-dark fw-bold" target="_blank">View PDF</a>--}}

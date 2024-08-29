@@ -8,6 +8,9 @@
 
     <div class="container py-5">
         <h1 class="text-center"><strong>DU Summer Camps</strong></h1>
+        <p class="text-center">
+            Check back Feb 2025 for summer details
+        </p>
 {{--        <div class="text-center"><a class="text-white" href="/images/24-summer.pdf" target="_blank">Download PDF</a></div>--}}
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">
 {{--            <img src="/images/24-summer-1.jpg" alt="summer camps" class="img-fluid rounded shadow my-3">--}}

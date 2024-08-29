@@ -8,7 +8,8 @@
 
     <div class="container py-5">
         <h1 class="text-center"><strong>DU Productions Winter Show</strong></h1>
-<p class="text-center">Our Winter Spectacular has come and gone!  Check back here Sept 2024 for NEW info!</p>
+<p class="text-center">Winter spectacular date is December 8th at Edmond Memorial High School</p>
+{{--<p class="text-center">Our Winter Spectacular has come and gone!  Check back here Sept 2024 for NEW info!</p>--}}
         <div class="row row-cols-1-row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
             <div class="col"></div>
             <div class="col">

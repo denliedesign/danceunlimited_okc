@@ -5,28 +5,36 @@
     <a class="nav-link txt-snow" href="/calendar">Calendar</a>
 </li>
 
-<li class="nav-item dropdown my-2">
-    <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Dance Class Schedule</a>
-    <ul class="dropdown-menu">
+{{--<li class="nav-item dropdown my-2">--}}
+{{--    <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Dance Class Schedule</a>--}}
+{{--    <ul class="dropdown-menu">--}}
 {{--        <li><a class="dropdown-item" href="/fall-schedule">Fall</a></li>--}}
-        <li><a class="dropdown-item" href="/fall-schedule">Fall</a></li>
-        <li><a class="dropdown-item" href="/class-offerings">Class Offerings</a></li>
+{{--        <li><a class="dropdown-item" href="/fall-schedule">Fall</a></li>--}}
+{{--        <li><a class="dropdown-item" href="/class-offerings">Class Offerings</a></li>--}}
 {{--        <li><a class="dropdown-item" href="/fall-tuition">Fees & Tuition</a></li>--}}
-    </ul>
+{{--    </ul>--}}
+{{--</li>--}}
+
+<li class="nav-item my-2">
+    <a class="nav-link txt-snow" href="/class-offerings">24-25 Class Offerings</a>
 </li>
 
 <li class="nav-item my-2">
     <a class="nav-link txt-snow" href="/du-pop-ups">DU Pop Ups</a>
 </li>
 
-<li class="nav-item dropdown my-2">
-    <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">DU Summer</a>
-    <ul class="dropdown-menu">
-{{--        <li><a class="dropdown-item" href="/summer-schedule">Class Schedule</a></li>--}}
-        <li><a class="dropdown-item" href="/class-offerings">Class Schedule</a></li>
-        <li><a class="dropdown-item" href="/summer-camps">Camps</a></li>
-    </ul>
+<li class="nav-item my-2">
+    <a class="nav-link txt-snow" href="/summer-camps">DU Summer</a>
 </li>
+
+{{--<li class="nav-item dropdown my-2">--}}
+{{--    <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">DU Summer</a>--}}
+{{--    <ul class="dropdown-menu">--}}
+{{--        <li><a class="dropdown-item" href="/summer-schedule">Class Schedule</a></li>--}}
+{{--        <li><a class="dropdown-item" href="/class-offerings">Class Schedule</a></li>--}}
+{{--        <li><a class="dropdown-item" href="/summer-camps">Camps</a></li>--}}
+{{--    </ul>--}}
+{{--</li>--}}
 
 <li class="nav-item dropdown my-2">
     <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">DU Productions</a>
