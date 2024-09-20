@@ -13,6 +13,10 @@
             <ion-icon name="call"></ion-icon>
             405.242.4612
         </div>
+        <div class="mx-3">
+            <ion-icon name="people"></ion-icon>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeZj2aWG-mHVXJWx34_AdLzIevltHgNGBNVP-LhuI-hWjJLbg/viewform?usp=sf_link" target="_blank" class="text-decoration-none txt-snow">Join Our Team</a>
+        </div>
         <div class="">
             <div class="mx-3 d-block d-sm-block d-md-inline d-lg-inline">
                 <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
