@@ -45,7 +45,7 @@
                             <li><ion-icon name="mail"></ion-icon> spotlightactingokc@gmail.com</li>
                             <li><ion-icon name="mail"></ion-icon> vibedanceokc@gmail.com</li>
                             <li><ion-icon name="location"></ion-icon> 1217 E Hefner Road, OKC, OK 73131</li>
-                            <li><ion-icon name="gift"></ion-icon> PO Box 14371 Oklahoma City, OK 73113</li>
+{{--                            <li><ion-icon name="gift"></ion-icon> PO Box 14371 Oklahoma City, OK 73113</li>--}}
                         </ul>
                     </div>
                     <div class="col-sm-5">
