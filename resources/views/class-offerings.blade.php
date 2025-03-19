@@ -8,7 +8,7 @@
 
     <div style="background: white;">
         <div class="container py-5">
-            <h1 class="text-center text-dark"><strong>24-25 Class Offerings</strong></h1>
+            <h1 class="text-center text-dark"><strong>2025 Summer Classes</strong></h1>
             <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=551313&Hidecols=gender,description,openings,session,tuition&style=font-family:Arial"></script>
         </div>
     </div>

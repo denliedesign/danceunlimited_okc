@@ -19,9 +19,9 @@
             Auditions for 25/26 team will be week of May 19th, 2025
         </p>
         <div class="d-flex justify-content-center">
-{{--            <div class="btn btn-light shadow px-5" style="border-radius: 20px;">--}}
-{{--                <a href="https://forms.gle/fTHwV6AqG3dk35dA7" target="_blank" class="text-decoration-none text-dark fw-bold">2024-25 Vibe Audition Form</a>--}}
-{{--            </div>--}}
+            <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
+                <a href="https://sites.google.com/danceunlimitedokc.org/vibedanceco/home" target="_blank" class="text-decoration-none text-dark fw-bold">More Info</a>
+            </div>
         </div>
     </div>
 

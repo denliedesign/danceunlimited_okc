@@ -16,12 +16,12 @@
 {{--</li>--}}
 
 <li class="nav-item my-2">
-    <a class="nav-link txt-snow" href="/class-offerings">24-25 Class Offerings</a>
+    <a class="nav-link txt-snow" href="/class-offerings">2025 Summer Classes</a>
 </li>
 
-<li class="nav-item my-2">
-    <a class="nav-link txt-snow" href="/du-pop-ups">DU Pop Ups</a>
-</li>
+{{--<li class="nav-item my-2">--}}
+{{--    <a class="nav-link txt-snow" href="/du-pop-ups">DU Pop Ups</a>--}}
+{{--</li>--}}
 
 <li class="nav-item my-2">
     <a class="nav-link txt-snow" href="/summer-camps">DU Summer</a>
@@ -40,7 +40,7 @@
     <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">DU Productions</a>
     <ul class="dropdown-menu">
         <li><a class="dropdown-item" href="/productions-winter">Winter Show</a></li>
-        <li><a class="dropdown-item" href="/productions-spring">Spring Show</a></li>
+        <li><a class="dropdown-item" href="https://sites.google.com/danceunlimitedokc.org/durecital2025/home" target="_blank">Spring Show</a></li>
     </ul>
 </li>
 

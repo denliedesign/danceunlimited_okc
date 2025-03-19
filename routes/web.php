@@ -18,9 +18,9 @@ Route::get('/', function () {
     return view('welcome-snow');
 });
 
-Route::get('du-pop-ups', function () {
-    return view('du-pop-ups');
-});
+//Route::get('du-pop-ups', function () {
+//    return view('du-pop-ups');
+//});
 Route::get('trash-week', function () {
     return view('trash-week-snow');
 });
