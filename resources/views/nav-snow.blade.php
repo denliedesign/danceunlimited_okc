@@ -44,11 +44,11 @@
             <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                 <div class="d-flex justify-content-center align-items-center">
                     <div>
-                        <div class="d-flex justify-content-center">
-                            <a href="/">
-                                <img src="/images-snow/logo-new-du.png" alt="dance unlimited logo" style="height: 150px; width: auto;" class="m-2">
-                            </a>
-                        </div>
+{{--                        <div class="d-flex justify-content-center">--}}
+{{--                            <a href="/">--}}
+{{--                                <img src="/images-snow/logo-new-du.png" alt="dance unlimited logo" style="height: 150px; width: auto;" class="m-2">--}}
+{{--                            </a>--}}
+{{--                        </div>--}}
                         <ul class="text-center px-0 pb-3" style="list-style: none;">
                             @include("_nav-list")
                         </ul>
@@ -61,9 +61,9 @@
 
 <div class="d-none d-md-block">
     <div class="d-flex align-items-center justify-content-center">
-        <a href="/">
-            <img src="/images-snow/logo-new-du.png" alt="dance unlimited logo" style="height: 150px; width: auto;" class="m-2">
-        </a>
+{{--        <a href="/">--}}
+{{--            <img src="/images-snow/logo-new-du.png" alt="dance unlimited logo" style="height: 150px; width: auto;" class="m-2">--}}
+{{--        </a>--}}
         <ul class="nav text-center px-0 pb-3 justify-content-center">
             @include("_nav-list")
         </ul>

@@ -2,9 +2,10 @@
 @section('content')
 
 <div class="container px-4">
-    <div class="d-flex justify-content-center pb-4">
+    <div class="pb-4">
 {{--        <img src="/images-snow/header-dupac-crop.jpg" alt="" class="img-fluid rounded" style="filter: grayscale(100%);">--}}
-        <img src="/images/main-pic.jpg" alt="" class="img-fluid rounded" style="">
+{{--        <img src="/images/main-pic.jpg" alt="" class="img-fluid rounded" style="">--}}
+        <img src="/images-snow/logo-new-du.png" alt="dupac logo" style="height:200px; width: auto;">
     </div>
 
     <div class="pb-5">
@@ -49,11 +50,11 @@
 <div class="bg-white py-5">
     <div class="container px-4">
         <div class="d-flex justify-content-center pb-4">
-            <img src="/images/main-pic-spotlight.jpg" alt="" class="img-fluid rounded" style="">
+{{--            <img src="/images/main-pic-spotlight.jpg" alt="" class="img-fluid rounded" style="">--}}
         </div>
 
         <div class="pb-5">
-            <img src="/images-snow/logo-new-spotlight.png" alt="spotlight acting logo" class="img-fluid">
+            <img src="/images-snow/logo-new-spotlight.png" alt="spotlight acting logo" style="height: 200px; width: auto;">
             <h1>
                 <strong>spotlight acting academy</strong>
             </h1>
@@ -110,6 +111,19 @@
 
 <div class="py-5">
     <div class="container">
+        <img src="/images/logo-25-vibe.jpeg" alt="vibe logo" style="height: 200px; width: auto;">
+        <h1><strong>Vibe Competition Team</strong></h1>
+        <p>
+            The Vibe Dance Company was designed for dancers to have extra stage time and work with guest artists from all over the U.S. When we are looking for VIBE dancers we are looking for dancers with a true love and passion for dance and who enjoy working to acquire advanced level dancing skills. We love dancers who think dancing is FUN! Competition dancers are expected to work to be well rounded, resilient and enthusiastic! We compete Ballet, Tap, Jazz, Contemporary, Hip Hop, Music Theatre and Open.
+        </p>
+        <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
+            <a href="/vibe-audition" class="text-decoration-none text-dark fw-bold">Learn More</a>
+        </div>
+    </div>
+</div>
+
+<div class="bg-white py-5">
+    <div class="container px-4">
         <h2 class="text-center"><strong>DOWNLOAD OUR APP</strong></h2>
         <div class="d-flex justify-content-center">
             <img src="/images/DUPAC.png" alt="qr code for app" class="img-fluid" style="max-width: 250px; height: auto;">
