@@ -24,7 +24,7 @@
 {{--</li>--}}
 
 <li class="nav-item my-2">
-    <a class="nav-link txt-snow" href="/summer-camps">DU Summer</a>
+    <a class="nav-link txt-snow" href="/summer-camps">DU Summer Camp</a>
 </li>
 
 {{--<li class="nav-item dropdown my-2">--}}
