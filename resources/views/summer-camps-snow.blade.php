@@ -17,6 +17,7 @@
             <img src="/images/25-camp-2.png" alt="summer camps" class="img-fluid rounded shadow my-3">
             <img src="/images/25-camp-3.png" alt="summer camps" class="img-fluid rounded shadow my-3">
             <img src="/images/25-camp-4.png" alt="summer camps" class="img-fluid rounded shadow my-3">
+            <img src="/images/camp-wicked.png" alt="summer camps" class="img-fluid rounded shadow my-3">
         </div>
 {{--        <div class="row my-2">--}}
 {{--            <div class="col-sm-2"></div>--}}
