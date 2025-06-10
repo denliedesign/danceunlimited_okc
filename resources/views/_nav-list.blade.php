@@ -16,7 +16,11 @@
 {{--</li>--}}
 
 <li class="nav-item my-2">
-    <a class="nav-link txt-snow" href="/class-offerings">2025 Summer Classes</a>
+    <a class="nav-link txt-snow" href="/class-offerings">
+        2025 Summer Classes
+        <br>
+        <div>25/26 Season</div>
+    </a>
 </li>
 
 {{--<li class="nav-item my-2">--}}
@@ -48,7 +52,7 @@
     <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Spotlight Acting</a>
     <ul class="dropdown-menu">
         <li><a class="dropdown-item" href="/spotlight-schedule">Class Schedule</a></li>
-        <li><a class="dropdown-item" href="/spotlight-summer-camps">Camps</a></li>
+{{--        <li><a class="dropdown-item" href="/spotlight-summer-camps">Camps</a></li>--}}
 {{--        <li><a class="dropdown-item" href="/spotlight-tuition">Fees & Tuition</a></li>--}}
         <li><a class="dropdown-item" href="/spotlight-show">Show Info</a></li>
         <li><a class="dropdown-item" href="/spotlight-past-productions">Past Productions</a></li>

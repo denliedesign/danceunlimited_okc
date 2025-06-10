@@ -1,8 +1,9 @@
-<div class="row py-5">
-    <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
-        <img src="/images/shrek-24.jpg" alt="shrek show" class="img-fluid">
-        <img src="/images/curtain-call-24.jpg" alt="something rotten" class="img-fluid">
-    </div>
+
+{{--<div class="row py-5">--}}
+{{--    <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">--}}
+{{--        <img src="/images/shrek-24.jpg" alt="shrek show" class="img-fluid">--}}
+{{--        <img src="/images/curtain-call-24.jpg" alt="something rotten" class="img-fluid">--}}
+{{--    </div>--}}
 {{--    <h1><strong>coming up</strong></h1>--}}
 {{--    <p>Check back soon for details!</p>--}}
 {{--    <div class="col-sm">--}}
@@ -14,7 +15,7 @@
 {{--        <p class="my-1 text-center"><strong>Drowsy Chaperone</strong></p>--}}
 {{--    </div>--}}
 {{--    <div class="col-sm"></div>--}}
-</div>
+{{--</div>--}}
 
 {{--<div class="row">--}}
 {{--    <h1><strong>summer musicals</strong></h1>--}}

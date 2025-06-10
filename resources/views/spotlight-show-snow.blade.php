@@ -17,8 +17,18 @@
             All classes perform two productions each year - one in the fall and one in the spring. Productions are composed of songs, dances, and lines that must be memorized by the show.
         </p>
         <hr class="my-4">
+        <div class="d-flex justify-content-center">
+            <img src="/images/spotlight-show-and-class-info.jpg" alt="">
+        </div>
+        <hr class="my-4">
         <h2 class="text-center"><strong>Spotlight Audition Info</strong></h2>
-        <p class="text-center">Auditions have been concluded for this semester. Please check back for up-coming summer productions</p>
+{{--        <p class="text-center">Auditions have been concluded for this semester. Please check back for up-coming summer productions</p>--}}
+        <div class="row justify-content-around text-center">
+            <div class="col"><a target="_blank" class="text-white" href="/images/curtain-call.pdf">Curtain Call Fall 2025</a></div>
+            <div class="col"><a target="_blank" class="text-white" href="/images/broadway-bound.pdf">Broadway Bound Fall 2025</a></div>
+            <div class="col"><a target="_blank" class="text-white" href="/images/totally-drama.pdf">Totally Drama Fall 2025</a></div>
+            <div class="col"><a target="_blank" class="text-white" href="/images/take-stage.pdf">Take Stage Fall 2025</a></div>
+        </div>
     </div>
 
 {{--    <div class="bg-white py-5">--}}
@@ -28,6 +38,7 @@
 {{--    </div>--}}
 
     <div class="container py-5">
+        <hr class="my-4">
         <h2><strong>Students</strong></h2>
         <p>
             Spotlight Acting Academy faculty encourage all students to progress at their own rate within a nurturing and supportive class environment. The director will notify a parent if their child is ready to move to the next level. We appreciate your respect and cooperation in this matter. We love to give students the chance to play roles and ensemble. Getting kids out of their comfort zone with confidence is our speciality!

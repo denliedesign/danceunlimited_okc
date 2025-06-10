@@ -9,7 +9,7 @@
     <div class="container py-5">
         <h1 class="text-center"><strong>Spotlight Acting Class Schedule</strong></h1>
         <div class="d-flex justify-content-center my-4">
-            <img src="/images/spotlight-classes-24.jpg" alt="" class="img-fluid">
+            <img src="/images/spotlight-classes-25.png" alt="" class="img-fluid">
         </div>
 {{--        <p class="text-center">--}}
 {{--            Summer Info coming end of Jan 2024--}}
