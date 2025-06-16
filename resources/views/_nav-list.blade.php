@@ -44,7 +44,7 @@
     <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">DU Productions</a>
     <ul class="dropdown-menu">
         <li><a class="dropdown-item" href="/productions-winter">Winter Show</a></li>
-        <li><a class="dropdown-item" href="https://sites.google.com/danceunlimitedokc.org/durecital2025/home" target="_blank">Spring Show</a></li>
+        <li><a class="dropdown-item" href="/productions-spring">Spring Show</a></li>
     </ul>
 </li>
 
