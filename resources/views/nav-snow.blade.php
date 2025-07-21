@@ -1,34 +1,35 @@
 <div id="top" class="py-2" style="font-size: 0.9em;">
-    <div class="d-flex justify-content-center align-items-center">
-{{--        <div class="mx-3">--}}
-{{--            <a href="/">--}}
-{{--                <img src="/images-snow/logo-new-du.png" alt="dance unlimited logo" style="height: 115px; width: auto;">--}}
-{{--            </a>--}}
-{{--        </div>--}}
-        <div class="mx-3">
-            <ion-icon name="navigate"></ion-icon>
-            1217 E Hefner Road, OKC, OK 73131
-        </div>
-        <div class="mx-3">
-            <ion-icon name="call"></ion-icon>
-            405.242.4612
-        </div>
-        <div class="mx-3">
-            <ion-icon name="people"></ion-icon>
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeZj2aWG-mHVXJWx34_AdLzIevltHgNGBNVP-LhuI-hWjJLbg/viewform?usp=sf_link" target="_blank" class="text-decoration-none txt-snow">Join Our Team</a>
-        </div>
-        <div class="">
-            <div class="mx-3 d-block d-sm-block d-md-inline d-lg-inline">
+    <div class="container">
+        <div class="row">
+            {{--        <div class="mx-3">--}}
+            {{--            <a href="/">--}}
+            {{--                <img src="/images-snow/logo-new-du.png" alt="dance unlimited logo" style="height: 115px; width: auto;">--}}
+            {{--            </a>--}}
+            {{--        </div>--}}
+            <div class="col-md my-2 px-0 text-center">
+                <ion-icon name="navigate"></ion-icon>
+                1217 E Hefner Road, OKC, OK 73131
+            </div>
+            <div class="col-md my-2 px-0 text-center">
+                <ion-icon name="call"></ion-icon>
+                405.242.4612
+            </div>
+            <div class="col-md my-2 px-0 text-center">
+                <ion-icon name="people"></ion-icon>
+                <a href="https://docs.google.com/forms/d/e/1FAIpQLSeZj2aWG-mHVXJWx34_AdLzIevltHgNGBNVP-LhuI-hWjJLbg/viewform?usp=sf_link" target="_blank" class="text-decoration-none txt-snow">Join Our Team</a>
+            </div>
+            <div class="col-md my-2 px-0 text-center">
                 <div class="btn btn-light shadow px-5" style="border-radius: 20px;">
                     <a href="http://app.jackrabbitclass.com/regv2.asp?id=551313" target="_blank" class="text-decoration-none text-dark fw-bold">Enroll Here</a>
                 </div>
             </div>
-            <div class="mx-3 d-block d-sm-block d-md-inline d-lg-inline">
+            <div class="col-md my-2 px-0 text-center">
                 <div class="btn btn-outline-flip shadow px-5" style="border-radius: 20px; border: 3px solid white;">
                     {{--                <small class="text-center text-light">Existing Clients</small><br>--}}
                     <a href="https://app.jackrabbitclass.com/portal/ppLogin.asp?id=551313" target="_blank" class="text-decoration-none text-light fw-bold">Login Here</a>
                 </div>
             </div>
+
         </div>
     </div>
 </div>
