@@ -14,7 +14,7 @@
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
 {{--                <img src="/images/summer-dance-25.jpg" class="img-fluid my-3" alt="">--}}
                 <img src="/images/schedule-25-a.png" class="img-fluid my-3" alt="">
-                <img src="/images/schedule-25-b.png" class="img-fluid my-3" alt="">
+                <img src="/images/schedule-7-22-25-b.png" class="img-fluid my-3" alt="">
 {{--                <img src="/images/fall-dance-25-a.jpg" class="img-fluid my-3" alt="">--}}
 {{--                <img src="/images/fall-dance-25-b.jpg" class="img-fluid my-3" alt="">--}}
 {{--                <img src="/images/fall-dance-25-c.jpg" class="img-fluid my-3" alt="">--}}
