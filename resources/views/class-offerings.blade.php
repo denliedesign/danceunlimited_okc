@@ -8,11 +8,11 @@
 
     <div style="background: white;">
         <div class="container py-5">
-            <h1 class="text-center text-dark"><strong>2025 Summer Classes</strong></h1>
+{{--            <h1 class="text-center text-dark"><strong>2025 Summer Classes</strong></h1>--}}
             <h1 class="text-center text-dark"><strong>25/26 Season</strong></h1>
             <div class="d-flex justify-content-center"><a class="text-white text-center text-decoration-none" target="_blank" href="/images/tuition.png"><div class="btn btn-secondary">Tuition Info</div></a></div>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
-                <img src="/images/summer-dance-25.jpg" class="img-fluid my-3" alt="">
+{{--                <img src="/images/summer-dance-25.jpg" class="img-fluid my-3" alt="">--}}
                 <img src="/images/schedule-25-a.png" class="img-fluid my-3" alt="">
                 <img src="/images/schedule-25-b.png" class="img-fluid my-3" alt="">
 {{--                <img src="/images/fall-dance-25-a.jpg" class="img-fluid my-3" alt="">--}}

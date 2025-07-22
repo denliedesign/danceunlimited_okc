@@ -17,9 +17,7 @@
 
 <li class="nav-item my-2">
     <a class="nav-link txt-snow" href="/class-offerings">
-        2025 Summer Classes
-        <br>
-        <div>25/26 Season</div>
+        25/26 Season
     </a>
 </li>
 
@@ -27,9 +25,9 @@
 {{--    <a class="nav-link txt-snow" href="/du-pop-ups">DU Pop Ups</a>--}}
 {{--</li>--}}
 
-<li class="nav-item my-2">
-    <a class="nav-link txt-snow" href="/summer-camps">DU Summer Camp</a>
-</li>
+{{--<li class="nav-item my-2">--}}
+{{--    <a class="nav-link txt-snow" href="/summer-camps">DU Summer Camp</a>--}}
+{{--</li>--}}
 
 {{--<li class="nav-item dropdown my-2">--}}
 {{--    <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">DU Summer</a>--}}

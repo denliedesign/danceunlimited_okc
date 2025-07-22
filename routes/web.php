@@ -39,9 +39,9 @@ Route::get('fall-schedule', function () {
 //Route::get('summer-schedule', function () {
 //    return view('summer-schedule-snow');
 //});
-Route::get('summer-camps', function () {
-    return view('summer-camps-snow');
-});
+//Route::get('summer-camps', function () {
+//    return view('summer-camps-snow');
+//});
 Route::get('productions-winter', function () {
     return view('productions-winter-snow');
 });
