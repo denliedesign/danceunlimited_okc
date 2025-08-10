@@ -93,8 +93,9 @@
 
     <div class="bg-white py-5">
         <div class="container">
-                    <h1 class="text-center mb-5"><strong>About our Faculty</strong></h1>
-            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
+                    <h1 class="text-center"><strong>About our Faculty</strong></h1>
+            <p class="text-center"><strong>update coming soon</strong></p>
+            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4 mt-5">
                 <x-instructor modal="amy-reed" image="faculty-amy.jpg" name="Amy Reynolds-Reed" title="Owner/ Artistic Director/ Instructor" bio="
 <li class='my-2'> (Owner/Artistic Director/Dance Instructor) Opened Dance Unlimited in August 1999.
                 </li>

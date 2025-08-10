@@ -1,12 +1,14 @@
 <div class="col-sm">
     <div class="d-flex justify-content-center">
-        <div type="button" data-bs-toggle="modal" data-bs-target="#{{ $modal }}Modal">
-            <img src="/images/{{ $image }}" alt="headshot" class="shadow rounded"
-                 style="height: 350px; width: 100%; object-fit: cover;">
-        </div>
+{{--        <div type="button" data-bs-toggle="modal" data-bs-target="#{{ $modal }}Modal">--}}
+{{--            <img src="/images/{{ $image }}" alt="headshot" class="shadow rounded"--}}
+{{--                 style="height: 350px; width: 100%; object-fit: cover;">--}}
+
+{{--        </div>--}}
     </div>
     <div class="text-center mt-2">
-        <h2><strong>{{ $name }}</strong></h2>
+        <div type="button" data-bs-toggle="modal" data-bs-target="#{{ $modal }}Modal">
+            <h2><strong>{{ $name }}</strong></h2></div>
         <p>
             {{ $title }}
         </p>
