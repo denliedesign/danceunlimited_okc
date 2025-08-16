@@ -96,7 +96,7 @@
                     <h1 class="text-center"><strong>About our Faculty</strong></h1>
             <p class="text-center"><strong>update coming soon</strong></p>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4 mt-5">
-                <x-instructor modal="amy-reed" image="faculty-amy.jpg" name="Amy Reynolds-Reed" title="Owner/ Artistic Director/ Instructor" bio="
+                <x-instructor modal="amy-reed" image="/staff/AMY.jpg" name="Amy Reynolds-Reed" title="Owner/ Artistic Director/ Instructor" bio="
 <li class='my-2'> (Owner/Artistic Director/Dance Instructor) Opened Dance Unlimited in August 1999.
                 </li>
                 <li class='my-2'> Amy is a professional teacher/dancer with 30+ years’ experience as an instructor/dancer of jazz, classical ballet, tap, modern, music theatre, contemporary and pointe. Originally from Yukon, OK, and a graduate of the UCO Dance Program.
@@ -116,7 +116,7 @@
                 <li class='my-2'> Amy is also a very proud mom to Krayson and Ember!
                 </li>
 "/>
-                <x-instructor modal="jonathan-reed" image="staff-jonathan.jpg" name="Jonathan Beck Reed" title="Owner/ Spotlight Acting Director" bio="
+                <x-instructor modal="jonathan-reed" image="/staff/JONATHAN.jpg" name="Jonathan Beck Reed" title="Owner/ Spotlight Acting Director" bio="
 <li class='my-2'>Equity professional award winning stage, film and television Actor, Director, Designer, Arts Educator
                 </li>
                 <li class='my-2'>Founding Member and Associated Artist for Oklahoma City Repertory Theater (ala OKCREP)
@@ -140,7 +140,7 @@
 "/>
 
 
-                <x-instructor modal="chelsea" image="faculty-chelsea.jpg" name="chelsea jones" title="Faculty Management/ Lead instructor" bio="
+                <x-instructor modal="chelsea" image="/staff/CHELSEA.jpg" name="chelsea jones" title="Faculty Management/ Lead instructor" bio="
 <li class='my-2'>Has been with DU for 26 years first as student and 12 years teaching</li>
 <li class='my-2'>Member of the Vibe Dance Company / 6 years </li>
 <li class='my-2'>Current Head of the Dance Department at Heritage Hall </li>
@@ -162,8 +162,8 @@
 <li class='my-2'> Full-time ballet faculty at Oklahoma City University</li>
 <li class='my-2'> 9 years at Dance Unlimited - so lucky to be a part of this dance family!</li>
 "/>
-                <x-instructor modal="lesa" image="faculty-lesa.jpg" name="lesa determan" title="Dance Instructor" bio=""/>
-                <x-instructor modal="emily-ham" image="staff-emily.jpg" name="emily ham" title="Dance Instructor" bio="
+                <x-instructor modal="lesa" image="/staff/LESA.jpg" name="lesa determan" title="Dance Instructor" bio=""/>
+                <x-instructor modal="emily-ham" image="/staff/EMILY.jpg" name="emily ham" title="Dance Instructor" bio="
 <li class='my-2'>Emily was born and raised in Edmond, Oklahoma.</li>
 <li class='my-2'>Grew up dancing at Dance Unlimited Performing Arts Center. </li>
 <li class='my-2'>Pursued and Graduated from The University of Oklahoma, with a BFA in Modern Dance Performance. </li>
@@ -174,7 +174,7 @@
 <li class='my-2'>Recent: pursuing her passion for teaching dance, serving the community as a board member of the Oklahoma International Dance Festival, working for Mercy as a physical therapist assistant, and assisting with The Vibe Dance Company at DU. </li>
 
 "/>
-                <x-instructor modal="michelle-rambo" image="staff-michelle.jpg" name="michelle rambo" title="Dance Instructor" bio="
+                <x-instructor modal="michelle-rambo" image="/staff/MICHELLE-RAMBO.jpg" name="michelle rambo" title="Dance Instructor" bio="
 <li class='my-2'> BFA from the University of Central Oklahoma
 </li>
 <li class='my-2'> Returning for her 8 plus season with Dance Unlimited
@@ -199,7 +199,7 @@ Musical Theatre, OU Dance, Oklahoma City University, FableGcs, Southern Plain
 ProducGons and the Women that soar awards show to name a few.</li>
 "/>
 {{--                <x-instructor modal="jessica" image="staff-jessica.jpg" name="jessica cajina" title="Dance Instructor" bio=""/>--}}
-                <x-instructor modal="lily" image="faculty-lilly.jpg" name="lillian ball" title="Vibe Co. Director / Dance Instructor" bio="
+                <x-instructor modal="lily" image="/staff/LILLY.jpg" name="lillian ball" title="Vibe Co. Director / Dance Instructor" bio="
 <li class='my-2'> Bachelor of Science in Dance Management from Oklahoma City University
 </li>
 <li class='my-2'> Over 20 years of dance training in tap, ballet, pointe, lyrical, jazz, musical theater, ballroom, and hip hop
@@ -231,7 +231,7 @@ ProducGons and the Women that soar awards show to name a few.</li>
 <li class='my-2'> Choreography recently earned a bronze medal at the IDO World Tap Championship in Prague, Czech Republic
 </li>
 "/>
-                <x-instructor modal="cameelah-cook" image="faculty-cameelah.jpg" name="Cameelah Cook" title="Dance Instructor" bio="
+                <x-instructor modal="cameelah-cook" image="/staff/CAMEELAH.jpg" name="Cameelah Cook" title="Dance Instructor" bio="
 <li class='my-2'>   	Graduated with BFA in Modern Dance Performance from the University of Oklahoma
 </li>
 <li class='my-2'>   	This will be my 13th season with Dance Unlimited
@@ -251,7 +251,7 @@ ProducGons and the Women that soar awards show to name a few.</li>
 <li class='my-2'>   	I’m extremely grateful to get to share my love of dance with others everyday!
 </li>
 "/>
-                <x-instructor modal="alyssa" image="staff-alyssa-2.jpg" name="Alyssa Killingsworth" title="Acting Teacher" bio="
+                <x-instructor modal="alyssa" image="/staff/ALYSSA.jpg" name="Alyssa Killingsworth" title="Acting Teacher" bio="
 <li class='my-2'>Theater Education Student, University of Central Oklahoma</li>
 <li class='my-2'>3rd Year Spotlight Acting Teacher</li>
 <li class='my-2'>Assistant Director Matilda Summer at the Hall</li>
@@ -261,7 +261,7 @@ ProducGons and the Women that soar awards show to name a few.</li>
 <li class='my-2'>HUGE Swiftie</li>
 
 "/>
-                <x-instructor modal="sophia" image="staff-sophia.jpg" name="Sophia Dollenmeyer" title="Dance Instructor" bio="
+                <x-instructor modal="sophia" image="/staff/SOPHIA.jpg" name="Sophia Dollenmeyer" title="Dance Instructor" bio="
 <li class='my-2'>   originally from the greater Los Angeles area</li>
 <li class='my-2'>   	trained in commercial jazz, theater jazz, theater tap, rhythm tap, lyrical, contemporary, latin jazz, ballet, pointe and hip-hop</li>
 <li class='my-2'>   	Tremaine Dance Company assistant for five years</li>
@@ -287,8 +287,8 @@ ProducGons and the Women that soar awards show to name a few.</li>
 <li class='my-2'>'Whatever you do, work at it with all your heart, as if working for the Lord, not for human masters.' Colossians 3:23</li>
 
                 "/>
-                <x-instructor modal="kelly" image="faculty-kelly.jpg" name="Kelly Simmons" title="Dance Instructor" bio=""/>
-                <x-instructor modal="rachel" image="faculty-rachel.jpg" name="Rachel Kundzins" title="Dance Instructor" bio="
+                <x-instructor modal="kelly" image="/staff/KELLY.jpg" name="Kelly Simmons" title="Dance Instructor" bio=""/>
+                <x-instructor modal="rachel" image="/staff/RACHEL.jpg" name="Rachel Kundzins" title="Dance Instructor" bio="
 <li class='my-2'>Born in Halifax Nova Scotia. </li>
 <li class='my-2'>Trained classically with The East Coast Dance Academy, Maritime Conservatory, The Nutmeg Conservatory, and The Alberta School. </li>
 <li class='my-2'>Moved to OKC to join the Oklahoma City Ballet’s Second Company and later joined the Company as an apprentice. </li>
@@ -357,7 +357,7 @@ ProducGons and the Women that soar awards show to name a few.</li>
 <li class='my-2'>It is one of her many goals to keep intensive tap studies alive by teaching, choreographing and performing tap, and to honor the legacy of her late mentor, The Professor.</li>
 
 "/>
-                <x-instructor modal="hannah-mil" image="headshot-placeholder.jpg" name="Hannah Milner" title="Dance Instructor" bio="
+                <x-instructor modal="hannah-mil" image="/staff/HANNAH-MILNER.jpg" name="Hannah Milner" title="Dance Instructor" bio="
 <li class='my-2'>Degree in Bachelor of Science in American Dance Pedagogy from Oklahoma City University</li>
 <li class='my-2'>2 years as an administrative assistant at the Ann Lacy School of American Dance and Entertainment at OCU</li>
 <li class='my-2'>4 years at Harding Fine Arts Academy as the Director of Dance and 3 years as Fine Arts Department Head</li>
@@ -375,7 +375,7 @@ ProducGons and the Women that soar awards show to name a few.</li>
 <li class='my-2'>Former member of Performing Arts Centre’s competition team and St. Dominic’s Varsity Dance Team </li>
 
 "/>
-                <x-instructor modal="hope" image="headshot-placeholder.jpg" name="Hope Thornton" title="Dance Instructor" bio="
+                <x-instructor modal="hope" image="/staff/HOPE.jpg" name="Hope Thornton" title="Dance Instructor" bio="
 <li class='my-2'>Former performer with Flyte Asia Dance Company </li>
 <li class='my-2'>Former dance instructor and choreographer for Kings Gate Private Christian School </li>
 <li class='my-2'>Over 20 years of dance experience</li>
@@ -405,7 +405,7 @@ ProducGons and the Women that soar awards show to name a few.</li>
 <li class='my-2'>Excited for my 6th year teaching, directing, choreographing, and inspiring! </li>
 
 "/>
-                <x-instructor modal="morgan" image="headshot-placeholder.jpg" name="Morgan Tillman" title="Dance Instructor / Teaching Assistant" bio="
+                <x-instructor modal="morgan" image="/staff/MORGAN.jpg" name="Morgan Tillman" title="Dance Instructor / Teaching Assistant" bio="
 
 <li class='my-2'>          	From Norman OK!
 </li>
