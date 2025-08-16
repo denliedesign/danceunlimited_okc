@@ -94,7 +94,7 @@
     <div class="bg-white py-5">
         <div class="container">
                     <h1 class="text-center"><strong>About our Faculty</strong></h1>
-            <p class="text-center"><strong>update coming soon</strong></p>
+{{--            <p class="text-center"><strong>update coming soon</strong></p>--}}
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4 mt-5">
                 <x-instructor modal="amy-reed" image="/staff/AMY.jpg" name="Amy Reynolds-Reed" title="Owner/ Artistic Director/ Instructor" bio="
 <li class='my-2'> (Owner/Artistic Director/Dance Instructor) Opened Dance Unlimited in August 1999.
@@ -153,15 +153,15 @@
 
 "/>
 {{--                <x-instructor modal="makenzie" image="staff-makenzie.jpg" name="makenzie ford" title="Spotlight Associate Director/ Voice/ Instructor" bio=""/>--}}
-                <x-instructor modal="keyna-new" image="faculty-keyna.jpg" name="keyna allen" title="Vibe Team Financial Administrator" bio="
-<li class='my-2'> Bachelor’s Degree in Dance Performance from Oklahoma City University</li>
-<li class='my-2'> Certified in American Ballet Theatre’s National Training Curriculum level Pre-Primary through level 5</li>
-<li class='my-2'> YPAD Certified</li>
-<li class='my-2'> 2 years teaching ballet and tap at Classen School of Advanced Studies Middle School</li>
-<li class='my-2'> Professional Performance Credits: Lyric Theatre OKC, Music Theatre Wichita, Larrwell Productions, Silvertree Productions</li>
-<li class='my-2'> Full-time ballet faculty at Oklahoma City University</li>
-<li class='my-2'> 9 years at Dance Unlimited - so lucky to be a part of this dance family!</li>
-"/>
+{{--                <x-instructor modal="keyna-new" image="faculty-keyna.jpg" name="keyna allen" title="Vibe Team Financial Administrator" bio="--}}
+{{--<li class='my-2'> Bachelor’s Degree in Dance Performance from Oklahoma City University</li>--}}
+{{--<li class='my-2'> Certified in American Ballet Theatre’s National Training Curriculum level Pre-Primary through level 5</li>--}}
+{{--<li class='my-2'> YPAD Certified</li>--}}
+{{--<li class='my-2'> 2 years teaching ballet and tap at Classen School of Advanced Studies Middle School</li>--}}
+{{--<li class='my-2'> Professional Performance Credits: Lyric Theatre OKC, Music Theatre Wichita, Larrwell Productions, Silvertree Productions</li>--}}
+{{--<li class='my-2'> Full-time ballet faculty at Oklahoma City University</li>--}}
+{{--<li class='my-2'> 9 years at Dance Unlimited - so lucky to be a part of this dance family!</li>--}}
+{{--"/>--}}
                 <x-instructor modal="lesa" image="/staff/LESA.jpg" name="lesa determan" title="Dance Instructor" bio=""/>
                 <x-instructor modal="emily-ham" image="/staff/EMILY.jpg" name="emily ham" title="Dance Instructor" bio="
 <li class='my-2'>Emily was born and raised in Edmond, Oklahoma.</li>
@@ -320,8 +320,8 @@ ProducGons and the Women that soar awards show to name a few.</li>
 <li class='my-2'>   	DU instructor for 10 years
 </li>
 "/>
-                <x-instructor modal="nicole" image="faculty-nicole.jpg" name="nicole vaughn" title="Customer Care team & Dance Instructor" bio=""/>
-                <x-instructor modal="hannah-m" image="faculty-hannah.jpg" name="hannah malinoski" title="Customer Care team" bio=""/>
+{{--                <x-instructor modal="nicole" image="faculty-nicole.jpg" name="nicole vaughn" title="Customer Care team & Dance Instructor" bio=""/>--}}
+{{--                <x-instructor modal="hannah-m" image="faculty-hannah.jpg" name="hannah malinoski" title="Customer Care team" bio=""/>--}}
                 <x-instructor modal="jane-k" image="headshot-placeholder.jpg" name="Jane Kingrey" title="Dance Insturctor" bio="
 <li class='my-2'>       DU and Vibe alumni
 </li>
@@ -349,7 +349,7 @@ ProducGons and the Women that soar awards show to name a few.</li>
 <li class='my-2'>       Passionate about finding a balance between teaching and continuing her own career as a performer
 </li>
 "/>
-                <x-instructor modal="megan" image="headshot-placeholder.jpg" name="Megan Murray" title="Dance Instructor" bio="
+                <x-instructor modal="megan" image="/staff/MEGAN.jpg" name="Megan Murray" title="Dance Instructor" bio="
 <li class='my-2'>Megan began tap dancing at 8 years old under the directorship of Prof. Robert L. Reed. </li>
 <li class='my-2'>She has travelled all over the country learning from other tap master’s and performing in showcases in New York, Detroit, and St. Louis. </li>
 <li class='my-2'>She has performed the choreography of greats such as Jason Samuels-Smith, Gregg Russell, Cathie Nicholas (Nicholas Brothers), Bill Irwin, and won awards such as Most Innovative Tap Teacher and the Barebones Trailblazer Award.</li>
@@ -384,7 +384,7 @@ ProducGons and the Women that soar awards show to name a few.</li>
 <li class='my-2'>Excited to start her second year as DU faculty</li>
 
 "/>
-                <x-instructor modal="blakely" image="headshot-placeholder.jpg" name="Blakely Arledge" title="Customer Care Team/ Dance Instructor" bio="
+                <x-instructor modal="blakely" image="/staff/BLAKELY.jpg" name="Blakely Arledge" title="Customer Care Team/ Dance Instructor" bio="
 <li class='my-2'>Former Professional NBA dancer for the Oklahoma City Thunder - 2 seasons</li>
 <li class='my-2'>Competitive dancer for 15 + years</li>
 <li class='my-2'>Former member / part time choreographer for Deer Creek pom</li>
@@ -396,7 +396,7 @@ ProducGons and the Women that soar awards show to name a few.</li>
 <li class='my-2'>I love my dog and cat</li>
 
 "/>
-                <x-instructor modal="brigitte" image="headshot-placeholder.jpg" name="Brigitte Goulart" title="Customer Care Team/ Dance Instructor" bio="
+                <x-instructor modal="brigitte" image="/staff/BRIGITTE.jpg" name="Brigitte Goulart" title="Customer Care Team/ Dance Instructor" bio="
 <li class='my-2'>Graduate from Oklahoma City University with a BFA in Acting</li>
 <li class='my-2'>4x RACE Dance Company Member</li>
 <li class='my-2'>RACE Dance Collective Instructor / 4 years (Tap, Jazz, Musical Theatre, Heels)</li>
