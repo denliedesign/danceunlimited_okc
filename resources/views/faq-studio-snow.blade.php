@@ -9,6 +9,11 @@
     <div class="container py-5">
         <h1 class="text-center"><strong>Studio</strong></h1>
 
+        <div class="row">
+            <div class="col d-flex justify-content-end"><img src="/images/logo-mtjgd.png" style="max-width: 250px; width: 100%; height: auto;" alt=""></div>
+            <div class="col d-flex justify-content-start"><img src="/images/logo-safer-studio-crop.png" style="max-width: 250px; width: 100%; height: auto;" alt=""></div>
+        </div>
+
         <p class="text-center mt-5">
             Our facility consists of four dance studios and one acting/dance studio and a voice studio. We have a professional faculty and floating wood floors for long-term body/joint protection.
             <br><br>

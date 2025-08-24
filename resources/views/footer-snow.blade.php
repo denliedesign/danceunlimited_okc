@@ -25,10 +25,10 @@
                             </div>
                             <div class="col-10">
                                 <ul class="list-unstyled">
-                                    <li> 10am-9pm</li>
-                                    <li> 10am-9pm</li>
-                                    <li> 10am-9pm</li>
-                                    <li> 3pm-9pm</li>
+                                    <li> 2pm-10pm</li>
+                                    <li> 2pm-10pm</li>
+                                    <li> 2pm-10pm</li>
+                                    <li> 2pm-10pm</li>
                                     <li> Closed</li>
                                     <li> Closed</li>
                                     <li> Closed</li>
