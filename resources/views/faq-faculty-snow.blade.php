@@ -162,7 +162,31 @@
 {{--<li class='my-2'> Full-time ballet faculty at Oklahoma City University</li>--}}
 {{--<li class='my-2'> 9 years at Dance Unlimited - so lucky to be a part of this dance family!</li>--}}
 {{--"/>--}}
-                <x-instructor modal="lesa" image="/staff/LESA.jpg" name="lesa determan" title="Dance Instructor" bio=""/>
+                <x-instructor modal="lesa-new" image="/staff/LESA.jpg" name="lesa determan" title="Dance Instructor" bio="
+
+<li class='my-2'>Lesa began dancing at the age of three at Applause Studios in Oklahoma City under the direction of Patricia Oplontnik.
+</li>
+<li class='my-2'>She became a member of the competition company at the age of eight and continued competing through high school.
+</li>
+<li class='my-2'>Lesa had the opportunity to study with various professional artists such as Keith Clifton, Rhonda Miller, Greg Russel, and Jeff Amsden.
+</li>
+<li class='my-2'>In 1997, Lesa competed in the Miss Dance of Oklahoma competition taking 5th place and going on to compete at the Dance Masters of America National Convention in Orlando, FL taking 2nd runner up in her age division.
+</li>
+<li class='my-2'>After graduating high school in 1998, she went to the University of Central Oklahoma where she was a member of the Kaleidoscope Dancers Company for four years.
+</li>
+<li class='my-2'>During her college career, Lesa toured to various middle schools and high schools performing for children of all ages.
+</li>
+<li class='my-2'>She also performed in Opening Night in Bricktown
+</li>
+<li class='my-2'>Attended the American College Dance Festival and was selected to perform in the closing Gala.
+</li>
+<li class='my-2'>Lesa graduated with a Bachelor’s of Business Administration in 2003.
+</li>
+<li class='my-2'>She has taught here at Dance Unlimited PAC for the past 26 years.
+</li>
+<li class='my-2'> Lesa is YPAD certified
+</li>
+"/>
                 <x-instructor modal="emily-ham" image="/staff/EMILY.jpg" name="emily ham" title="Dance Instructor" bio="
 <li class='my-2'>Emily was born and raised in Edmond, Oklahoma.</li>
 <li class='my-2'>Grew up dancing at Dance Unlimited Performing Arts Center. </li>
@@ -287,7 +311,21 @@ ProducGons and the Women that soar awards show to name a few.</li>
 <li class='my-2'>'Whatever you do, work at it with all your heart, as if working for the Lord, not for human masters.' Colossians 3:23</li>
 
                 "/>
-                <x-instructor modal="kelly" image="/staff/KELLY.jpg" name="Kelly Simmons" title="Dance Instructor" bio=""/>
+                <x-instructor modal="kelly" image="/staff/KELLY.jpg" name="Kelly Simmons" title="Dance Instructor" bio="
+﻿
+<li class='my-2'>Graduated from OCU as a Bachelor of Performing Arts in Dance
+</li>
+<li class='my-2'>Performed with Lyric Theater in various shows for the 2006 and 2007 seasons
+</li>
+<li class='my-2'>Has been teaching at Dance Unlimited for 4 years (not consecutively)
+</li>
+<li class='my-2'>Graduated from OU Health Sciences Center as a Doctor of Physical Therapy
+</li>
+<li class='my-2'>Has worked as a Physical Therapist at Oklahoma Children’s Hospital for 14 years and currently is the Manager of Pediatric Rehabilitation Services
+</li>
+<li class='my-2'>3 kids at DU: Jaxon (piano), Kadence (dance, Vibe), Jameson (acting, voice, piano)
+</li>
+"/>
                 <x-instructor modal="rachel" image="/staff/RACHEL.jpg" name="Rachel Kundzins" title="Dance Instructor" bio="
 <li class='my-2'>Born in Halifax Nova Scotia. </li>
 <li class='my-2'>Trained classically with The East Coast Dance Academy, Maritime Conservatory, The Nutmeg Conservatory, and The Alberta School. </li>
