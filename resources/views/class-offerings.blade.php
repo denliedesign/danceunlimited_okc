@@ -13,8 +13,8 @@
             <div class="d-flex justify-content-center"><a class="text-white text-center text-decoration-none" target="_blank" href="/images/tuition.png"><div class="btn btn-secondary">Tuition Info</div></a></div>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
 {{--                <img src="/images/summer-dance-25.jpg" class="img-fluid my-3" alt="">--}}
-                <img src="/images/schedule-8-16-25-a.jpg" class="img-fluid my-3" alt="">
-                <img src="/images/schedule-8-16-25-b.jpg" class="img-fluid my-3" alt="">
+{{--                <img src="/images/schedule-8-16-25-a.jpg" class="img-fluid my-3" alt="">--}}
+{{--                <img src="/images/schedule-8-16-25-b.jpg" class="img-fluid my-3" alt="">--}}
 {{--                <img src="/images/fall-dance-25-a.jpg" class="img-fluid my-3" alt="">--}}
 {{--                <img src="/images/fall-dance-25-b.jpg" class="img-fluid my-3" alt="">--}}
 {{--                <img src="/images/fall-dance-25-c.jpg" class="img-fluid my-3" alt="">--}}
