@@ -15,8 +15,8 @@
             The Vibe Dance Company was designed for dancers to have extra stage time and work with guest artists from all over the U.S. When we are looking for VIBE dancers we are looking for dancers with a true love and passion for dance and who enjoy working to acquire advanced level dancing skills. We love dancers who think dancing is FUN! Competition dancers are expected to work to be well rounded, resilient and enthusiastic! We compete Ballet, Tap, Jazz, Contemporary, Hip Hop, Music Theatre and Open.
             <br>
             If you have any questions please contact us at <a href="mailto:vibedanceokc@gmail.com" class="text-white">vibedanceokc@gmail.com</a>
-            <br><br>
-            Auditions for 25/26 team will be week of May 19th, 2025
+{{--            <br><br>--}}
+{{--            Auditions for 25/26 team will be week of May 19th, 2025--}}
         </p>
         <div class="d-flex justify-content-center">
             <div class="btn btn-light shadow px-5" style="border-radius: 20px;">

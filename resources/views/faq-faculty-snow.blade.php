@@ -326,13 +326,13 @@ ProducGons and the Women that soar awards show to name a few.</li>
 <li class='my-2'>3 kids at DU: Jaxon (piano), Kadence (dance, Vibe), Jameson (acting, voice, piano)
 </li>
 "/>
-                <x-instructor modal="rachel" image="/staff/RACHEL.jpg" name="Rachel Kundzins" title="Dance Instructor" bio="
-<li class='my-2'>Born in Halifax Nova Scotia. </li>
-<li class='my-2'>Trained classically with The East Coast Dance Academy, Maritime Conservatory, The Nutmeg Conservatory, and The Alberta School. </li>
-<li class='my-2'>Moved to OKC to join the Oklahoma City Ballet’s Second Company and later joined the Company as an apprentice. </li>
-<li class='my-2'>She looks forward to continuing to share her experience and love of ballet with all her students this year! </li>
+{{--                <x-instructor modal="rachel" image="/staff/RACHEL.jpg" name="Rachel Kundzins" title="Dance Instructor" bio="--}}
+{{--<li class='my-2'>Born in Halifax Nova Scotia. </li>--}}
+{{--<li class='my-2'>Trained classically with The East Coast Dance Academy, Maritime Conservatory, The Nutmeg Conservatory, and The Alberta School. </li>--}}
+{{--<li class='my-2'>Moved to OKC to join the Oklahoma City Ballet’s Second Company and later joined the Company as an apprentice. </li>--}}
+{{--<li class='my-2'>She looks forward to continuing to share her experience and love of ballet with all her students this year! </li>--}}
 
-"/>
+{{--"/>--}}
                 <x-instructor modal="hannah-b" image="headshot-placeholder.jpg" name="Hannah Buchanan" title="Dance Instructor" bio="
 <li class='my-2'>BBA in Management Information Systems and Accounting from the University of Oklahoma</li>
 <li class='my-2'>Looking forward to her 2nd year teaching Starlette Classes at DU!</li>
@@ -406,22 +406,22 @@ ProducGons and the Women that soar awards show to name a few.</li>
 <li class='my-2'>This year, I am excited to help dancers grow in their technique, foster their love of dance and build a strong community within the classroom. I cannot wait to meet everyone!</li>
 
 "/>
-                <x-instructor modal="lacey" image="headshot-placeholder.jpg" name="Lacey Fowler" title="Dance Instructor" bio="
-<li class='my-2'>Senior dance performance major at Oklahoma City University</li>
-<li class='my-2'>Performance credits: Lyric Theatre of Oklahoma, Star Dance Company, OCU Pep Dancers</li>
-<li class='my-2'>Dance instructor at Performing Arts Centre in St. Charles, MO and Angie’s Studio of Dance and Tumbling in Wentzville, MO</li>
-<li class='my-2'>Former member of Performing Arts Centre’s competition team and St. Dominic’s Varsity Dance Team </li>
+{{--                <x-instructor modal="lacey" image="headshot-placeholder.jpg" name="Lacey Fowler" title="Dance Instructor" bio="--}}
+{{--<li class='my-2'>Senior dance performance major at Oklahoma City University</li>--}}
+{{--<li class='my-2'>Performance credits: Lyric Theatre of Oklahoma, Star Dance Company, OCU Pep Dancers</li>--}}
+{{--<li class='my-2'>Dance instructor at Performing Arts Centre in St. Charles, MO and Angie’s Studio of Dance and Tumbling in Wentzville, MO</li>--}}
+{{--<li class='my-2'>Former member of Performing Arts Centre’s competition team and St. Dominic’s Varsity Dance Team </li>--}}
 
-"/>
-                <x-instructor modal="hope" image="/staff/HOPE.jpg" name="Hope Thornton" title="Dance Instructor" bio="
-<li class='my-2'>Former performer with Flyte Asia Dance Company </li>
-<li class='my-2'>Former dance instructor and choreographer for Kings Gate Private Christian School </li>
-<li class='my-2'>Over 20 years of dance experience</li>
-<li class='my-2'>10 years of teaching experience </li>
-<li class='my-2'>Youth pastor at All Saints Community Church</li>
-<li class='my-2'>Excited to start her second year as DU faculty</li>
+{{--"/>--}}
+{{--                <x-instructor modal="hope" image="/staff/HOPE.jpg" name="Hope Thornton" title="Dance Instructor" bio="--}}
+{{--<li class='my-2'>Former performer with Flyte Asia Dance Company </li>--}}
+{{--<li class='my-2'>Former dance instructor and choreographer for Kings Gate Private Christian School </li>--}}
+{{--<li class='my-2'>Over 20 years of dance experience</li>--}}
+{{--<li class='my-2'>10 years of teaching experience </li>--}}
+{{--<li class='my-2'>Youth pastor at All Saints Community Church</li>--}}
+{{--<li class='my-2'>Excited to start her second year as DU faculty</li>--}}
 
-"/>
+{{--"/>--}}
                 <x-instructor modal="blakely" image="/staff/BLAKELY.jpg" name="Blakely Arledge" title="Customer Care Team/ Dance Instructor" bio="
 <li class='my-2'>Former Professional NBA dancer for the Oklahoma City Thunder - 2 seasons</li>
 <li class='my-2'>Competitive dancer for 15 + years</li>

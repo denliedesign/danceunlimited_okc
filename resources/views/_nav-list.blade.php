@@ -17,7 +17,7 @@
 
 <li class="nav-item my-2">
     <a class="nav-link txt-snow" href="/class-offerings">
-        25/26 Season
+        Summer & 26/27 Season
     </a>
 </li>
 
@@ -38,13 +38,13 @@
 {{--    </ul>--}}
 {{--</li>--}}
 
-<li class="nav-item dropdown my-2">
-    <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">DU Productions</a>
-    <ul class="dropdown-menu">
-        <li><a class="dropdown-item" href="/productions-winter">Winter Show</a></li>
-        <li><a class="dropdown-item" href="/productions-spring">Spring Show</a></li>
-    </ul>
-</li>
+{{--<li class="nav-item dropdown my-2">--}}
+{{--    <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">DU Productions</a>--}}
+{{--    <ul class="dropdown-menu">--}}
+{{--        <li><a class="dropdown-item" href="/productions-winter">Winter Show</a></li>--}}
+{{--        <li><a class="dropdown-item" href="/productions-spring">Spring Show</a></li>--}}
+{{--    </ul>--}}
+{{--</li>--}}
 
 <li class="nav-item dropdown my-2">
     <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Spotlight Acting</a>
@@ -52,7 +52,7 @@
         <li><a class="dropdown-item" href="/spotlight-schedule">Class Schedule</a></li>
 {{--        <li><a class="dropdown-item" href="/spotlight-summer-camps">Camps</a></li>--}}
 {{--        <li><a class="dropdown-item" href="/spotlight-tuition">Fees & Tuition</a></li>--}}
-        <li><a class="dropdown-item" href="/spotlight-show">Show Info</a></li>
+{{--        <li><a class="dropdown-item" href="/spotlight-show">Show Info</a></li>--}}
         <li><a class="dropdown-item" href="/spotlight-past-productions">Past Productions</a></li>
         <li><a class="dropdown-item" href="/spotlight-voice">Voice</a></li>
     </ul>
