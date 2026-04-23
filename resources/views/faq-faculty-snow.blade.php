@@ -434,15 +434,15 @@ ProducGons and the Women that soar awards show to name a few.</li>
 <li class='my-2'>I love my dog and cat</li>
 
 "/>
-                <x-instructor modal="brigitte" image="/staff/BRIGITTE.jpg" name="Brigitte Goulart" title="Customer Care Team/ Dance Instructor" bio="
-<li class='my-2'>Graduate from Oklahoma City University with a BFA in Acting</li>
-<li class='my-2'>4x RACE Dance Company Member</li>
-<li class='my-2'>RACE Dance Collective Instructor / 4 years (Tap, Jazz, Musical Theatre, Heels)</li>
-<li class='my-2'>Local Choreographer & Director (Classen SAS @ NE, Oklahoma Children's Theatre, etc.)</li>
-<li class='my-2'>Performance Credits: Oklahoma Children's Theatre, Oklahoma Repertory Theatre, OKC Improv, The Polar Express Train Rides, etc.)</li>
-<li class='my-2'>Excited for my 6th year teaching, directing, choreographing, and inspiring! </li>
+{{--                <x-instructor modal="brigitte" image="/staff/BRIGITTE.jpg" name="Brigitte Goulart" title="Customer Care Team/ Dance Instructor" bio="--}}
+{{--<li class='my-2'>Graduate from Oklahoma City University with a BFA in Acting</li>--}}
+{{--<li class='my-2'>4x RACE Dance Company Member</li>--}}
+{{--<li class='my-2'>RACE Dance Collective Instructor / 4 years (Tap, Jazz, Musical Theatre, Heels)</li>--}}
+{{--<li class='my-2'>Local Choreographer & Director (Classen SAS @ NE, Oklahoma Children's Theatre, etc.)</li>--}}
+{{--<li class='my-2'>Performance Credits: Oklahoma Children's Theatre, Oklahoma Repertory Theatre, OKC Improv, The Polar Express Train Rides, etc.)</li>--}}
+{{--<li class='my-2'>Excited for my 6th year teaching, directing, choreographing, and inspiring! </li>--}}
 
-"/>
+{{--"/>--}}
                 <x-instructor modal="morgan" image="/staff/MORGAN.jpg" name="Morgan Tillman" title="Dance Instructor / Teaching Assistant" bio="
 
 <li class='my-2'>          	From Norman OK!
