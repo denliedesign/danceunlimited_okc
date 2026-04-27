@@ -16,7 +16,7 @@
 {{--</li>--}}
 
 <li class="nav-item my-2"><a class="nav-link txt-snow" href="/class-offerings">26/27 Season</a></li>
-<li class="nav-item my-2"><a class="nav-link txt-snow" href="summer-schedule">Summer</a></li>
+<li class="nav-item my-2"><a class="nav-link txt-snow" href="/summer-schedule">Summer</a></li>
 
 {{--<li class="nav-item my-2">--}}
 {{--    <a class="nav-link txt-snow" href="/du-pop-ups">DU Pop Ups</a>--}}
