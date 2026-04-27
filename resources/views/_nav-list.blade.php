@@ -15,11 +15,8 @@
 {{--    </ul>--}}
 {{--</li>--}}
 
-<li class="nav-item my-2">
-    <a class="nav-link txt-snow" href="/class-offerings">
-        Summer & 26/27 Season
-    </a>
-</li>
+<li class="nav-item my-2"><a class="nav-link txt-snow" href="/class-offerings">26/27 Season</a></li>
+<li class="nav-item my-2"><a class="nav-link txt-snow" href="/summer-schedule">Summer</a></li>
 
 {{--<li class="nav-item my-2">--}}
 {{--    <a class="nav-link txt-snow" href="/du-pop-ups">DU Pop Ups</a>--}}
@@ -46,27 +43,22 @@
 {{--    </ul>--}}
 {{--</li>--}}
 
-<li class="nav-item dropdown my-2">
-    <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Spotlight Acting</a>
-    <ul class="dropdown-menu">
-        <li><a class="dropdown-item" href="/spotlight-schedule">Class Schedule</a></li>
-{{--        <li><a class="dropdown-item" href="/spotlight-summer-camps">Camps</a></li>--}}
-{{--        <li><a class="dropdown-item" href="/spotlight-tuition">Fees & Tuition</a></li>--}}
-{{--        <li><a class="dropdown-item" href="/spotlight-show">Show Info</a></li>--}}
-        <li><a class="dropdown-item" href="/spotlight-past-productions">Past Productions</a></li>
-        <li><a class="dropdown-item" href="/spotlight-voice">Voice</a></li>
-    </ul>
-</li>
+{{--<li class="nav-item dropdown my-2">--}}
+{{--    <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Spotlight Acting</a>--}}
+{{--    <ul class="dropdown-menu">--}}
+{{--        <li><a class="dropdown-item" href="/spotlight-schedule">Class Schedule</a></li>--}}
+{{--        <li><a class="dropdown-item" href="/spotlight-past-productions">Past Productions</a></li>--}}
+{{--        <li><a class="dropdown-item" href="/spotlight-voice">Voice</a></li>--}}
+{{--    </ul>--}}
+{{--</li>--}}
 
-<li class="nav-item dropdown my-2">
-    <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Vibe Competition Team</a>
-    <ul class="dropdown-menu">
-        <li><a class="dropdown-item" href="/vibe-audition">Audition Info</a></li>
-{{--        <li><a class="dropdown-item" href="/images/24-vibe-policy.pdf" target="_blank">Policy Book</a></li>--}}
-{{--        <li><a class="dropdown-item" href="/images-snow/23-24-vibe-contract.pdf" target="_blank">Contract</a></li>--}}
-        <li><a class="dropdown-item" href="/vibe-days-gone-by">Days Gone By</a></li>
-    </ul>
-</li>
+{{--<li class="nav-item dropdown my-2">--}}
+{{--    <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Vibe Competition Team</a>--}}
+{{--    <ul class="dropdown-menu">--}}
+{{--        <li><a class="dropdown-item" href="/vibe-audition">Audition Info</a></li>--}}
+{{--        <li><a class="dropdown-item" href="/vibe-days-gone-by">Days Gone By</a></li>--}}
+{{--    </ul>--}}
+{{--</li>--}}
 
 <li class="nav-item dropdown my-2">
     <a class="nav-link txt-snow dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">FAQs</a>

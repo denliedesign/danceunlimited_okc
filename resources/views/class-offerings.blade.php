@@ -9,8 +9,8 @@
     <div style="background: white;">
         <div class="container py-5">
 {{--            <h1 class="text-center text-dark"><strong>2025 Summer Classes</strong></h1>--}}
-            <h1 class="text-center text-dark"><strong>Summer & 26/27 Season</strong></h1>
-            <div class="d-flex justify-content-center"><a class="text-white text-center text-decoration-none" target="_blank" href="/images/tuition.png"><div class="btn btn-secondary">Tuition Info</div></a></div>
+            <h1 class="text-center text-dark mb-5"><strong>26/27 Season</strong></h1>
+{{--            <div class="d-flex justify-content-center"><a class="text-white text-center text-decoration-none" target="_blank" href="/images/tuition.png"><div class="btn btn-secondary">Tuition Info</div></a></div>--}}
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
 {{--                <img src="/images/summer-dance-25.jpg" class="img-fluid my-3" alt="">--}}
 {{--                <img src="/images/schedule-8-16-25-a.jpg" class="img-fluid my-3" alt="">--}}
@@ -19,7 +19,14 @@
 {{--                <img src="/images/fall-dance-25-b.jpg" class="img-fluid my-3" alt="">--}}
 {{--                <img src="/images/fall-dance-25-c.jpg" class="img-fluid my-3" alt="">--}}
             </div>
-            <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=551313&Hidecols=gender,description,openings,session,tuition&style=font-family:Arial"></script>
+            <div>
+                <h3 class="fw-bold text-black">Starlette Dance</h3>
+                <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=551313&Session=2026-2027%20Starlette%20Dance&Hidecols=gender,description,openings,session,tuition&style=font-family:Arial"></script>
+            </div>
+            <div>
+                <h3 class="fw-bold text-black">Jr/Tn Dance</h3>
+                <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=551313&Session=2026%20-%202027%20Jr%2FTn%20Dance&Hidecols=gender,description,openings,session,tuition&style=font-family:Arial"></script>
+            </div>
         </div>
     </div>
     <script>

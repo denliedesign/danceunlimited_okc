@@ -6,25 +6,66 @@
         <div class="banner"></div>
     </div>
 
-    <div class="container py-5">
-        <h1 class="text-center"><strong>Spotlight Acting Class Schedule</strong></h1>
-        <div class="d-flex justify-content-center my-4">
-            <img src="/images/spotlight-classes-25.png" alt="" class="img-fluid">
+    <div style="background: white;">
+        <div class="container py-5">
+            {{--            <h1 class="text-center text-dark"><strong>2025 Summer Classes</strong></h1>--}}
+            <h1 class="text-center text-dark mb-5"><strong>26/27 Spotlight Acting</strong></h1>
+{{--            <div class="d-flex justify-content-center"><a class="text-white text-center text-decoration-none" target="_blank" href="/images/tuition.png"><div class="btn btn-secondary">Tuition Info</div></a></div>--}}
+            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
+                {{--                <img src="/images/summer-dance-25.jpg" class="img-fluid my-3" alt="">--}}
+                {{--                <img src="/images/schedule-8-16-25-a.jpg" class="img-fluid my-3" alt="">--}}
+                {{--                <img src="/images/schedule-8-16-25-b.jpg" class="img-fluid my-3" alt="">--}}
+                {{--                <img src="/images/fall-dance-25-a.jpg" class="img-fluid my-3" alt="">--}}
+                {{--                <img src="/images/fall-dance-25-b.jpg" class="img-fluid my-3" alt="">--}}
+                {{--                <img src="/images/fall-dance-25-c.jpg" class="img-fluid my-3" alt="">--}}
+            </div>
+            <div>
+                <h3 class="fw-bold text-black">Spotlight Acting Class</h3>
+                <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=551313&Session=2026-2027%20Spotlight%20Acting%20Class&Hidecols=gender,description,openings,session,tuition&style=font-family:Arial"></script>
+            </div>
+            <div>
+                <h3 class="fw-bold text-black">Spotlight Acting Production</h3>
+                <script type="text/javascript" src="https://app.jackrabbitclass.com/jr3.0/Openings/OpeningsJS?OrgID=551313&Session=2026-2027%20Spotlight%20Acting%20Production&Hidecols=gender,description,openings,session,tuition&style=font-family:Arial"></script>
+            </div>
+            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
+                <div class="col-sm d-flex align-items-center"><img src="/images/spot-1.jpg" alt="actors" class="img-fluid shadow rounded"></div>
+                <div class="col-sm d-flex align-items-center"><img src="/images/spot-2.jpg" alt="actors" class="img-fluid shadow rounded"></div>
+                <div class="col-sm d-flex align-items-center"><img src="/images/spot-3.jpg" alt="actors" class="img-fluid shadow rounded"></div>
+            </div>
         </div>
-{{--        <p class="text-center">--}}
-{{--            Summer Info coming end of Jan 2024--}}
-{{--            <br><br>--}}
-{{--            <a href="https://docs.google.com/document/d/1nT3Ge3RMpVZPeYLu3CjsZirPcCsffg_ryB70dAg-i-M/edit" target="_blank">Acting Spring 2024 Schedule</a>--}}
-{{--            <br><br>--}}
-{{--        </p>--}}
-        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
-            <div class="col-sm d-flex align-items-center"><img src="/images/spot-1.jpg" alt="actors" class="img-fluid shadow rounded"></div>
-            <div class="col-sm d-flex align-items-center"><img src="/images/spot-2.jpg" alt="actors" class="img-fluid shadow rounded"></div>
-            <div class="col-sm d-flex align-items-center"><img src="/images/spot-3.jpg" alt="actors" class="img-fluid shadow rounded"></div>
-        </div>
-{{--        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">--}}
-{{--            <div class="col-sm my-2"><img src="/images/23-spotlight-fall-c.jpg" alt="fall schedule" class="img-fluid shadow rounded"></div>--}}
-{{--        </div>--}}
     </div>
+    <script>
+        document.addEventListener("DOMContentLoaded", () => {
+            const observer = new MutationObserver(() => {
+                const table = document.querySelector("#JR_OpeningsTable");
+                if (!table) return;
+
+                const rows = Array.from(table.querySelectorAll("tbody tr"));
+
+                // Find the index of the "Class Starts" column
+                const headers = Array.from(table.querySelectorAll("thead th"));
+                const startDateIndex = headers.findIndex(th =>
+                    th.textContent.trim().toLowerCase().includes("class starts")
+                );
+
+                if (startDateIndex === -1) return;
+
+                // Sort rows by date (assuming MM/DD/YYYY format)
+                rows.sort((a, b) => {
+                    const dateA = new Date(a.cells[startDateIndex].textContent.trim());
+                    const dateB = new Date(b.cells[startDateIndex].textContent.trim());
+                    return dateA - dateB;
+                });
+
+                // Re-append sorted rows
+                const tbody = table.querySelector("tbody");
+                rows.forEach(row => tbody.appendChild(row));
+
+                observer.disconnect(); // Stop observing once sorted
+            });
+
+            observer.observe(document.body, { childList: true, subtree: true });
+        });
+    </script>
 
 @endsection
