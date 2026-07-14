@@ -295,7 +295,7 @@ ProducGons and the Women that soar awards show to name a few.</li>
 <li class='my-2'>   	Ensemble in The Prom with Lyric Theater of Oklahoma</li>
 <li class='my-2'>   	Justin Bieber Purpose Tour featured dancer in Los Angeles  </li>
 "/>
-                <x-instructor modal="gina" image="faculty-gina.JPG" name="Gina Marie Foxhoven" title="Dance Instructor" bio="
+                <x-instructor modal="gina" image="staff-gina-foxhoven.png" name="Gina Marie Foxhoven" title="Dance Instructor" bio="
 <li class='my-2'>Born & Raised in OKC</li>
 <li class='my-2'>BFA in Dance Performance and Business Administration Minor - Graduated Magna Cum Laude</li>
 <li class='my-2'>Looking forward to her 2nd year teaching at DU!</li>
@@ -333,7 +333,7 @@ ProducGons and the Women that soar awards show to name a few.</li>
 {{--<li class='my-2'>She looks forward to continuing to share her experience and love of ballet with all her students this year! </li>--}}
 
 {{--"/>--}}
-                <x-instructor modal="hannah-b" image="headshot-placeholder.jpg" name="Hannah Buchanan" title="Dance Instructor" bio="
+                <x-instructor modal="hannah-b" image="staff-hannah-buchannan.png" name="Hannah Buchanan" title="Dance Instructor" bio="
 <li class='my-2'>BBA in Management Information Systems and Accounting from the University of Oklahoma</li>
 <li class='my-2'>Looking forward to her 2nd year teaching Starlette Classes at DU!</li>
 <li class='my-2'>Over 10 years as a student at DU</li>
@@ -360,7 +360,7 @@ ProducGons and the Women that soar awards show to name a few.</li>
 "/>
 {{--                <x-instructor modal="nicole" image="faculty-nicole.jpg" name="nicole vaughn" title="Customer Care team & Dance Instructor" bio=""/>--}}
 {{--                <x-instructor modal="hannah-m" image="faculty-hannah.jpg" name="hannah malinoski" title="Customer Care team" bio=""/>--}}
-                <x-instructor modal="jane-k" image="headshot-placeholder.jpg" name="Jane Kingrey" title="Dance Insturctor" bio="
+                <x-instructor modal="jane-k" image="staff-jane-kingrey.png" name="Jane Kingrey" title="Dance Insturctor" bio="
 <li class='my-2'>       DU and Vibe alumni
 </li>
 <li class='my-2'>       Former member and choreographer for Edmond North Pom
@@ -373,7 +373,7 @@ ProducGons and the Women that soar awards show to name a few.</li>
 </li>
 "/>
 {{--                <x-instructor modal="destyni" image="faculty-destyni.jpg" name="Destyni Williams" title="Customer Care team" bio=""/>--}}
-                <x-instructor modal="haley" image="headshot-placeholder.jpg" name="Haley Kinnard" title="Private Voice Instructor, Acting Teacher" bio="
+                <x-instructor modal="haley" image="staff-haley-kinnard.png" name="Haley Kinnard" title="Private Voice Instructor, Acting Teacher" bio="
 <li class='my-2'>       Graduate of University of Central Oklahoma with a BM in Musical Theatre
 </li>
 <li class='my-2'>       Looking forward to starting her 4th year as a private voice teacher and her 7th year as a Director, Choreographer and Music Director of Children’s theatre productions
