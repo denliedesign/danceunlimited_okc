@@ -387,14 +387,14 @@ ProducGons and the Women that soar awards show to name a few.</li>
 <li class='my-2'>       Passionate about finding a balance between teaching and continuing her own career as a performer
 </li>
 "/>
-                <x-instructor modal="megan" image="/staff/MEGAN.jpg" name="Megan Murray" title="Dance Instructor" bio="
-<li class='my-2'>Megan began tap dancing at 8 years old under the directorship of Prof. Robert L. Reed. </li>
-<li class='my-2'>She has travelled all over the country learning from other tap master’s and performing in showcases in New York, Detroit, and St. Louis. </li>
-<li class='my-2'>She has performed the choreography of greats such as Jason Samuels-Smith, Gregg Russell, Cathie Nicholas (Nicholas Brothers), Bill Irwin, and won awards such as Most Innovative Tap Teacher and the Barebones Trailblazer Award.</li>
-<li class='my-2'>Megan grew up acting in film & television and playing music in addition to dance and graduated from Berklee College of Music with a degree in Interdisciplinary Music Studies.</li>
-<li class='my-2'>It is one of her many goals to keep intensive tap studies alive by teaching, choreographing and performing tap, and to honor the legacy of her late mentor, The Professor.</li>
+{{--                <x-instructor modal="megan" image="/staff/MEGAN.jpg" name="Megan Murray" title="Dance Instructor" bio="--}}
+{{--<li class='my-2'>Megan began tap dancing at 8 years old under the directorship of Prof. Robert L. Reed. </li>--}}
+{{--<li class='my-2'>She has travelled all over the country learning from other tap master’s and performing in showcases in New York, Detroit, and St. Louis. </li>--}}
+{{--<li class='my-2'>She has performed the choreography of greats such as Jason Samuels-Smith, Gregg Russell, Cathie Nicholas (Nicholas Brothers), Bill Irwin, and won awards such as Most Innovative Tap Teacher and the Barebones Trailblazer Award.</li>--}}
+{{--<li class='my-2'>Megan grew up acting in film & television and playing music in addition to dance and graduated from Berklee College of Music with a degree in Interdisciplinary Music Studies.</li>--}}
+{{--<li class='my-2'>It is one of her many goals to keep intensive tap studies alive by teaching, choreographing and performing tap, and to honor the legacy of her late mentor, The Professor.</li>--}}
 
-"/>
+{{--"/>--}}
                 <x-instructor modal="hannah-mil" image="/staff/HANNAH-MILNER.jpg" name="Hannah Milner" title="Dance Instructor" bio="
 <li class='my-2'>Degree in Bachelor of Science in American Dance Pedagogy from Oklahoma City University</li>
 <li class='my-2'>2 years as an administrative assistant at the Ann Lacy School of American Dance and Entertainment at OCU</li>
@@ -443,25 +443,25 @@ ProducGons and the Women that soar awards show to name a few.</li>
 {{--<li class='my-2'>Excited for my 6th year teaching, directing, choreographing, and inspiring! </li>--}}
 
 {{--"/>--}}
-                <x-instructor modal="morgan" image="/staff/MORGAN.jpg" name="Morgan Tillman" title="Dance Instructor / Teaching Assistant" bio="
+{{--                <x-instructor modal="morgan" image="/staff/MORGAN.jpg" name="Morgan Tillman" title="Dance Instructor / Teaching Assistant" bio="--}}
 
-<li class='my-2'>          	From Norman OK!
-</li>
-<li class='my-2'>          	Competitive dancer for 10 years
-</li>
-<li class='my-2'>  	Featured dancer in professional pop music video.
-</li>
-<li class='my-2'>  	Competitive Pom Team member and captain
-</li>
-<li class='my-2'>  	Strong dancer trained in commercial jazz, theater jazz,	tap, lyrical, contemporary, latin jazz, ballet, pointe, hip-hop and
-</li>
-<li class='my-2'>          	spent several years cultivating string leadership skills through dedicated study and hands on experience
-</li>
-<li class='my-2'>  	Licensed Cosmetologist, and mom to a little girl!
-</li>
-<li class='my-2'>          	I can’t wait to begin the year with everyone! I am dedicated to helping students build confidence, refine technique and discover their love for dance!
-</li>
-"/>
+{{--<li class='my-2'>          	From Norman OK!--}}
+{{--</li>--}}
+{{--<li class='my-2'>          	Competitive dancer for 10 years--}}
+{{--</li>--}}
+{{--<li class='my-2'>  	Featured dancer in professional pop music video.--}}
+{{--</li>--}}
+{{--<li class='my-2'>  	Competitive Pom Team member and captain--}}
+{{--</li>--}}
+{{--<li class='my-2'>  	Strong dancer trained in commercial jazz, theater jazz,	tap, lyrical, contemporary, latin jazz, ballet, pointe, hip-hop and--}}
+{{--</li>--}}
+{{--<li class='my-2'>          	spent several years cultivating string leadership skills through dedicated study and hands on experience--}}
+{{--</li>--}}
+{{--<li class='my-2'>  	Licensed Cosmetologist, and mom to a little girl!--}}
+{{--</li>--}}
+{{--<li class='my-2'>          	I can’t wait to begin the year with everyone! I am dedicated to helping students build confidence, refine technique and discover their love for dance!--}}
+{{--</li>--}}
+{{--"/>--}}
 {{--                <x-instructor modal="" image="headshot-placeholder.jpg" name="" title="" bio=""/>--}}
 
             </div>
