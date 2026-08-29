@@ -23,7 +23,7 @@
 
 
     <!-- Styles -->
-    <link rel="stylesheet" href="/css/style-snow.css">
+    <link rel="stylesheet" href="/css/style-snow.css?v={{ filemtime(public_path('css/style-snow.css')) }}">
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/gsap.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.9.1/ScrollTrigger.min.js"></script>
