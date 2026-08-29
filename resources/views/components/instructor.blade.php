@@ -1,16 +1,12 @@
-<div class="col-sm">
-    <div class="d-flex justify-content-center">
-        <div type="button" data-bs-toggle="modal" data-bs-target="#{{ $modal }}Modal">
-            <img src="/images/{{ $image }}" alt="headshot" class="shadow rounded"
-                 style="height: 350px; width: 100%; object-fit: cover;">
-
-        </div>
-    </div>
-    <div class="text-center mt-2">
+<div class="col">
+    <div class="faculty-card h-100 text-center">
+        <button type="button" class="faculty-card-button" data-bs-toggle="modal" data-bs-target="#{{ $modal }}Modal">
+            <img src="/images/{{ $image }}" alt="{{ $name }} headshot" class="faculty-headshot shadow">
+        </button>
+        <div class="faculty-card-copy">
             <h2><strong>{{ $name }}</strong></h2>
-        <p>
-            {{ $title }}
-        </p>
+            <p>{{ $title }}</p>
+        </div>
     </div>
 </div>
 
@@ -22,7 +18,7 @@
                 <h5 class="modal-title"> {{$name}}</h5>
                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
-            <div class="modal-body text-dark">
+            <div class="modal-body text-dark faculty-bio">
                 {!! $bio !!}
             </div>
             <div class="modal-footer">
